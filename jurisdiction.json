@@ -1,0 +1,9 @@
+{
+  "path": "us-la",
+  "code": "LA",
+  "name": "Louisiana",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-louisiana-law",
+  "build": "built: Constitution of Louisiana, Revised Statutes Titles 12 and 14 and Civil Code Book II (arts. 448-818), current text only (one version each)",
+  "register_date": "2026-10-30"
+}

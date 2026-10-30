@@ -1,0 +1,61 @@
+{
+ "country": "US-LA",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "La. Const.",
+   "title": "Constitution of Louisiana (1974)",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=72&level=Parent",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 337,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=72&level=Parent",
+     "sha256": "2ed40b67d584f9d560c7076c55553dff9d2eadff06789458f31e91a4730fb142"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-12-corporations-and-associations",
+   "short": "La. R.S. 12",
+   "title": "Louisiana Revised Statutes, Title 12: Corporations and Associations",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 924,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "f5e4172975c860cd4f3a40d43a337d0fa002b4d93ea17d262a5de348e55674d5"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-14-criminal-law",
+   "short": "La. R.S. 14",
+   "title": "Louisiana Revised Statutes, Title 14: Criminal Law",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 730,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "5aeb405532a11c67db45147e8bb0ae6786965ad24c442981696f986bb2338350"
+    }
+   ]
+  },
+  {
+   "slug": "civil-code-book-2-things",
+   "short": "La. C.C. 448-818",
+   "title": "Louisiana Civil Code, Book II: Things and the Different Modifications of Ownership (arts. 448-818)",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=67&level=Parent",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 377,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=67&level=Parent",
+     "sha256": "00e91df61d2df1f64abcf29202d32b27912b4c09b8de41cc961fb207652da71b"
+    }
+   ]
+  }
+ ]
+}
