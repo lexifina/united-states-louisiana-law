@@ -15,9 +15,12 @@ The statute law of Louisiana as a git repository: one file per section, committe
 | `civil-code-book-2-things/` | Louisiana Civil Code, Book II: Things and the Different Modifications of Ownership (arts. 448-818) (377 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 30 October 2026 |
 | `civil-code-book-3-acquiring-things/` | Louisiana Civil Code, Book III: Of the Different Modes of Acquiring the Ownership of Things (arts. 870-3514, 3550-3556) (1859 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `civil-code-book-4-conflict-of-laws/` | Louisiana Civil Code, Book IV: Conflict of Laws (arts. 3515-3549) (35 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `childrens-code/` | Louisiana Children's Code (1212 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `code-of-civil-procedure/` | Louisiana Code of Civil Procedure (1259 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `code-of-criminal-procedure/` | Louisiana Code of Criminal Procedure (794 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `code-of-evidence/` | Louisiana Code of Evidence (106 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-1-general-provisions/` | Louisiana Revised Statutes, Title 1: General Provisions (43 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-2-aeronautics/` | Louisiana Revised Statutes, Title 2: Aeronautics (188 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-12-corporations-and-associations/` | Louisiana Revised Statutes, Title 12: Corporations and Associations (924 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 30 October 2026 |
 | `rs-title-14-criminal-law/` | Louisiana Revised Statutes, Title 14: Criminal Law (730 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 30 October 2026 |
 

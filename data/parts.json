@@ -55,6 +55,24 @@
     "code-of-evidence"
    ],
    "sha256": "701945b7bc7b9b3bee94b9405d04372a76e9611174b5b132f6ded823ccfaed7f"
+  },
+  "w4-chc.json": {
+   "acts": [
+    "childrens-code"
+   ],
+   "sha256": "062fdb9f4432672a45af1df819ba0a879eb269ff07bc115e3e7c4febce9eb6e1"
+  },
+  "w4-rs-01.json": {
+   "acts": [
+    "rs-title-1-general-provisions"
+   ],
+   "sha256": "133332a6a77a052991d369d89e8ab4b7e2c086e49138473a95118014c8200701"
+  },
+  "w4-rs-02.json": {
+   "acts": [
+    "rs-title-2-aeronautics"
+   ],
+   "sha256": "6564e423fc5b9129cd53217169d81405a34e14d58c22a150f0d74bba58412764"
   }
  },
  "schema": 1

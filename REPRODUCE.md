@@ -27,12 +27,15 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `code-of-civil-procedure` | Louisiana Code of Civil Procedure | 1 | 2026-11-10 to 2026-11-10 |
 | `code-of-criminal-procedure` | Louisiana Code of Criminal Procedure | 1 | 2026-11-10 to 2026-11-10 |
 | `code-of-evidence` | Louisiana Code of Evidence | 1 | 2026-11-10 to 2026-11-10 |
+| `childrens-code` | Louisiana Children's Code | 1 | 2026-11-10 to 2026-11-10 |
+| `rs-title-1-general-provisions` | Louisiana Revised Statutes, Title 1: General Provisions | 1 | 2026-11-10 to 2026-11-10 |
+| `rs-title-2-aeronautics` | Louisiana Revised Statutes, Title 2: Aeronautics | 1 | 2026-11-10 to 2026-11-10 |
 
-The build made 12 commits:
+The build made 15 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 12 | first version of an act |
+| 15 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -40,7 +43,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 12 tags.
+- 15 tags.
 
 ## Dates
 
@@ -52,7 +55,7 @@ When a law gives no date of its own, the default rule applies: La. R.S. 24:4: an
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `60355c27cc8de30c068f943ade94e5baf5e7362a384f4522a4f87be0223f3cb4` (7386408 bytes).
+- Corpus: sha256 `96b518510e07d4d40e0ce443cf3df6675d1300a5a39c1dc4cb839f2dfd54c713` (9414734 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

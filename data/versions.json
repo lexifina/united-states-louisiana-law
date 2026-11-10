@@ -168,6 +168,48 @@
      "sha256": "be9b8c0b377d577648e50b19274b629d4660206c7467940d174fb3e7d6e79d8e"
     }
    ]
+  },
+  {
+   "slug": "childrens-code",
+   "short": "La. Ch.C.",
+   "title": "Louisiana Children's Code",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=71&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 1212,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=71&level=Parent",
+     "sha256": "f150d1d36ca746cc2a96f344a8ca76e21b9eb60e5ff2b7a8b21b3339101ac2d6"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-1-general-provisions",
+   "short": "La. R.S. 1",
+   "title": "Louisiana Revised Statutes, Title 1: General Provisions",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 43,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "eef4d09a000630e0be1c62e8f69f86f9c9f722e4acabfe3b91fa4ca834b6b752"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-2-aeronautics",
+   "short": "La. R.S. 2",
+   "title": "Louisiana Revised Statutes, Title 2: Aeronautics",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 188,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "ea4db8174101458751714cafc004d2f21ef3e19aa07f9b13f8056e2a16361467"
+    }
+   ]
   }
  ]
 }
