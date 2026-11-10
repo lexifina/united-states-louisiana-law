@@ -728,6 +728,34 @@
      "sha256": "f98f5db841883adfd83f5c20fef94ca86d8e220d84e854f777188f8cf8ecefb1"
     }
    ]
+  },
+  {
+   "slug": "rs-title-45-public-utilities-and-carriers",
+   "short": "La. R.S. 45",
+   "title": "Louisiana Revised Statutes, Title 45: Public Utilities and Carriers",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 554,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "bc0e66620441f8ee2cafa7389a71e869cddb77d03d638491ab4f17acf3c71af7"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-46-public-welfare-and-assistance",
+   "short": "La. R.S. 46",
+   "title": "Louisiana Revised Statutes, Title 46: Public Welfare and Assistance",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 1237,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "284efbb9b3928aaf3e81da7e5c55e02d281dd6efa4101bc9419f1add62b56873"
+    }
+   ]
   }
  ]
 }

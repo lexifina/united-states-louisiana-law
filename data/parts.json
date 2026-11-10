@@ -295,6 +295,18 @@
     "rs-title-44-public-records-and-recorders"
    ],
    "sha256": "3073577ca2ea719488c6aa66b7e2e0a7c2aba145b6e299ac51c2023cb23ae750"
+  },
+  "w4-rs-45.json": {
+   "acts": [
+    "rs-title-45-public-utilities-and-carriers"
+   ],
+   "sha256": "1710431ccfc2a6909cb0d8bfe42791f6367e8a87152090ebd68b567346109a23"
+  },
+  "w4-rs-46.json": {
+   "acts": [
+    "rs-title-46-public-welfare-and-assistance"
+   ],
+   "sha256": "4ac1967b1271bf49abadff68bb538a597af059714ce3a4705a7856fc1799227a"
   }
  },
  "schema": 1

@@ -60,6 +60,8 @@ The statute law of Louisiana as a git repository: one file per section, committe
 | `rs-title-42-public-officers-and-employees/` | Louisiana Revised Statutes, Title 42: Public Officers and Employees (464 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-43-public-printing-and-advertisements/` | Louisiana Revised Statutes, Title 43: Public Printing and Advertisements (81 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-44-public-records-and-recorders/` | Louisiana Revised Statutes, Title 44: Public Records and Recorders (209 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-45-public-utilities-and-carriers/` | Louisiana Revised Statutes, Title 45: Public Utilities and Carriers (554 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-46-public-welfare-and-assistance/` | Louisiana Revised Statutes, Title 46: Public Welfare and Assistance (1237 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 
 Titles and codes not listed are not in it yet.
 
