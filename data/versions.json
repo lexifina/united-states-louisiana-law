@@ -630,6 +630,34 @@
      "sha256": "305cc4fa8d7ee3eb0331befaa8eaafb9490b106bff7447fb064d81384dd264d7"
     }
    ]
+  },
+  {
+   "slug": "rs-title-37-professions-and-occupations",
+   "short": "La. R.S. 37",
+   "title": "Louisiana Revised Statutes, Title 37: Professions and Occupations",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 2014,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "4430b6adeb8c3f52e7bcbde1639cd8f16459920e28e3868e0472951c5bdb609c"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-38-public-contracts-works-and-improvements",
+   "short": "La. R.S. 38",
+   "title": "Louisiana Revised Statutes, Title 38: Public Contracts, Works and Improvements",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 1355,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "705c011bf00f8ffe0fe02628b757d891a40c00d10f5c8c76c0459f0630ad7fa4"
+    }
+   ]
   }
  ]
 }

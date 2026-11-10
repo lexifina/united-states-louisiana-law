@@ -53,6 +53,8 @@ The statute law of Louisiana as a git repository: one file per section, committe
 | `rs-title-34-navigation-and-shipping/` | Louisiana Revised Statutes, Title 34: Navigation and Shipping (901 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-35-notaries-public-and-commissioners/` | Louisiana Revised Statutes, Title 35: Notaries Public and Commissioners (129 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-36-organization-of-the-executive-branch/` | Louisiana Revised Statutes, Title 36: Organization of the Executive Branch (350 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-37-professions-and-occupations/` | Louisiana Revised Statutes, Title 37: Professions and Occupations (2014 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-38-public-contracts-works-and-improvements/` | Louisiana Revised Statutes, Title 38: Public Contracts, Works and Improvements (1355 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 
 Titles and codes not listed are not in it yet.
 

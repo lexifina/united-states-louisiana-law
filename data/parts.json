@@ -253,6 +253,18 @@
     "rs-title-36-organization-of-the-executive-branch"
    ],
    "sha256": "86771e207edaca3128940584f8a8f66165647e7ea519f64ca82b951b0f32182c"
+  },
+  "w4-rs-37.json": {
+   "acts": [
+    "rs-title-37-professions-and-occupations"
+   ],
+   "sha256": "f27b507622b50e1751e5fc6d78bcfb015a766fb411abd0c7f30a8cf10dcb9104"
+  },
+  "w4-rs-38.json": {
+   "acts": [
+    "rs-title-38-public-contracts-works-and-improvements"
+   ],
+   "sha256": "6656b89eff30c253b595aaca2aed8acceffb0a8aa7569376daced2951a225d7a"
   }
  },
  "schema": 1

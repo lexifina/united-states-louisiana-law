@@ -60,12 +60,14 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `rs-title-34-navigation-and-shipping` | Louisiana Revised Statutes, Title 34: Navigation and Shipping | 1 | 2026-11-10 to 2026-11-10 |
 | `rs-title-35-notaries-public-and-commissioners` | Louisiana Revised Statutes, Title 35: Notaries Public and Commissioners | 1 | 2026-11-10 to 2026-11-10 |
 | `rs-title-36-organization-of-the-executive-branch` | Louisiana Revised Statutes, Title 36: Organization of the Executive Branch | 1 | 2026-11-10 to 2026-11-10 |
+| `rs-title-37-professions-and-occupations` | Louisiana Revised Statutes, Title 37: Professions and Occupations | 1 | 2026-11-10 to 2026-11-10 |
+| `rs-title-38-public-contracts-works-and-improvements` | Louisiana Revised Statutes, Title 38: Public Contracts, Works and Improvements | 1 | 2026-11-10 to 2026-11-10 |
 
-The build made 45 commits:
+The build made 47 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 45 | first version of an act |
+| 47 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -73,7 +75,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 45 tags.
+- 47 tags.
 
 ## Dates
 
@@ -85,7 +87,7 @@ When a law gives no date of its own, the default rule applies: La. R.S. 24:4: an
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b000454ec30406346e6c9c221536b81a00414f55bb1ea455b40ddf83036f4079` (60861441 bytes).
+- Corpus: sha256 `65e0670a22d2d75250f2378aea712d623ee515d46350c104cc118a473023671e` (67074499 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
