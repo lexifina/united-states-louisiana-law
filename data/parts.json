@@ -115,6 +115,24 @@
     "rs-title-11-consolidated-public-retirement"
    ],
    "sha256": "d0dac806449aa00b13a62160876cd8e2a471e68e3121938930fee42644afde8e"
+  },
+  "w4-rs-13.json": {
+   "acts": [
+    "rs-title-13-courts-and-judicial-procedure"
+   ],
+   "sha256": "38bf447ae5fe6c36c234b4a05079617f7dcb7baf3877c46f411b8b874eb7a03a"
+  },
+  "w4-rs-15.json": {
+   "acts": [
+    "rs-title-15-criminal-procedure"
+   ],
+   "sha256": "6f4fde447da8acba95fed7b1b14f41929fbff8fcb1d0d2a701bf83bcf0373745"
+  },
+  "w4-rs-16.json": {
+   "acts": [
+    "rs-title-16-district-attorneys"
+   ],
+   "sha256": "22652b923884cd5122601f441d15c53799b52a3b6f47d2bb2e8890df59ce52f4"
   }
  },
  "schema": 1

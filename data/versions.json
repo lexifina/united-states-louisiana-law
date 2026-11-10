@@ -308,6 +308,48 @@
      "sha256": "600a070e9d27c499b79367317dcae8878bd6db38d8185131775d270b4f938deb"
     }
    ]
+  },
+  {
+   "slug": "rs-title-13-courts-and-judicial-procedure",
+   "short": "La. R.S. 13",
+   "title": "Louisiana Revised Statutes, Title 13: Courts and Judicial Procedure",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 2054,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "62e4b17314452834c833bd8dad484c07559fe3a257ec1e7541490698c2d69016"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-15-criminal-procedure",
+   "short": "La. R.S. 15",
+   "title": "Louisiana Revised Statutes, Title 15: Criminal Procedure",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 1061,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "45413c48ec951f02212b55585f8a569bb222c3096ab6851b5ab232fe3faf74f7"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-16-district-attorneys",
+   "short": "La. R.S. 16",
+   "title": "Louisiana Revised Statutes, Title 16: District Attorneys",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 274,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "b599efb818081e31c14f3264aadf9108c3445b7e96c849b76fa3086d86fff0b3"
+    }
+   ]
   }
  ]
 }

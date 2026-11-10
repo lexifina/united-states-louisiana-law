@@ -29,7 +29,10 @@ The statute law of Louisiana as a git repository: one file per section, committe
 | `rs-title-10-commercial-laws/` | Louisiana Revised Statutes, Title 10: Commercial Laws (458 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-11-consolidated-public-retirement/` | Louisiana Revised Statutes, Title 11: Consolidated Public Retirement (1796 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-12-corporations-and-associations/` | Louisiana Revised Statutes, Title 12: Corporations and Associations (924 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 30 October 2026 |
+| `rs-title-13-courts-and-judicial-procedure/` | Louisiana Revised Statutes, Title 13: Courts and Judicial Procedure (2054 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-14-criminal-law/` | Louisiana Revised Statutes, Title 14: Criminal Law (730 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 30 October 2026 |
+| `rs-title-15-criminal-procedure/` | Louisiana Revised Statutes, Title 15: Criminal Procedure (1061 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-16-district-attorneys/` | Louisiana Revised Statutes, Title 16: District Attorneys (274 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 
 Titles and codes not listed are not in it yet.
 
