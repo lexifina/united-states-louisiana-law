@@ -1,0 +1,43 @@
+{
+ "parts": {
+  "w4-000-notes.json": {
+   "acts": [],
+   "sha256": "7ef949338fef2a8b03e16f2ac8fb347c3f2077f39af45ed2d6928f1cf4c5f2d1"
+  },
+  "w4-001-notes.json": {
+   "acts": [],
+   "sha256": "e681fe2cc2a7a811b55a67a1029e910da0620ab529ffdd9129e174e8f4120ee6"
+  },
+  "w4-ca.json": {
+   "acts": [
+    "constitution-ancillaries"
+   ],
+   "sha256": "103db47f5a521f32f3cc97e073866467ffb10e6b1c7a2328bbdf461bdb7b9a0f"
+  },
+  "w4-cc-0.json": {
+   "acts": [
+    "civil-code-preliminary-title"
+   ],
+   "sha256": "1d650339346c62dcd36e86cf09cc82888a4272d8684b88459368004691a3ff3c"
+  },
+  "w4-cc-1.json": {
+   "acts": [
+    "civil-code-book-1-persons"
+   ],
+   "sha256": "a60e0bf461a10e22e22da12cc0097469bf2355ba876fe13590755d3e0479c8cd"
+  },
+  "w4-cc-3.json": {
+   "acts": [
+    "civil-code-book-3-acquiring-things"
+   ],
+   "sha256": "08627a4bc4f55ef59cedd1af6d927bbb18aad3fd9f90a7288a889df8dda7719d"
+  },
+  "w4-cc-4.json": {
+   "acts": [
+    "civil-code-book-4-conflict-of-laws"
+   ],
+   "sha256": "2fab444e89cc7bfd2c1f0fc5dc65ad4297cc5cf91fb2c6ad68af32b0dbd01e58"
+  }
+ },
+ "schema": 1
+}

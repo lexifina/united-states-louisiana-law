@@ -56,6 +56,76 @@
      "sha256": "00e91df61d2df1f64abcf29202d32b27912b4c09b8de41cc961fb207652da71b"
     }
    ]
+  },
+  {
+   "slug": "constitution-ancillaries",
+   "short": "La. Const. Anc.",
+   "title": "Louisiana Constitution Ancillaries",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=66&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 54,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=66&level=Parent",
+     "sha256": "435d6c08cf4e8babc4278bfa683173f90a9114aea683b89f66b3bf3e3b71b13d"
+    }
+   ]
+  },
+  {
+   "slug": "civil-code-preliminary-title",
+   "short": "La. C.C. 1-23",
+   "title": "Louisiana Civil Code, Preliminary Title (arts. 1-23)",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=67&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 15,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=67&level=Parent",
+     "sha256": "cd9fc7a13dbf1f6aecb4f6ad32c53af295e4e84943f7a2af21400976191d2f74"
+    }
+   ]
+  },
+  {
+   "slug": "civil-code-book-1-persons",
+   "short": "La. C.C. 24-447",
+   "title": "Louisiana Civil Code, Book I: Of Persons (arts. 24-447)",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=67&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 228,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=67&level=Parent",
+     "sha256": "19cacd9535234cb1fc9109f0011554a59c4115fb1407cd8c73debe17a8b3ec71"
+    }
+   ]
+  },
+  {
+   "slug": "civil-code-book-3-acquiring-things",
+   "short": "La. C.C. 870-3514, 3550-3556",
+   "title": "Louisiana Civil Code, Book III: Of the Different Modes of Acquiring the Ownership of Things (arts. 870-3514, 3550-3556)",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=67&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 1859,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=67&level=Parent",
+     "sha256": "4ad9fd76d398b1e0b969c16e716f92252f876fd71bae546285cf1698b3896cd6"
+    }
+   ]
+  },
+  {
+   "slug": "civil-code-book-4-conflict-of-laws",
+   "short": "La. C.C. 3515-3549",
+   "title": "Louisiana Civil Code, Book IV: Conflict of Laws (arts. 3515-3549)",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=67&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 35,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=67&level=Parent",
+     "sha256": "95e7314b6ffaa47f70a99fb6c209e51ca58bbc9941c7252dbdd94faca0f3380e"
+    }
+   ]
   }
  ]
 }

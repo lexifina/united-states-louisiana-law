@@ -4,31 +4,37 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 The statute law of Louisiana as a git repository: one file per section, committed with the official publisher named as author. It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
 
-**What is in it now (a first build, not complete)**
+**What is in it now**
 
 | Folder | Act | Versions | History |
 | --- | --- | ---: | --- |
 | `constitution/` | Constitution of Louisiana (1974) (337 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 30 October 2026 |
+| `constitution-ancillaries/` | Louisiana Constitution Ancillaries (54 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `civil-code-preliminary-title/` | Louisiana Civil Code, Preliminary Title (arts. 1-23) (15 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `civil-code-book-1-persons/` | Louisiana Civil Code, Book I: Of Persons (arts. 24-447) (228 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `civil-code-book-2-things/` | Louisiana Civil Code, Book II: Things and the Different Modifications of Ownership (arts. 448-818) (377 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 30 October 2026 |
+| `civil-code-book-3-acquiring-things/` | Louisiana Civil Code, Book III: Of the Different Modes of Acquiring the Ownership of Things (arts. 870-3514, 3550-3556) (1859 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `civil-code-book-4-conflict-of-laws/` | Louisiana Civil Code, Book IV: Conflict of Laws (arts. 3515-3549) (35 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-12-corporations-and-associations/` | Louisiana Revised Statutes, Title 12: Corporations and Associations (924 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 30 October 2026 |
 | `rs-title-14-criminal-law/` | Louisiana Revised Statutes, Title 14: Criminal Law (730 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 30 October 2026 |
-| `civil-code-book-2-things/` | Louisiana Civil Code, Book II: Things and the Different Modifications of Ownership (arts. 448-818) (377 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 30 October 2026 |
 
-Nothing else of Louisiana's law is in it yet.
+Titles and codes not listed are not in it yet.
 
 ## Where the text comes from
 
-The text is read from **Louisiana Laws** on <https://legis.la.gov/>, published by the **Louisiana State Legislature**. The Legislature notes that the provisions are provided for information and are not official or authoritative; this repository carries them as published there. Each section keeps its text and the Act citations that close it. Annotations are not taken.
+The text is read from **Louisiana Laws** on <https://legis.la.gov/>, published by the **Louisiana State Legislature**. Tables of contents are the site's own form postbacks; each section is one GET of its `Law.aspx?d=` page, one request at a time and at most two a second. The Legislature notes that the provisions are provided for information and are not official or authoritative; this repository carries them as published there. Each section keeps its text and the Act citations that close it. Annotations are not taken. The House, Senate and Joint Rules, which the same site publishes, are chamber rules and are not taken.
 
 ## Dates
 
-- Each act has **one version**, dated 29 October 2026, the last full day before the pages were retrieved on 30 October 2026 (the site prints no edition date, and no commit is dated ahead of the build). It is the oldest version available: the Legislature publishes the current text only.
+- Each act has **one version**: the first build's four acts are dated 29 October 2026, the last full day before their pages were retrieved on 30 October 2026; every later act is dated the day its pages were retrieved (November 2026). The site prints no edition date. It is the oldest version available: the Legislature publishes the current text only.
 - The first commit of each act is credited to the Louisiana State Legislature as "oldest version available".
 - The Act citations in each section are part of the text, not the commit dates.
 
 ## What it does not show
 
 - Any amendment history: past versions are not online.
-- The rest of the Revised Statutes, the other Civil Code books, the procedure codes, the Children's Code and regulations.
+- Any title or code whose pages are not yet all retrieved (see the table above for what is in).
+- Regulations (the Louisiana Administrative Code) and the chamber rules.
 - Nothing here is an official publication.
 
 ## How it is checked
@@ -38,4 +44,4 @@ The text is read from **Louisiana Laws** on <https://legis.la.gov/>, published b
 
 ## What "author" means
 
-Each commit is authored by the publisher (the Louisiana State Legislature) because this first build holds one version of each act, the oldest version available. The committer is always Lexifina.
+Each commit is authored by the publisher (the Louisiana State Legislature) because the repository holds one version of each act, the oldest version available. The committer is always Lexifina.
