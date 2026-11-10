@@ -163,6 +163,12 @@
     "rs-title-21-hotels-and-lodging-houses"
    ],
    "sha256": "709bc345ee49648169419632dc705575f957d3c3692e73cc57b9bc117e880e86"
+  },
+  "w4-rs-22.json": {
+   "acts": [
+    "rs-title-22-insurance"
+   ],
+   "sha256": "8124cc8d64fc6b0104a5e7878515f76d9ebb057819bdeb162bdd8aea213d8a8c"
   }
  },
  "schema": 1

@@ -38,6 +38,7 @@ The statute law of Louisiana as a git repository: one file per section, committe
 | `rs-title-19-expropriation/` | Louisiana Revised Statutes, Title 19: Expropriation (217 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-20-homesteads-and-exemptions/` | Louisiana Revised Statutes, Title 20: Homesteads and Exemptions (5 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-21-hotels-and-lodging-houses/` | Louisiana Revised Statutes, Title 21: Hotels and Lodging Houses (32 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-22-insurance/` | Louisiana Revised Statutes, Title 22: Insurance (2651 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 
 Titles and codes not listed are not in it yet.
 

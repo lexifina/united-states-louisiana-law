@@ -420,6 +420,20 @@
      "sha256": "daf75eba8f16d3fe40563fc115ea316d7def41712d9f81d786707cf8099cb63d"
     }
    ]
+  },
+  {
+   "slug": "rs-title-22-insurance",
+   "short": "La. R.S. 22",
+   "title": "Louisiana Revised Statutes, Title 22: Insurance",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 2651,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "2f96850feca8d6eeffd04425b0431ffd5d098303e4cd5b6fd2ee24e414c1817d"
+    }
+   ]
   }
  ]
 }
