@@ -364,6 +364,62 @@
      "sha256": "2d74eee7f1361ef7e1d90b1553a913afb00ed7eb740672a2ae4180f5e22fb21b"
     }
    ]
+  },
+  {
+   "slug": "rs-title-18-louisiana-election-code",
+   "short": "La. R.S. 18",
+   "title": "Louisiana Revised Statutes, Title 18: Louisiana Election Code",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 591,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "c9d6625c556daa4279e88e3795710e75a42850ec95fee749e1178c8af88f822a"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-19-expropriation",
+   "short": "La. R.S. 19",
+   "title": "Louisiana Revised Statutes, Title 19: Expropriation",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 217,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "a3c142fb47d4bc6070193b1e30911889cdaa1661a93c701e09d9ec8f1401fa57"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-20-homesteads-and-exemptions",
+   "short": "La. R.S. 20",
+   "title": "Louisiana Revised Statutes, Title 20: Homesteads and Exemptions",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 5,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "baaf73a16c046df0461b10544cb8475ceee1ca2d9ced18b40de64eea815ded50"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-21-hotels-and-lodging-houses",
+   "short": "La. R.S. 21",
+   "title": "Louisiana Revised Statutes, Title 21: Hotels and Lodging Houses",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 32,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "daf75eba8f16d3fe40563fc115ea316d7def41712d9f81d786707cf8099cb63d"
+    }
+   ]
   }
  ]
 }

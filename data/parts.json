@@ -139,6 +139,30 @@
     "rs-title-17-education"
    ],
    "sha256": "d86fc430ff42a2d6d9ff2fbba457c94c2a877ad4f0adcfc00cafaa69baa6e0c9"
+  },
+  "w4-rs-18.json": {
+   "acts": [
+    "rs-title-18-louisiana-election-code"
+   ],
+   "sha256": "6ba7e104927a10e51eb52e1e3a549b72ebf904b62996ed4b8cde7321625bc769"
+  },
+  "w4-rs-19.json": {
+   "acts": [
+    "rs-title-19-expropriation"
+   ],
+   "sha256": "3ad8eed182ffabdd334709f695e0e8bde4235c3711bf522e81beb6ebd74c8255"
+  },
+  "w4-rs-20.json": {
+   "acts": [
+    "rs-title-20-homesteads-and-exemptions"
+   ],
+   "sha256": "9137ff379449ee100d7c4c11f4311be0b1dadd455a4961d84e5a40194525726c"
+  },
+  "w4-rs-21.json": {
+   "acts": [
+    "rs-title-21-hotels-and-lodging-houses"
+   ],
+   "sha256": "709bc345ee49648169419632dc705575f957d3c3692e73cc57b9bc117e880e86"
   }
  },
  "schema": 1
