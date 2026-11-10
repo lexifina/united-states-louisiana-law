@@ -40,12 +40,13 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `rs-title-13-courts-and-judicial-procedure` | Louisiana Revised Statutes, Title 13: Courts and Judicial Procedure | 1 | 2026-11-10 to 2026-11-10 |
 | `rs-title-15-criminal-procedure` | Louisiana Revised Statutes, Title 15: Criminal Procedure | 1 | 2026-11-10 to 2026-11-10 |
 | `rs-title-16-district-attorneys` | Louisiana Revised Statutes, Title 16: District Attorneys | 1 | 2026-11-10 to 2026-11-10 |
+| `rs-title-17-education` | Louisiana Revised Statutes, Title 17: Education | 1 | 2026-11-10 to 2026-11-10 |
 
-The build made 25 commits:
+The build made 26 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 25 | first version of an act |
+| 26 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -53,7 +54,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 25 tags.
+- 26 tags.
 
 ## Dates
 
@@ -65,7 +66,7 @@ When a law gives no date of its own, the default rule applies: La. R.S. 24:4: an
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `17c702de585331b8b3f1d93bb3966b99120030737181797fc88c37f4de49c503` (27364953 bytes).
+- Corpus: sha256 `85dc67f73e108bfea1d63a7a25528dc696e391d6a5293ca40a521bec66460e45` (32211147 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

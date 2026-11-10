@@ -33,6 +33,7 @@ The statute law of Louisiana as a git repository: one file per section, committe
 | `rs-title-14-criminal-law/` | Louisiana Revised Statutes, Title 14: Criminal Law (730 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 30 October 2026 |
 | `rs-title-15-criminal-procedure/` | Louisiana Revised Statutes, Title 15: Criminal Procedure (1061 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-16-district-attorneys/` | Louisiana Revised Statutes, Title 16: District Attorneys (274 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-17-education/` | Louisiana Revised Statutes, Title 17: Education (2247 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 
 Titles and codes not listed are not in it yet.
 

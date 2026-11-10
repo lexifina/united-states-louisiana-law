@@ -133,6 +133,12 @@
     "rs-title-16-district-attorneys"
    ],
    "sha256": "22652b923884cd5122601f441d15c53799b52a3b6f47d2bb2e8890df59ce52f4"
+  },
+  "w4-rs-17.json": {
+   "acts": [
+    "rs-title-17-education"
+   ],
+   "sha256": "d86fc430ff42a2d6d9ff2fbba457c94c2a877ad4f0adcfc00cafaa69baa6e0c9"
   }
  },
  "schema": 1

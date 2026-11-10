@@ -350,6 +350,20 @@
      "sha256": "b599efb818081e31c14f3264aadf9108c3445b7e96c849b76fa3086d86fff0b3"
     }
    ]
+  },
+  {
+   "slug": "rs-title-17-education",
+   "short": "La. R.S. 17",
+   "title": "Louisiana Revised Statutes, Title 17: Education",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 2247,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "2d74eee7f1361ef7e1d90b1553a913afb00ed7eb740672a2ae4180f5e22fb21b"
+    }
+   ]
   }
  ]
 }
