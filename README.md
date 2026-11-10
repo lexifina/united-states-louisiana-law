@@ -62,6 +62,10 @@ The statute law of Louisiana as a git repository: one file per section, committe
 | `rs-title-44-public-records-and-recorders/` | Louisiana Revised Statutes, Title 44: Public Records and Recorders (209 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-45-public-utilities-and-carriers/` | Louisiana Revised Statutes, Title 45: Public Utilities and Carriers (554 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-46-public-welfare-and-assistance/` | Louisiana Revised Statutes, Title 46: Public Welfare and Assistance (1237 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-47-revenue-and-taxation/` | Louisiana Revised Statutes, Title 47: Revenue and Taxation (2663 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-48-roads-bridges-and-ferries/` | Louisiana Revised Statutes, Title 48: Roads, Bridges and Ferries (927 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-49-state-administration/` | Louisiana Revised Statutes, Title 49: State Administration (598 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-50-surveys-and-surveyors/` | Louisiana Revised Statutes, Title 50: Surveys and Surveyors (44 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 
 Titles and codes not listed are not in it yet.
 

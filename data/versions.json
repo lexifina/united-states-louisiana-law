@@ -756,6 +756,62 @@
      "sha256": "284efbb9b3928aaf3e81da7e5c55e02d281dd6efa4101bc9419f1add62b56873"
     }
    ]
+  },
+  {
+   "slug": "rs-title-47-revenue-and-taxation",
+   "short": "La. R.S. 47",
+   "title": "Louisiana Revised Statutes, Title 47: Revenue and Taxation",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 2663,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "2cd03aa581c8ab0da76ca435bfbb75b15f958cf4810d40c6641caee68d92ddbe"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-48-roads-bridges-and-ferries",
+   "short": "La. R.S. 48",
+   "title": "Louisiana Revised Statutes, Title 48: Roads, Bridges and Ferries",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 927,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "28556072a7ec01bfd63ccee2f16b30bff697d7085c35ae57ab42305c2e4275ae"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-49-state-administration",
+   "short": "La. R.S. 49",
+   "title": "Louisiana Revised Statutes, Title 49: State Administration",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 598,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "2cd3c14d177ec7152b2ad7ad3c10d63791ceacc0dad266d3523b5c771412a9e7"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-50-surveys-and-surveyors",
+   "short": "La. R.S. 50",
+   "title": "Louisiana Revised Statutes, Title 50: Surveys and Surveyors",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 44,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "56bd956df2a2bd90e18c7053652efe9da67a953788a3b973117467f8a99f6ff4"
+    }
+   ]
   }
  ]
 }

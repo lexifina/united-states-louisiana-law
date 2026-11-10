@@ -307,6 +307,30 @@
     "rs-title-46-public-welfare-and-assistance"
    ],
    "sha256": "4ac1967b1271bf49abadff68bb538a597af059714ce3a4705a7856fc1799227a"
+  },
+  "w4-rs-47.json": {
+   "acts": [
+    "rs-title-47-revenue-and-taxation"
+   ],
+   "sha256": "a64b6b5d7e68b2317d74469beef04ec9364664c3e42f369556510d2664651220"
+  },
+  "w4-rs-48.json": {
+   "acts": [
+    "rs-title-48-roads-bridges-and-ferries"
+   ],
+   "sha256": "fc099fe845f3ac62395c0d18c66784413f6565daf389129931b8be75cdca5d0a"
+  },
+  "w4-rs-49.json": {
+   "acts": [
+    "rs-title-49-state-administration"
+   ],
+   "sha256": "d9ecafbabbee9cf00a5f34599ff460cb3ccd3cac3206498385e64c61507a718a"
+  },
+  "w4-rs-50.json": {
+   "acts": [
+    "rs-title-50-surveys-and-surveyors"
+   ],
+   "sha256": "d92e51dcbc86409566a41f2b7d18c141c0b19f3aaa5ba2f17da5c377eb740841"
   }
  },
  "schema": 1

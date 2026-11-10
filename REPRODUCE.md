@@ -69,12 +69,16 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `rs-title-44-public-records-and-recorders` | Louisiana Revised Statutes, Title 44: Public Records and Recorders | 1 | 2026-11-10 to 2026-11-10 |
 | `rs-title-45-public-utilities-and-carriers` | Louisiana Revised Statutes, Title 45: Public Utilities and Carriers | 1 | 2026-11-10 to 2026-11-10 |
 | `rs-title-46-public-welfare-and-assistance` | Louisiana Revised Statutes, Title 46: Public Welfare and Assistance | 1 | 2026-11-10 to 2026-11-10 |
+| `rs-title-47-revenue-and-taxation` | Louisiana Revised Statutes, Title 47: Revenue and Taxation | 1 | 2026-11-10 to 2026-11-10 |
+| `rs-title-48-roads-bridges-and-ferries` | Louisiana Revised Statutes, Title 48: Roads, Bridges and Ferries | 1 | 2026-11-10 to 2026-11-10 |
+| `rs-title-49-state-administration` | Louisiana Revised Statutes, Title 49: State Administration | 1 | 2026-11-10 to 2026-11-10 |
+| `rs-title-50-surveys-and-surveyors` | Louisiana Revised Statutes, Title 50: Surveys and Surveyors | 1 | 2026-11-10 to 2026-11-10 |
 
-The build made 54 commits:
+The build made 58 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 54 | first version of an act |
+| 58 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -82,7 +86,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 54 tags.
+- 58 tags.
 
 ## Dates
 
@@ -94,7 +98,7 @@ When a law gives no date of its own, the default rule applies: La. R.S. 24:4: an
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `8422ca3787eeba2e966617a654f2656bdd0702886849c517ff187438347d8a0e` (73893623 bytes).
+- Corpus: sha256 `47b12d108504e6ca1901fb6d04b82eb546d03d4fadbd1f8dc6ba0a9439d284a6` (82396623 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
