@@ -602,6 +602,34 @@
      "sha256": "7c3d50faaa3a1789b9d1009c84688bd91ab65df22bfe0b1e5efea1147a8e3c2a"
     }
    ]
+  },
+  {
+   "slug": "rs-title-35-notaries-public-and-commissioners",
+   "short": "La. R.S. 35",
+   "title": "Louisiana Revised Statutes, Title 35: Notaries Public and Commissioners",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 129,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "c973511c3dd87ecc491fb5ac27aabee11b9d49ab32c3bdd869de16a2a1829125"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-36-organization-of-the-executive-branch",
+   "short": "La. R.S. 36",
+   "title": "Louisiana Revised Statutes, Title 36: Organization of the Executive Branch",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 350,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "305cc4fa8d7ee3eb0331befaa8eaafb9490b106bff7447fb064d81384dd264d7"
+    }
+   ]
   }
  ]
 }

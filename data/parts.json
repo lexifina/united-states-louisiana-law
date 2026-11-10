@@ -241,6 +241,18 @@
     "rs-title-34-navigation-and-shipping"
    ],
    "sha256": "82242eb4484fe31f4f6c4e76315e1d80bf0bc820983b078620f224b0a73ab98a"
+  },
+  "w4-rs-35.json": {
+   "acts": [
+    "rs-title-35-notaries-public-and-commissioners"
+   ],
+   "sha256": "b9f6a2fdcf91bfd97feb7b5b18a9b8754de493291a6e03510599263dde93abb2"
+  },
+  "w4-rs-36.json": {
+   "acts": [
+    "rs-title-36-organization-of-the-executive-branch"
+   ],
+   "sha256": "86771e207edaca3128940584f8a8f66165647e7ea519f64ca82b951b0f32182c"
   }
  },
  "schema": 1
