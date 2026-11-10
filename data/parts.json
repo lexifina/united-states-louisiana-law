@@ -265,6 +265,12 @@
     "rs-title-38-public-contracts-works-and-improvements"
    ],
    "sha256": "6656b89eff30c253b595aaca2aed8acceffb0a8aa7569376daced2951a225d7a"
+  },
+  "w4-rs-39.json": {
+   "acts": [
+    "rs-title-39-public-finance"
+   ],
+   "sha256": "a27872fc829eb59d951e57440a97f14b0f6439516d4bc16693b233cba75987c0"
   }
  },
  "schema": 1

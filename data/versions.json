@@ -658,6 +658,20 @@
      "sha256": "705c011bf00f8ffe0fe02628b757d891a40c00d10f5c8c76c0459f0630ad7fa4"
     }
    ]
+  },
+  {
+   "slug": "rs-title-39-public-finance",
+   "short": "La. R.S. 39",
+   "title": "Louisiana Revised Statutes, Title 39: Public Finance",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 1355,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "37101256194988fedf32f5c885ebef328fcdcfba768e4e77687afbea3cc37bd0"
+    }
+   ]
   }
  ]
 }
