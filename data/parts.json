@@ -272,6 +272,12 @@
    ],
    "sha256": "a27872fc829eb59d951e57440a97f14b0f6439516d4bc16693b233cba75987c0"
   },
+  "w4-rs-40.json": {
+   "acts": [
+    "rs-title-40-public-health-and-safety"
+   ],
+   "sha256": "1d42c4a7f12178df62ec51019c13e3f4a7fd07b8f63411eccb5f024f1ecbb908"
+  },
   "w4-rs-41.json": {
    "acts": [
     "rs-title-41-public-lands"

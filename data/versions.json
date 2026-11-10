@@ -674,6 +674,20 @@
    ]
   },
   {
+   "slug": "rs-title-40-public-health-and-safety",
+   "short": "La. R.S. 40",
+   "title": "Louisiana Revised Statutes, Title 40: Public Health and Safety",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 3330,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "88ec1a03239568fa50ac2137f3be14fa0fc378a05803033a129c1ed42b8f9d0f"
+    }
+   ]
+  },
+  {
    "slug": "rs-title-41-public-lands",
    "short": "La. R.S. 41",
    "title": "Louisiana Revised Statutes, Title 41: Public Lands",
