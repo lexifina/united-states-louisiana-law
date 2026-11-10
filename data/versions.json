@@ -574,6 +574,34 @@
      "sha256": "5cb6919de01afe71f7a77bcb2bc4a2378381b6f58ccd53ec90fe3537e7bace02"
     }
    ]
+  },
+  {
+   "slug": "rs-title-33-municipalities-and-parishes",
+   "short": "La. R.S. 33",
+   "title": "Louisiana Revised Statutes, Title 33: Municipalities and Parishes",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 4117,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "1d59500362955d9f84eb8792bf11b0b95f01ab7271b27c6ac960eb4b8a7c51a5"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-34-navigation-and-shipping",
+   "short": "La. R.S. 34",
+   "title": "Louisiana Revised Statutes, Title 34: Navigation and Shipping",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 901,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "7c3d50faaa3a1789b9d1009c84688bd91ab65df22bfe0b1e5efea1147a8e3c2a"
+    }
+   ]
   }
  ]
 }

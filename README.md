@@ -49,6 +49,8 @@ The statute law of Louisiana as a git repository: one file per section, committe
 | `rs-title-30-minerals-oil-and-gas-and-environmental-quality/` | Louisiana Revised Statutes, Title 30: Minerals, Oil, and Gas and Environmental Quality (1049 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-31-mineral-code/` | Louisiana Revised Statutes, Title 31: Mineral Code (230 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-32-motor-vehicles-and-traffic-regulation/` | Louisiana Revised Statutes, Title 32: Motor Vehicles and Traffic Regulation (875 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-33-municipalities-and-parishes/` | Louisiana Revised Statutes, Title 33: Municipalities and Parishes (4117 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-34-navigation-and-shipping/` | Louisiana Revised Statutes, Title 34: Navigation and Shipping (901 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 
 Titles and codes not listed are not in it yet.
 

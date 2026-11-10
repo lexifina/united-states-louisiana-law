@@ -229,6 +229,18 @@
     "rs-title-32-motor-vehicles-and-traffic-regulation"
    ],
    "sha256": "adf51f885e4abc089f6748e21fd8980141b2f6796f57d002eb63734cda28ef0a"
+  },
+  "w4-rs-33.json": {
+   "acts": [
+    "rs-title-33-municipalities-and-parishes"
+   ],
+   "sha256": "523678c369e6ea2d80f06929e9cc24ae09cec98f125c1575479f1adc22196dad"
+  },
+  "w4-rs-34.json": {
+   "acts": [
+    "rs-title-34-navigation-and-shipping"
+   ],
+   "sha256": "82242eb4484fe31f4f6c4e76315e1d80bf0bc820983b078620f224b0a73ab98a"
   }
  },
  "schema": 1
