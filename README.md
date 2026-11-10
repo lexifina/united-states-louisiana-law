@@ -39,6 +39,12 @@ The statute law of Louisiana as a git repository: one file per section, committe
 | `rs-title-20-homesteads-and-exemptions/` | Louisiana Revised Statutes, Title 20: Homesteads and Exemptions (5 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-21-hotels-and-lodging-houses/` | Louisiana Revised Statutes, Title 21: Hotels and Lodging Houses (32 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-22-insurance/` | Louisiana Revised Statutes, Title 22: Insurance (2651 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-23-labor-and-workers-compensation/` | Louisiana Revised Statutes, Title 23: Labor and Worker's Compensation (872 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-24-legislature-and-laws/` | Louisiana Revised Statutes, Title 24: Legislature and Laws (285 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-25-libraries-museums-and-other-scientific/` | Louisiana Revised Statutes, Title 25: Libraries, Museums, and Other Scientific (545 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-26-liquors-alcoholic-beverages/` | Louisiana Revised Statutes, Title 26: Liquors-Alcoholic Beverages (272 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-27-louisiana-gaming-control/` | Louisiana Revised Statutes, Title 27: Louisiana Gaming Control (317 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-28-mental-health/` | Louisiana Revised Statutes, Title 28: Mental Health (373 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 
 Titles and codes not listed are not in it yet.
 

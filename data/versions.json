@@ -434,6 +434,90 @@
      "sha256": "2f96850feca8d6eeffd04425b0431ffd5d098303e4cd5b6fd2ee24e414c1817d"
     }
    ]
+  },
+  {
+   "slug": "rs-title-23-labor-and-workers-compensation",
+   "short": "La. R.S. 23",
+   "title": "Louisiana Revised Statutes, Title 23: Labor and Worker's Compensation",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 872,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "0eca66c679243a7ea22cd6d518c24e59283f4a9a097ed91184cc57ba75ff85f4"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-24-legislature-and-laws",
+   "short": "La. R.S. 24",
+   "title": "Louisiana Revised Statutes, Title 24: Legislature and Laws",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 285,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "4cb43bfe4a9e75feed27859381bc710585d58ce1a29071b66c7d5beeaf85fda9"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-25-libraries-museums-and-other-scientific",
+   "short": "La. R.S. 25",
+   "title": "Louisiana Revised Statutes, Title 25: Libraries, Museums, and Other Scientific",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 545,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "18f91100e6172e383c9ca520ee20db0b7bc5cf529c072235651d109e3d8af99f"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-26-liquors-alcoholic-beverages",
+   "short": "La. R.S. 26",
+   "title": "Louisiana Revised Statutes, Title 26: Liquors-Alcoholic Beverages",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 272,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "1cf7ac60497570d5d05f70bbdb6a04157180fcc72c2c7a25d53ab6c6c4c1d635"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-27-louisiana-gaming-control",
+   "short": "La. R.S. 27",
+   "title": "Louisiana Revised Statutes, Title 27: Louisiana Gaming Control",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 317,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "ac5d6cc521379952236a2318f34eabed08089d0b9dec1b0c0422e216f0af53ac"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-28-mental-health",
+   "short": "La. R.S. 28",
+   "title": "Louisiana Revised Statutes, Title 28: Mental Health",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 373,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "3fa22b17b245aa8d0f8a66ff098ae29d9cc205660e5563e687915e1e78307ee4"
+    }
+   ]
   }
  ]
 }

@@ -169,6 +169,42 @@
     "rs-title-22-insurance"
    ],
    "sha256": "8124cc8d64fc6b0104a5e7878515f76d9ebb057819bdeb162bdd8aea213d8a8c"
+  },
+  "w4-rs-23.json": {
+   "acts": [
+    "rs-title-23-labor-and-workers-compensation"
+   ],
+   "sha256": "b0b124dfe532d103fe2267e875d9ad224ab55e3585758dda91d1971a13c6f2f4"
+  },
+  "w4-rs-24.json": {
+   "acts": [
+    "rs-title-24-legislature-and-laws"
+   ],
+   "sha256": "4355a83618ea568e2697098275445a2d3ffef1b066106f95aff08f4e98f47f14"
+  },
+  "w4-rs-25.json": {
+   "acts": [
+    "rs-title-25-libraries-museums-and-other-scientific"
+   ],
+   "sha256": "a14f15e01d23f2652c3f001e5c607dbb5530695c9e1a25772825975e47e1b894"
+  },
+  "w4-rs-26.json": {
+   "acts": [
+    "rs-title-26-liquors-alcoholic-beverages"
+   ],
+   "sha256": "1032baceb610ae07c54cc23be00f784eee0ae2b00fd9c95d167e9cea3de9c868"
+  },
+  "w4-rs-27.json": {
+   "acts": [
+    "rs-title-27-louisiana-gaming-control"
+   ],
+   "sha256": "bd7992897bab12c26220e46d2ab7f737b9692a18f6b23d1274bf42a30bb318b7"
+  },
+  "w4-rs-28.json": {
+   "acts": [
+    "rs-title-28-mental-health"
+   ],
+   "sha256": "1337229b6a008cb3dbb598c759e820902be8048a566574e0c6ec6f341a76735f"
   }
  },
  "schema": 1
