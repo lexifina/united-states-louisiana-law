@@ -205,6 +205,24 @@
     "rs-title-28-mental-health"
    ],
    "sha256": "1337229b6a008cb3dbb598c759e820902be8048a566574e0c6ec6f341a76735f"
+  },
+  "w4-rs-29.json": {
+   "acts": [
+    "rs-title-29-military-naval-and-veterans-affairs"
+   ],
+   "sha256": "e00151495358fbe7b9480f797e4628a17863538aca609d362003ab48e57fc274"
+  },
+  "w4-rs-30.json": {
+   "acts": [
+    "rs-title-30-minerals-oil-and-gas-and-environmental-quality"
+   ],
+   "sha256": "debca1275903f529b7783d9c502ae222f4d3c2f4dbb64b0992c9f7eff25c2f0e"
+  },
+  "w4-rs-31.json": {
+   "acts": [
+    "rs-title-31-mineral-code"
+   ],
+   "sha256": "959e16a2bbb5c6bce5b8f2d0005a666c220ffe43e5a34c204ef123bca0c5bab6"
   }
  },
  "schema": 1

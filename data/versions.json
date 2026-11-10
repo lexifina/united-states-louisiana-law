@@ -518,6 +518,48 @@
      "sha256": "3fa22b17b245aa8d0f8a66ff098ae29d9cc205660e5563e687915e1e78307ee4"
     }
    ]
+  },
+  {
+   "slug": "rs-title-29-military-naval-and-veterans-affairs",
+   "short": "La. R.S. 29",
+   "title": "Louisiana Revised Statutes, Title 29: Military, Naval, and Veteran's Affairs",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 477,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "c67ba619d51cdc3aa3e26ac833a4a7e8f99a210035e1b33199a0f4a990202f83"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-30-minerals-oil-and-gas-and-environmental-quality",
+   "short": "La. R.S. 30",
+   "title": "Louisiana Revised Statutes, Title 30: Minerals, Oil, and Gas and Environmental Quality",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 1049,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "b9712b1340f725be937cf18b2c46ad2395adfcfc492c1de20afaeec7e214aa36"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-31-mineral-code",
+   "short": "La. R.S. 31",
+   "title": "Louisiana Revised Statutes, Title 31: Mineral Code",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 230,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "9da3fdb368ae9fe2331738909a7d2be4ddb14d8d20c941e24880b2095086b8f1"
+    }
+   ]
   }
  ]
 }
