@@ -294,6 +294,20 @@
      "sha256": "3257aa167cadd066f14d5a26921e30fe9e745cc20818ce6dacdba443ffe31906"
     }
    ]
+  },
+  {
+   "slug": "rs-title-11-consolidated-public-retirement",
+   "short": "La. R.S. 11",
+   "title": "Louisiana Revised Statutes, Title 11: Consolidated Public Retirement",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 1796,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "600a070e9d27c499b79367317dcae8878bd6db38d8185131775d270b4f938deb"
+    }
+   ]
   }
  ]
 }

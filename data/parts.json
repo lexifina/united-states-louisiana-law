@@ -109,6 +109,12 @@
     "rs-title-10-commercial-laws"
    ],
    "sha256": "0e52fe3113b45580359a5b3a0b3b19678acbeee6afcf2e912d7001680f5248c7"
+  },
+  "w4-rs-11.json": {
+   "acts": [
+    "rs-title-11-consolidated-public-retirement"
+   ],
+   "sha256": "d0dac806449aa00b13a62160876cd8e2a471e68e3121938930fee42644afde8e"
   }
  },
  "schema": 1
