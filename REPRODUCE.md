@@ -34,12 +34,13 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `rs-title-4-amusements-and-sports` | Louisiana Revised Statutes, Title 4: Amusements and Sports | 1 | 2026-11-10 to 2026-11-10 |
 | `rs-title-6-banks-and-banking` | Louisiana Revised Statutes, Title 6: Banks and Banking | 1 | 2026-11-10 to 2026-11-10 |
 | `rs-title-8-cemeteries` | Louisiana Revised Statutes, Title 8: Cemeteries | 1 | 2026-11-10 to 2026-11-10 |
+| `rs-title-9-civil-code-ancillaries` | Louisiana Revised Statutes, Title 9: Civil Code-Ancillaries | 1 | 2026-11-10 to 2026-11-10 |
 
-The build made 19 commits:
+The build made 20 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 19 | first version of an act |
+| 20 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -47,7 +48,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 0 laws in the record.
-- 19 tags.
+- 20 tags.
 
 ## Dates
 
@@ -59,7 +60,7 @@ When a law gives no date of its own, the default rule applies: La. R.S. 24:4: an
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `ae34d5deb4f17032afda3ac0b47421c4c82ef8a458b1411c92fd5054d777a638` (13871418 bytes).
+- Corpus: sha256 `b4f679f8eb678d22aa8c62413ad45d4237162164954ade7282ff5bedf513301d` (17130140 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 

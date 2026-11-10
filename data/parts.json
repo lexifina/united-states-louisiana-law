@@ -97,6 +97,12 @@
     "rs-title-8-cemeteries"
    ],
    "sha256": "cea4099df0642c43e7921f63af22d9e45361ed4e4c8af72c3da93fae5253ea2d"
+  },
+  "w4-rs-09.json": {
+   "acts": [
+    "rs-title-9-civil-code-ancillaries"
+   ],
+   "sha256": "5f4baf3b8a73bac286475af88a6ddbc966b55099c986de1e052038504ae0fda5"
   }
  },
  "schema": 1

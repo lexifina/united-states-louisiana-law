@@ -266,6 +266,20 @@
      "sha256": "b17dc648f3d96c86ac1f3a70bc03676333672e2e2811ec721bdca784a3785291"
     }
    ]
+  },
+  {
+   "slug": "rs-title-9-civil-code-ancillaries",
+   "short": "La. R.S. 9",
+   "title": "Louisiana Revised Statutes, Title 9: Civil Code-Ancillaries",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 2355,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "40b51a097027c52565576b5b612cd7c942a4de9ac8acb795b0c031a175b0ade8"
+    }
+   ]
   }
  ]
 }
