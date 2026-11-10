@@ -71,6 +71,7 @@ The statute law of Louisiana as a git repository: one file per section, committe
 | `rs-title-53-war-emergency/` | Louisiana Revised Statutes, Title 53: War Emergency (27 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-54-warehouses/` | Louisiana Revised Statutes, Title 54: Warehouses (18 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-55-weights-and-measures/` | Louisiana Revised Statutes, Title 55: Weights and Measures (1 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-56-wildlife-and-fisheries/` | Louisiana Revised Statutes, Title 56: Wildlife and Fisheries (898 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 
 Titles and codes not listed are not in it yet.
 

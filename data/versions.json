@@ -882,6 +882,20 @@
      "sha256": "658d628e4518a97f933f48811447359d40f5b959d449d25e14b801ad255c393c"
     }
    ]
+  },
+  {
+   "slug": "rs-title-56-wildlife-and-fisheries",
+   "short": "La. R.S. 56",
+   "title": "Louisiana Revised Statutes, Title 56: Wildlife and Fisheries",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 898,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "08fadbe61874f3ef1fa79b662d7d076130b1894f8e51ef473e2e0e88dbaf5b47"
+    }
+   ]
   }
  ]
 }

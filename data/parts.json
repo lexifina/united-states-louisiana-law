@@ -361,6 +361,12 @@
     "rs-title-55-weights-and-measures"
    ],
    "sha256": "bb2b4643b68200e8ebf4604cf01789d77b66a1e783b0c93ac4e9c37cf6138bef"
+  },
+  "w4-rs-56.json": {
+   "acts": [
+    "rs-title-56-wildlife-and-fisheries"
+   ],
+   "sha256": "8e6c2ac83df5e53bd422a245686cdfaee03bb62b135f474ec395c96a7e132526"
   }
  },
  "schema": 1
