@@ -210,6 +210,62 @@
      "sha256": "ea4db8174101458751714cafc004d2f21ef3e19aa07f9b13f8056e2a16361467"
     }
    ]
+  },
+  {
+   "slug": "rs-title-3-agriculture-and-forestry",
+   "short": "La. R.S. 3",
+   "title": "Louisiana Revised Statutes, Title 3: Agriculture and Forestry",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 1445,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "f7ec43f0355f7b718ae85cea24abce801f1e2b91dc4f616cfa0b76e3c20c2bdd"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-4-amusements-and-sports",
+   "short": "La. R.S. 4",
+   "title": "Louisiana Revised Statutes, Title 4: Amusements and Sports",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 280,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "6da1f8e680fc8abb6c44d93a3969c0e8686ef840e0cd93bceb88a760528e71b5"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-6-banks-and-banking",
+   "short": "La. R.S. 6",
+   "title": "Louisiana Revised Statutes, Title 6: Banks and Banking",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 809,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "78307fbe629673b7de99054915d2dd77508e58ecbe6c08321e41a19c14f00fc8"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-8-cemeteries",
+   "short": "La. R.S. 8",
+   "title": "Louisiana Revised Statutes, Title 8: Cemeteries",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 200,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "b17dc648f3d96c86ac1f3a70bc03676333672e2e2811ec721bdca784a3785291"
+    }
+   ]
   }
  ]
 }

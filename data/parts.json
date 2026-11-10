@@ -73,6 +73,30 @@
     "rs-title-2-aeronautics"
    ],
    "sha256": "6564e423fc5b9129cd53217169d81405a34e14d58c22a150f0d74bba58412764"
+  },
+  "w4-rs-03.json": {
+   "acts": [
+    "rs-title-3-agriculture-and-forestry"
+   ],
+   "sha256": "e2bf06b813e08fa460a8d31944cd9537bf32ac9fd5a38b52e9cc950f0980c080"
+  },
+  "w4-rs-04.json": {
+   "acts": [
+    "rs-title-4-amusements-and-sports"
+   ],
+   "sha256": "209d60fc61ef7934d8a077b4e3dc2a0ee10ea190264d1b67dbaf72ae4f7e805d"
+  },
+  "w4-rs-06.json": {
+   "acts": [
+    "rs-title-6-banks-and-banking"
+   ],
+   "sha256": "e84a34c5e71b84138b2c3d7b4c5f4fd1055635fc0dff755d0af6d4d664c68a97"
+  },
+  "w4-rs-08.json": {
+   "acts": [
+    "rs-title-8-cemeteries"
+   ],
+   "sha256": "cea4099df0642c43e7921f63af22d9e45361ed4e4c8af72c3da93fae5253ea2d"
   }
  },
  "schema": 1

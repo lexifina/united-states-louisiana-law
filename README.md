@@ -21,6 +21,10 @@ The statute law of Louisiana as a git repository: one file per section, committe
 | `code-of-evidence/` | Louisiana Code of Evidence (106 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-1-general-provisions/` | Louisiana Revised Statutes, Title 1: General Provisions (43 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-2-aeronautics/` | Louisiana Revised Statutes, Title 2: Aeronautics (188 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-3-agriculture-and-forestry/` | Louisiana Revised Statutes, Title 3: Agriculture and Forestry (1445 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-4-amusements-and-sports/` | Louisiana Revised Statutes, Title 4: Amusements and Sports (280 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-6-banks-and-banking/` | Louisiana Revised Statutes, Title 6: Banks and Banking (809 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-8-cemeteries/` | Louisiana Revised Statutes, Title 8: Cemeteries (200 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-12-corporations-and-associations/` | Louisiana Revised Statutes, Title 12: Corporations and Associations (924 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 30 October 2026 |
 | `rs-title-14-criminal-law/` | Louisiana Revised Statutes, Title 14: Criminal Law (730 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 30 October 2026 |
 
