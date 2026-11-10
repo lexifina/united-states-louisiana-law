@@ -66,6 +66,11 @@ The statute law of Louisiana as a git repository: one file per section, committe
 | `rs-title-48-roads-bridges-and-ferries/` | Louisiana Revised Statutes, Title 48: Roads, Bridges and Ferries (927 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-49-state-administration/` | Louisiana Revised Statutes, Title 49: State Administration (598 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-50-surveys-and-surveyors/` | Louisiana Revised Statutes, Title 50: Surveys and Surveyors (44 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-51-trade-and-commerce/` | Louisiana Revised Statutes, Title 51: Trade and Commerce (1237 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-52-united-states/` | Louisiana Revised Statutes, Title 52: United States (13 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-53-war-emergency/` | Louisiana Revised Statutes, Title 53: War Emergency (27 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-54-warehouses/` | Louisiana Revised Statutes, Title 54: Warehouses (18 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-55-weights-and-measures/` | Louisiana Revised Statutes, Title 55: Weights and Measures (1 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 
 Titles and codes not listed are not in it yet.
 

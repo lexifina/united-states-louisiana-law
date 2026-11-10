@@ -331,6 +331,36 @@
     "rs-title-50-surveys-and-surveyors"
    ],
    "sha256": "d92e51dcbc86409566a41f2b7d18c141c0b19f3aaa5ba2f17da5c377eb740841"
+  },
+  "w4-rs-51.json": {
+   "acts": [
+    "rs-title-51-trade-and-commerce"
+   ],
+   "sha256": "556aa21c7ed13264d29912498a7bb76835e0dc9314bacbc0d45bdb0d526e2721"
+  },
+  "w4-rs-52.json": {
+   "acts": [
+    "rs-title-52-united-states"
+   ],
+   "sha256": "30a15ddcefa8c6b281c085d2bf755235c93ca6cbfc50b8e1b5750085f8b8ad1d"
+  },
+  "w4-rs-53.json": {
+   "acts": [
+    "rs-title-53-war-emergency"
+   ],
+   "sha256": "0d92fe8910d6e800ac6276313b388961931b951aadc8f52ba7f1358888d808ad"
+  },
+  "w4-rs-54.json": {
+   "acts": [
+    "rs-title-54-warehouses"
+   ],
+   "sha256": "82832e821d80ecbc282bf9a21a783b78ef1e258a3930b0f5d2686e0a77536865"
+  },
+  "w4-rs-55.json": {
+   "acts": [
+    "rs-title-55-weights-and-measures"
+   ],
+   "sha256": "bb2b4643b68200e8ebf4604cf01789d77b66a1e783b0c93ac4e9c37cf6138bef"
   }
  },
  "schema": 1

@@ -812,6 +812,76 @@
      "sha256": "56bd956df2a2bd90e18c7053652efe9da67a953788a3b973117467f8a99f6ff4"
     }
    ]
+  },
+  {
+   "slug": "rs-title-51-trade-and-commerce",
+   "short": "La. R.S. 51",
+   "title": "Louisiana Revised Statutes, Title 51: Trade and Commerce",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 1237,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "4d89c3e808e89a7efb2d36bb7ad128a3af78feff130fdef7c4a40484ef55d7df"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-52-united-states",
+   "short": "La. R.S. 52",
+   "title": "Louisiana Revised Statutes, Title 52: United States",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 13,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "cbd42909c753a62ffd19287bb01205196075b60110e3d8a3c736e2132cd3608b"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-53-war-emergency",
+   "short": "La. R.S. 53",
+   "title": "Louisiana Revised Statutes, Title 53: War Emergency",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 27,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "a02c6e26ae4c0f0cebc07709e375922d05fc0708e2e2562af1a293508f687807"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-54-warehouses",
+   "short": "La. R.S. 54",
+   "title": "Louisiana Revised Statutes, Title 54: Warehouses",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 18,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "15c5dd6c0efb5c275496ccbf8183b4cb5d9c05cc083b70a2988436e74be31b8e"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-55-weights-and-measures",
+   "short": "La. R.S. 55",
+   "title": "Louisiana Revised Statutes, Title 55: Weights and Measures",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "658d628e4518a97f933f48811447359d40f5b959d449d25e14b801ad255c393c"
+    }
+   ]
   }
  ]
 }
