@@ -672,6 +672,62 @@
      "sha256": "37101256194988fedf32f5c885ebef328fcdcfba768e4e77687afbea3cc37bd0"
     }
    ]
+  },
+  {
+   "slug": "rs-title-41-public-lands",
+   "short": "La. R.S. 41",
+   "title": "Louisiana Revised Statutes, Title 41: Public Lands",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 306,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "9d149462c54ac5356f6b5fe7a34cf2e55251246c95517f62cce7ef016fa985aa"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-42-public-officers-and-employees",
+   "short": "La. R.S. 42",
+   "title": "Louisiana Revised Statutes, Title 42: Public Officers and Employees",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 464,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "095519457f477cd0b9cd5b141cd4b8a2eae2f24ff916a82724a4af171a747649"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-43-public-printing-and-advertisements",
+   "short": "La. R.S. 43",
+   "title": "Louisiana Revised Statutes, Title 43: Public Printing and Advertisements",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 81,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "99fe370d631495bb7d1696f1cee36c41d41db85b7df9d9b7454ab50f022a1443"
+    }
+   ]
+  },
+  {
+   "slug": "rs-title-44-public-records-and-recorders",
+   "short": "La. R.S. 44",
+   "title": "Louisiana Revised Statutes, Title 44: Public Records and Recorders",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 209,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "f98f5db841883adfd83f5c20fef94ca86d8e220d84e854f777188f8cf8ecefb1"
+    }
+   ]
   }
  ]
 }

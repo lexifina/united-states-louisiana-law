@@ -271,6 +271,30 @@
     "rs-title-39-public-finance"
    ],
    "sha256": "a27872fc829eb59d951e57440a97f14b0f6439516d4bc16693b233cba75987c0"
+  },
+  "w4-rs-41.json": {
+   "acts": [
+    "rs-title-41-public-lands"
+   ],
+   "sha256": "a9e7a12edb3088d482a2d70624c7232aa7b58060bd29aea6649037d3a0d10bb3"
+  },
+  "w4-rs-42.json": {
+   "acts": [
+    "rs-title-42-public-officers-and-employees"
+   ],
+   "sha256": "b281396b2026402afdd8a481d25312398747478623e6b737a2cfbe236286a0fa"
+  },
+  "w4-rs-43.json": {
+   "acts": [
+    "rs-title-43-public-printing-and-advertisements"
+   ],
+   "sha256": "c77d89b8067556b7fba1f96b071dc95909ee3f89b9127bf18ba3d225fe4ec071"
+  },
+  "w4-rs-44.json": {
+   "acts": [
+    "rs-title-44-public-records-and-recorders"
+   ],
+   "sha256": "3073577ca2ea719488c6aa66b7e2e0a7c2aba145b6e299ac51c2023cb23ae750"
   }
  },
  "schema": 1
