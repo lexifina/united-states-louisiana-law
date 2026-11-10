@@ -126,6 +126,48 @@
      "sha256": "95e7314b6ffaa47f70a99fb6c209e51ca58bbc9941c7252dbdd94faca0f3380e"
     }
    ]
+  },
+  {
+   "slug": "code-of-civil-procedure",
+   "short": "La. C.C.P.",
+   "title": "Louisiana Code of Civil Procedure",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=68&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 1259,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=68&level=Parent",
+     "sha256": "cc0ef80aa6f7620564a1e8f91da9a00fe76ace0e580b5cd87c532e4732285b17"
+    }
+   ]
+  },
+  {
+   "slug": "code-of-criminal-procedure",
+   "short": "La. C.Cr.P.",
+   "title": "Louisiana Code of Criminal Procedure",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=69&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 794,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=69&level=Parent",
+     "sha256": "c869d28d7b80ace8a78490b5769dfaf52876522f5a974a22e75b9b708c66f555"
+    }
+   ]
+  },
+  {
+   "slug": "code-of-evidence",
+   "short": "La. C.E.",
+   "title": "Louisiana Code of Evidence",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=70&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 106,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=70&level=Parent",
+     "sha256": "be9b8c0b377d577648e50b19274b629d4660206c7467940d174fb3e7d6e79d8e"
+    }
+   ]
   }
  ]
 }

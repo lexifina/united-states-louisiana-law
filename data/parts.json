@@ -37,6 +37,24 @@
     "civil-code-book-4-conflict-of-laws"
    ],
    "sha256": "2fab444e89cc7bfd2c1f0fc5dc65ad4297cc5cf91fb2c6ad68af32b0dbd01e58"
+  },
+  "w4-ccp.json": {
+   "acts": [
+    "code-of-civil-procedure"
+   ],
+   "sha256": "d7cbdd4fa93f91d2a35b0dc6bd4caebc142fdf2d404aee02ed889682309dd92e"
+  },
+  "w4-ccrp.json": {
+   "acts": [
+    "code-of-criminal-procedure"
+   ],
+   "sha256": "49dfec6bd761dfc6fa9503fbd1ddd1c15dc7be905c995806c593f942212460b0"
+  },
+  "w4-ce.json": {
+   "acts": [
+    "code-of-evidence"
+   ],
+   "sha256": "701945b7bc7b9b3bee94b9405d04372a76e9611174b5b132f6ded823ccfaed7f"
   }
  },
  "schema": 1
