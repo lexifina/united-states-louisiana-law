@@ -223,6 +223,12 @@
     "rs-title-31-mineral-code"
    ],
    "sha256": "959e16a2bbb5c6bce5b8f2d0005a666c220ffe43e5a34c204ef123bca0c5bab6"
+  },
+  "w4-rs-32.json": {
+   "acts": [
+    "rs-title-32-motor-vehicles-and-traffic-regulation"
+   ],
+   "sha256": "adf51f885e4abc089f6748e21fd8980141b2f6796f57d002eb63734cda28ef0a"
   }
  },
  "schema": 1

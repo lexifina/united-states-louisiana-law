@@ -560,6 +560,20 @@
      "sha256": "9da3fdb368ae9fe2331738909a7d2be4ddb14d8d20c941e24880b2095086b8f1"
     }
    ]
+  },
+  {
+   "slug": "rs-title-32-motor-vehicles-and-traffic-regulation",
+   "short": "La. R.S. 32",
+   "title": "Louisiana Revised Statutes, Title 32: Motor Vehicles and Traffic Regulation",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 875,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "5cb6919de01afe71f7a77bcb2bc4a2378381b6f58ccd53ec90fe3537e7bace02"
+    }
+   ]
   }
  ]
 }
