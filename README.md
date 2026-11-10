@@ -26,6 +26,7 @@ The statute law of Louisiana as a git repository: one file per section, committe
 | `rs-title-6-banks-and-banking/` | Louisiana Revised Statutes, Title 6: Banks and Banking (809 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-8-cemeteries/` | Louisiana Revised Statutes, Title 8: Cemeteries (200 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-9-civil-code-ancillaries/` | Louisiana Revised Statutes, Title 9: Civil Code-Ancillaries (2355 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
+| `rs-title-10-commercial-laws/` | Louisiana Revised Statutes, Title 10: Commercial Laws (458 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 10 November 2026 |
 | `rs-title-12-corporations-and-associations/` | Louisiana Revised Statutes, Title 12: Corporations and Associations (924 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 30 October 2026 |
 | `rs-title-14-criminal-law/` | Louisiana Revised Statutes, Title 14: Criminal Law (730 sections) | 1 | One version: the text as the Louisiana State Legislature publishes it, retrieved 30 October 2026 |
 

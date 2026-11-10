@@ -280,6 +280,20 @@
      "sha256": "40b51a097027c52565576b5b612cd7c942a4de9ac8acb795b0c031a175b0ade8"
     }
    ]
+  },
+  {
+   "slug": "rs-title-10-commercial-laws",
+   "short": "La. R.S. 10",
+   "title": "Louisiana Revised Statutes, Title 10: Commercial Laws",
+   "url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+   "versions": [
+    {
+     "from": "2026-11-10",
+     "units": 458,
+     "source_url": "https://legis.la.gov/legis/Laws_Toc.aspx?folder=75&level=Parent",
+     "sha256": "3257aa167cadd066f14d5a26921e30fe9e745cc20818ce6dacdba443ffe31906"
+    }
+   ]
   }
  ]
 }

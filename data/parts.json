@@ -103,6 +103,12 @@
     "rs-title-9-civil-code-ancillaries"
    ],
    "sha256": "5f4baf3b8a73bac286475af88a6ddbc966b55099c986de1e052038504ae0fda5"
+  },
+  "w4-rs-10.json": {
+   "acts": [
+    "rs-title-10-commercial-laws"
+   ],
+   "sha256": "0e52fe3113b45580359a5b3a0b3b19678acbeee6afcf2e912d7001680f5248c7"
   }
  },
  "schema": 1
