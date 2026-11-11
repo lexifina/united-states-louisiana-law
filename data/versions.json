@@ -11678,6 +11678,166 @@
      "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
     }
    ]
+  },
+  {
+   "slug": "session-2000-1es-act-0004",
+   "short": "La. Act 4 (2000 First Extraordinary Session)",
+   "title": "Louisiana 2000 First Extraordinary Session, Act 4 (HB195), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=30693",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-04-12",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=357",
+     "sha256": "49db882e9d619531dba295a332233148853620abdef1eb3fc24b2441b16d34bd",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-1es-act-0012",
+   "short": "La. Act 12 (2000 First Extraordinary Session)",
+   "title": "Louisiana 2000 First Extraordinary Session, Act 12 (HB17), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=30163",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-04-14",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=293",
+     "sha256": "9eebf03d1905df37be615965066e32284cdef009160fca65a915e21356ae53ee",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-1es-act-0052",
+   "short": "La. Act 52 (2000 First Extraordinary Session)",
+   "title": "Louisiana 2000 First Extraordinary Session, Act 52 (SB43), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=30276",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-04-17",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=957",
+     "sha256": "d3d9f5bc1327c4e4b2ff43c946fad3be2b7bf23f978e88116df3521407e9847d",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-1es-act-0077",
+   "short": "La. Act 77 (2000 First Extraordinary Session)",
+   "title": "Louisiana 2000 First Extraordinary Session, Act 77 (HB12), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=30158",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-04-17",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=158",
+     "sha256": "3aaf7073b5316b8697ee95d991b7f83bb978ba54d89b922515cd3dd0c88664e6",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-1es-act-0099",
+   "short": "La. Act 99 (2000 First Extraordinary Session)",
+   "title": "Louisiana 2000 First Extraordinary Session, Act 99 (HB185), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=30555",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-04-17",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=330",
+     "sha256": "9fb427cd146b7172f24ae1afe09f7af1c125f6d8663b41687c9db0c7b539b335",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-1es-act-0072",
+   "short": "La. Act 72 (2000 First Extraordinary Session)",
+   "title": "Louisiana 2000 First Extraordinary Session, Act 72 (SB96), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=30421",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-06-06",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1088",
+     "sha256": "7b92c7a0464d67ea6b3c6d26426a5d4d6719d67b41a99b9db077cc493f041484",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-1es-act-0083",
+   "short": "La. Act 83 (2000 First Extraordinary Session)",
+   "title": "Louisiana 2000 First Extraordinary Session, Act 83 (HB66), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=30286",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-06-06",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=534",
+     "sha256": "2861c80c6d047b8d65921d80fb270994c3823709c5b49119e80c16d8b04009ae",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-1es-act-0112",
+   "short": "La. Act 112 (2000 First Extraordinary Session)",
+   "title": "Louisiana 2000 First Extraordinary Session, Act 112 (HB23), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=30153",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-06-06",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=432",
+     "sha256": "4d8934083613a0e0f010f1d5315d322e76f90f2ba47d97d8286443d81386c482",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-2es-act-0006",
+   "short": "La. Act 6 (2000 Second Extraordinary Session)",
+   "title": "Louisiana 2000 Second Extraordinary Session, Act 6 (HB28), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=34766",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-06-29",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1279",
+     "sha256": "28de981384f22450544113714a4df3501c481be3243f0a95be2d7d1a30786f9b",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-2es-act-0002",
+   "short": "La. Act 2 (2000 Second Extraordinary Session)",
+   "title": "Louisiana 2000 Second Extraordinary Session, Act 2 (HB2), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=34720",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1249",
+     "sha256": "c6e0b2c5cffde8d5b05cb9837726f304a277f9321ac798450bd67ce78c1f1087",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
   }
  ]
 }

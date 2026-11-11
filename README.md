@@ -218,3 +218,22 @@ These are session laws, including amending and one-time acts; they are not prior
 | `session-2000-rs-act-0036/` | Louisiana 2000 Regular Session, Act 36 (HB246), as enacted | 1 | As enacted; effective 2000-08-15 |
 | `session-2000-rs-act-0043/` | Louisiana 2000 Regular Session, Act 43 (HB3), as enacted | 1 | As enacted; effective 2000-06-27 |
 
+## Historical session laws: 2000 First and Second Extraordinary Sessions
+
+This append adds 10 as-enacted acts of the 2000 First and Second Extraordinary Sessions, each as one complete enrolled document. The text is published by the Louisiana State Legislature. Effective dates come from its session effective-date table; the records retain the source document headers and signature labels. Each historical record is added as a labelled correction, without replacing the earlier published commits. The editorial correction commits are authored by Lexifina; the law text comes from the Legislature.
+
+These are session laws, including amending and one-time acts; they are not prior consolidated editions of the codes. Records with unresolved commencement, unavailable enrolled text, graphical content, or conflicting text extraction are excluded. Earlier consolidated code editions and the other legislative sessions remain outside this historical addition.
+
+| Folder | Act | Versions | History |
+| --- | --- | ---: | --- |
+| `session-2000-1es-act-0004/` | Louisiana 2000 First Extraordinary Session, Act 4 (HB195), as enacted | 1 | As enacted; effective 2000-04-12 |
+| `session-2000-1es-act-0012/` | Louisiana 2000 First Extraordinary Session, Act 12 (HB17), as enacted | 1 | As enacted; effective 2000-04-14 |
+| `session-2000-1es-act-0052/` | Louisiana 2000 First Extraordinary Session, Act 52 (SB43), as enacted | 1 | As enacted; effective 2000-04-17 |
+| `session-2000-1es-act-0072/` | Louisiana 2000 First Extraordinary Session, Act 72 (SB96), as enacted | 1 | As enacted; effective 2000-06-06 |
+| `session-2000-1es-act-0077/` | Louisiana 2000 First Extraordinary Session, Act 77 (HB12), as enacted | 1 | As enacted; effective 2000-04-17 |
+| `session-2000-1es-act-0083/` | Louisiana 2000 First Extraordinary Session, Act 83 (HB66), as enacted | 1 | As enacted; effective 2000-06-06 |
+| `session-2000-1es-act-0099/` | Louisiana 2000 First Extraordinary Session, Act 99 (HB185), as enacted | 1 | As enacted; effective 2000-04-17 |
+| `session-2000-1es-act-0112/` | Louisiana 2000 First Extraordinary Session, Act 112 (HB23), as enacted | 1 | As enacted; effective 2000-06-06 |
+| `session-2000-2es-act-0002/` | Louisiana 2000 Second Extraordinary Session, Act 2 (HB2), as enacted | 1 | As enacted; effective 2000-07-01 |
+| `session-2000-2es-act-0006/` | Louisiana 2000 Second Extraordinary Session, Act 6 (HB28), as enacted | 1 | As enacted; effective 2000-06-29 |
+
