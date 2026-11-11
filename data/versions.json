@@ -11326,6 +11326,358 @@
      "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
     }
    ]
+  },
+  {
+   "slug": "session-2000-rs-act-0043",
+   "short": "La. Act 43 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 43 (HB3), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=32901",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-06-27",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1805",
+     "sha256": "433e16cb25a98d850a614f30c9eed2f220c839d2dc06689abd781c01882fb7f1",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-rs-act-0021",
+   "short": "La. Act 21 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 21 (HB2), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=32900",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-06-28",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1634",
+     "sha256": "2d8283b8ca67e4ac4904c36d46778f23e22cc1becf4a302778fa486fe852b3f3",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-rs-act-0003",
+   "short": "La. Act 3 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 3 (HB5), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=30073",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1897",
+     "sha256": "5bd0b9b4fa596cf3b89d08c470d7c9a02e22b36fb3aaf0b11ec6b12a6cac18a3",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-rs-act-0004",
+   "short": "La. Act 4 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 4 (HB39), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=31004",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1872",
+     "sha256": "bc2c5d7090606b0d591471529f9218198fc6c61dd76af23412e06e7034f53248",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-rs-act-0005",
+   "short": "La. Act 5 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 5 (HB40), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=31005",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1876",
+     "sha256": "0d3debd665ffcf4c68d716dd55b7268e3313913a60c9cbe616910b94a8f2edbd",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-rs-act-0006",
+   "short": "La. Act 6 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 6 (HB41), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=31002",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1879",
+     "sha256": "c829fe9cbaa99993e1b5ede7690cae4f8c389b4ffcaf5bba117678c1a990e114",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-rs-act-0008",
+   "short": "La. Act 8 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 8 (HB59), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=32943",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1909",
+     "sha256": "29cbd403c48ca1636235e649c7029441e409f0bc6f073a339df3ba6075c9fc6d",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-rs-act-0011",
+   "short": "La. Act 11 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 11 (HB143), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=33253",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1551",
+     "sha256": "54f6c20844b57e1abaec8191e6e03be50f85c8dd828b3329840337ef8b15826f",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-rs-act-0012",
+   "short": "La. Act 12 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 12 (HB160), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=33270",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1572",
+     "sha256": "d2de96129db5f220069e8d8b1f71c12646e3e400ea884cbd6ca9f0ef747c5e8f",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-rs-act-0013",
+   "short": "La. Act 13 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 13 (HB162), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=33272",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1576",
+     "sha256": "53c45b6f5f66962c0243f5e2805acc389dd93a8299ae50f02fcfa4d19378f4e0",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-rs-act-0014",
+   "short": "La. Act 14 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 14 (HB165), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=33275",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1581",
+     "sha256": "251a08acb87118e5dd9e2e98685aa254e1d9d2c46317c74303b9b6b4d69b5e97",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-rs-act-0015",
+   "short": "La. Act 15 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 15 (HB172), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=33282",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1591",
+     "sha256": "70aa6c761cb1a6daf8c03e04205ce3b759f2d653f20173a4404dcd363d894986",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-rs-act-0016",
+   "short": "La. Act 16 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 16 (HB173), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=33283",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1594",
+     "sha256": "64b99e73270014b962ffe11c937582a22e20f1712bd2bfeece0103082da0b0f1",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-rs-act-0017",
+   "short": "La. Act 17 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 17 (HB184), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=33294",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1612",
+     "sha256": "708af8dc030016aa756b86cede6af64ad2b911e86bd515a26bba2cb9960740f4",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-rs-act-0019",
+   "short": "La. Act 19 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 19 (HB203), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=33313",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1643",
+     "sha256": "35414e3d168a07b041cfa224f8cdd4170e5c777f7aafba821a12fe60497457ca",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-rs-act-0020",
+   "short": "La. Act 20 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 20 (HB205), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=33315",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1647",
+     "sha256": "87f3bc766e12f76139cd3a4c50a057fb975d88750678cd0149fca61f91495fef",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-rs-act-0023",
+   "short": "La. Act 23 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 23 (HB266), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=33645",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1755",
+     "sha256": "a964b70fe0474a719541abb7963ccb853f7da08c4e7597815c654d6b53fc3ec8",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-rs-act-0024",
+   "short": "La. Act 24 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 24 (HB311), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=33712",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1829",
+     "sha256": "b8f9b91b814a24fe655fce049aeaba4e831147c0c0313777d92061011685fa54",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-rs-act-0025",
+   "short": "La. Act 25 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 25 (HB327), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=33901",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1853",
+     "sha256": "f35c0ad5c2bea8854e598962bd018cf2c581838e62c4d55a255168a7d4ddda52",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-rs-act-0029",
+   "short": "La. Act 29 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 29 (HB37), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=30940",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1868",
+     "sha256": "a84b139d43078652208801a7abdb29553f8bba9b7bc30a98e84cdc82e6188db8",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-rs-act-0031",
+   "short": "La. Act 31 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 31 (HB49), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=32908",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1894",
+     "sha256": "4bb854ffeafb1bd88a445d52724a9484175e006d595e00fa1e3e3e581a762ced",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2000-rs-act-0036",
+   "short": "La. Act 36 (2000 Regular Session)",
+   "title": "Louisiana 2000 Regular Session, Act 36 (HB246), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=33487",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=1719",
+     "sha256": "a283f94622be24341c4e9a3c5a5a10e3c4f40fb500a1821f5c918894e1cb9ded",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
   }
  ]
 }

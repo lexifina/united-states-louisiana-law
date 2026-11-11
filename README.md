@@ -187,3 +187,34 @@ These are session laws, including amending and one-time acts; they are not prior
 | `session-1999-rs-act-1281/` | Louisiana 1999 Regular Session, Act 1281 (HB1217), as enacted | 1 | As enacted; effective 1999-08-15 |
 | `session-1999-rs-act-1308/` | Louisiana 1999 Regular Session, Act 1308 (HB1843), as enacted | 1 | As enacted; effective 1999-07-12 |
 
+## Historical session laws: 2000 Regular Session
+
+This append adds 22 as-enacted acts of the 2000 Regular Session, each as one complete enrolled document. The text is published by the Louisiana State Legislature. Effective dates come from its session effective-date table; the records retain the source document headers and signature labels. Each historical record is added as a labelled correction, without replacing the earlier published commits. The editorial correction commits are authored by Lexifina; the law text comes from the Legislature.
+
+These are session laws, including amending and one-time acts; they are not prior consolidated editions of the codes. Records with unresolved commencement, unavailable enrolled text, graphical content, or conflicting text extraction are excluded. Earlier consolidated code editions and the other legislative sessions remain outside this historical addition.
+
+| Folder | Act | Versions | History |
+| --- | --- | ---: | --- |
+| `session-2000-rs-act-0003/` | Louisiana 2000 Regular Session, Act 3 (HB5), as enacted | 1 | As enacted; effective 2000-07-01 |
+| `session-2000-rs-act-0004/` | Louisiana 2000 Regular Session, Act 4 (HB39), as enacted | 1 | As enacted; effective 2000-07-01 |
+| `session-2000-rs-act-0005/` | Louisiana 2000 Regular Session, Act 5 (HB40), as enacted | 1 | As enacted; effective 2000-07-01 |
+| `session-2000-rs-act-0006/` | Louisiana 2000 Regular Session, Act 6 (HB41), as enacted | 1 | As enacted; effective 2000-07-01 |
+| `session-2000-rs-act-0008/` | Louisiana 2000 Regular Session, Act 8 (HB59), as enacted | 1 | As enacted; effective 2000-07-01 |
+| `session-2000-rs-act-0011/` | Louisiana 2000 Regular Session, Act 11 (HB143), as enacted | 1 | As enacted; effective 2000-07-01 |
+| `session-2000-rs-act-0012/` | Louisiana 2000 Regular Session, Act 12 (HB160), as enacted | 1 | As enacted; effective 2000-07-01 |
+| `session-2000-rs-act-0013/` | Louisiana 2000 Regular Session, Act 13 (HB162), as enacted | 1 | As enacted; effective 2000-07-01 |
+| `session-2000-rs-act-0014/` | Louisiana 2000 Regular Session, Act 14 (HB165), as enacted | 1 | As enacted; effective 2000-07-01 |
+| `session-2000-rs-act-0015/` | Louisiana 2000 Regular Session, Act 15 (HB172), as enacted | 1 | As enacted; effective 2000-07-01 |
+| `session-2000-rs-act-0016/` | Louisiana 2000 Regular Session, Act 16 (HB173), as enacted | 1 | As enacted; effective 2000-07-01 |
+| `session-2000-rs-act-0017/` | Louisiana 2000 Regular Session, Act 17 (HB184), as enacted | 1 | As enacted; effective 2000-07-01 |
+| `session-2000-rs-act-0019/` | Louisiana 2000 Regular Session, Act 19 (HB203), as enacted | 1 | As enacted; effective 2000-07-01 |
+| `session-2000-rs-act-0020/` | Louisiana 2000 Regular Session, Act 20 (HB205), as enacted | 1 | As enacted; effective 2000-07-01 |
+| `session-2000-rs-act-0021/` | Louisiana 2000 Regular Session, Act 21 (HB2), as enacted | 1 | As enacted; effective 2000-06-28 |
+| `session-2000-rs-act-0023/` | Louisiana 2000 Regular Session, Act 23 (HB266), as enacted | 1 | As enacted; effective 2000-07-01 |
+| `session-2000-rs-act-0024/` | Louisiana 2000 Regular Session, Act 24 (HB311), as enacted | 1 | As enacted; effective 2000-07-01 |
+| `session-2000-rs-act-0025/` | Louisiana 2000 Regular Session, Act 25 (HB327), as enacted | 1 | As enacted; effective 2000-07-01 |
+| `session-2000-rs-act-0029/` | Louisiana 2000 Regular Session, Act 29 (HB37), as enacted | 1 | As enacted; effective 2000-07-01 |
+| `session-2000-rs-act-0031/` | Louisiana 2000 Regular Session, Act 31 (HB49), as enacted | 1 | As enacted; effective 2000-07-01 |
+| `session-2000-rs-act-0036/` | Louisiana 2000 Regular Session, Act 36 (HB246), as enacted | 1 | As enacted; effective 2000-08-15 |
+| `session-2000-rs-act-0043/` | Louisiana 2000 Regular Session, Act 43 (HB3), as enacted | 1 | As enacted; effective 2000-06-27 |
+

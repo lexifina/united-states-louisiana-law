@@ -1,0 +1,163 @@
+{
+ "history_type": "as enacted",
+ "sessions": [
+  {
+   "session": "00RS",
+   "name": "2000 Regular Session",
+   "declared_instruments": 49,
+   "act_listing_visible_rows": 49,
+   "effective_date_identities": 49,
+   "complete_contiguous_range": true,
+   "visible_identities_equal": true,
+   "approval_table_rows": 49,
+   "date_listing_shortfall": 0,
+   "numbered_range_gaps": [],
+   "missing_visible": []
+  }
+ ],
+ "included": 22,
+ "appendix_corpus_sha256": "ec334df3508924434076a359f8be235e27fba6fdcb0975c046efa28e542dbfd6",
+ "source": [
+  "https://legis.la.gov/legis/ActNumbers.aspx?sid=00RS"
+ ],
+ "effective_dates": [
+  "https://legis.la.gov/legis/ActEffectiveDates.aspx?sid=00RS"
+ ],
+ "excluded": [
+  {
+   "session": "00RS",
+   "act": 1,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 2,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 7,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 9,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 10,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 18,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 22,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 26,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 27,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 28,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 30,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 32,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 33,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 34,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 35,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 37,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 38,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 39,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 40,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 41,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 42,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 44,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 45,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 46,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 47,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 48,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "00RS",
+   "act": 49,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  }
+ ]
+}
