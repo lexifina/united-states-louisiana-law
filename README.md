@@ -114,3 +114,76 @@ This append adds 101 as-enacted acts of the 1998 Regular and First Extraordinary
 
 These are session laws, including amending and one-time acts; they are not prior consolidated editions of the codes. Records with unresolved commencement, unavailable enrolled text, graphical content, or conflicting text extraction are excluded. Earlier consolidated code editions and the other legislative sessions remain outside this historical addition.
 
+## Historical session laws: 1999 Regular Session
+
+This append adds 64 as-enacted acts of the 1999 Regular Session, each as one complete enrolled document. The text is published by the Louisiana State Legislature. Effective dates come from its session effective-date table; the records retain the source document headers and signature labels. Each historical record is added as a labelled correction, without replacing the earlier published commits. The editorial correction commits are authored by Lexifina; the law text comes from the Legislature.
+
+These are session laws, including amending and one-time acts; they are not prior consolidated editions of the codes. Records with unresolved commencement, unavailable enrolled text, graphical content, or conflicting text extraction are excluded. Earlier consolidated code editions and the other legislative sessions remain outside this historical addition.
+
+| Folder | Act | Versions | History |
+| --- | --- | ---: | --- |
+| `session-1999-rs-act-0001/` | Louisiana 1999 Regular Session, Act 1 (SB97), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0002/` | Louisiana 1999 Regular Session, Act 2 (SB905), as enacted | 1 | As enacted; effective 1999-04-22 |
+| `session-1999-rs-act-0004/` | Louisiana 1999 Regular Session, Act 4 (HB508), as enacted | 1 | As enacted; effective 1999-05-07 |
+| `session-1999-rs-act-0008/` | Louisiana 1999 Regular Session, Act 8 (HB565), as enacted | 1 | As enacted; effective 1999-05-13 |
+| `session-1999-rs-act-0015/` | Louisiana 1999 Regular Session, Act 15 (HB1260), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0050/` | Louisiana 1999 Regular Session, Act 50 (HB1322), as enacted | 1 | As enacted; effective 1999-05-28 |
+| `session-1999-rs-act-0060/` | Louisiana 1999 Regular Session, Act 60 (HB301), as enacted | 1 | As enacted; effective 1999-07-01 |
+| `session-1999-rs-act-0118/` | Louisiana 1999 Regular Session, Act 118 (HB485), as enacted | 1 | As enacted; effective 1999-06-09 |
+| `session-1999-rs-act-0138/` | Louisiana 1999 Regular Session, Act 138 (HB776), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0139/` | Louisiana 1999 Regular Session, Act 139 (HB795), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0170/` | Louisiana 1999 Regular Session, Act 170 (HB1268), as enacted | 1 | As enacted; effective 1999-06-09 |
+| `session-1999-rs-act-0186/` | Louisiana 1999 Regular Session, Act 186 (HB1569), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0231/` | Louisiana 1999 Regular Session, Act 231 (HB205), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0233/` | Louisiana 1999 Regular Session, Act 233 (HB213), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0234/` | Louisiana 1999 Regular Session, Act 234 (HB262), as enacted | 1 | As enacted; effective 1999-06-11 |
+| `session-1999-rs-act-0248/` | Louisiana 1999 Regular Session, Act 248 (HB415), as enacted | 1 | As enacted; effective 1999-06-11 |
+| `session-1999-rs-act-0273/` | Louisiana 1999 Regular Session, Act 273 (HB771), as enacted | 1 | As enacted; effective 1999-06-11 |
+| `session-1999-rs-act-0290/` | Louisiana 1999 Regular Session, Act 290 (HB1076), as enacted | 1 | As enacted; effective 1999-06-11 |
+| `session-1999-rs-act-0330/` | Louisiana 1999 Regular Session, Act 330 (HB1301), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0337/` | Louisiana 1999 Regular Session, Act 337 (HB1388), as enacted | 1 | As enacted; effective 1999-06-16 |
+| `session-1999-rs-act-0362/` | Louisiana 1999 Regular Session, Act 362 (HB1829), as enacted | 1 | As enacted; effective 1999-06-16 |
+| `session-1999-rs-act-0364/` | Louisiana 1999 Regular Session, Act 364 (HB1831), as enacted | 1 | As enacted; effective 1999-06-16 |
+| `session-1999-rs-act-0382/` | Louisiana 1999 Regular Session, Act 382 (HB2229), as enacted | 1 | As enacted; effective 1999-06-16 |
+| `session-1999-rs-act-0391/` | Louisiana 1999 Regular Session, Act 391 (SB1107), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0400/` | Louisiana 1999 Regular Session, Act 400 (HB2057), as enacted | 1 | As enacted; effective 1999-06-17 |
+| `session-1999-rs-act-0428/` | Louisiana 1999 Regular Session, Act 428 (SB888), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0461/` | Louisiana 1999 Regular Session, Act 461 (HB1327), as enacted | 1 | As enacted; effective 1999-06-18 |
+| `session-1999-rs-act-0480/` | Louisiana 1999 Regular Session, Act 480 (HB2015), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0485/` | Louisiana 1999 Regular Session, Act 485 (HB2231), as enacted | 1 | As enacted; effective 1999-06-18 |
+| `session-1999-rs-act-0493/` | Louisiana 1999 Regular Session, Act 493 (HB2154), as enacted | 1 | As enacted; effective 1999-06-21 |
+| `session-1999-rs-act-0494/` | Louisiana 1999 Regular Session, Act 494 (HB2027), as enacted | 1 | As enacted; effective 1999-06-22 |
+| `session-1999-rs-act-0495/` | Louisiana 1999 Regular Session, Act 495 (HB2198), as enacted | 1 | As enacted; effective 1999-07-01 |
+| `session-1999-rs-act-0503/` | Louisiana 1999 Regular Session, Act 503 (HB778), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0509/` | Louisiana 1999 Regular Session, Act 509 (SB923), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0534/` | Louisiana 1999 Regular Session, Act 534 (HB3), as enacted | 1 | As enacted; effective 1999-06-30 |
+| `session-1999-rs-act-0535/` | Louisiana 1999 Regular Session, Act 535 (HB233), as enacted | 1 | As enacted; effective 1999-07-01 |
+| `session-1999-rs-act-0537/` | Louisiana 1999 Regular Session, Act 537 (HB900), as enacted | 1 | As enacted; effective 1999-07-01 |
+| `session-1999-rs-act-0561/` | Louisiana 1999 Regular Session, Act 561 (HB1192), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0565/` | Louisiana 1999 Regular Session, Act 565 (HB1226), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0578/` | Louisiana 1999 Regular Session, Act 578 (HB1570), as enacted | 1 | As enacted; effective 1999-06-30 |
+| `session-1999-rs-act-0608/` | Louisiana 1999 Regular Session, Act 608 (HB1914), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0610/` | Louisiana 1999 Regular Session, Act 610 (HB1927), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0611/` | Louisiana 1999 Regular Session, Act 611 (HB1931), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0612/` | Louisiana 1999 Regular Session, Act 612 (HB1934), as enacted | 1 | As enacted; effective 1999-06-30 |
+| `session-1999-rs-act-0615/` | Louisiana 1999 Regular Session, Act 615 (HB1964), as enacted | 1 | As enacted; effective 1999-06-30 |
+| `session-1999-rs-act-0619/` | Louisiana 1999 Regular Session, Act 619 (HB1998), as enacted | 1 | As enacted; effective 1999-07-01 |
+| `session-1999-rs-act-0718/` | Louisiana 1999 Regular Session, Act 718 (HB786), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0723/` | Louisiana 1999 Regular Session, Act 723 (HB1965), as enacted | 1 | As enacted; effective 1999-07-01 |
+| `session-1999-rs-act-0726/` | Louisiana 1999 Regular Session, Act 726 (HB2036), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0796/` | Louisiana 1999 Regular Session, Act 796 (SB991), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0896/` | Louisiana 1999 Regular Session, Act 896 (HB1915), as enacted | 1 | As enacted; effective 1999-07-02 |
+| `session-1999-rs-act-0898/` | Louisiana 1999 Regular Session, Act 898 (HB1936), as enacted | 1 | As enacted; effective 1999-07-02 |
+| `session-1999-rs-act-0899/` | Louisiana 1999 Regular Session, Act 899 (HB1940), as enacted | 1 | As enacted; effective 1999-07-02 |
+| `session-1999-rs-act-0954/` | Louisiana 1999 Regular Session, Act 954 (HB428), as enacted | 1 | As enacted; effective 1999-07-09 |
+| `session-1999-rs-act-0959/` | Louisiana 1999 Regular Session, Act 959 (HB494), as enacted | 1 | As enacted; effective 1999-07-09 |
+| `session-1999-rs-act-0960/` | Louisiana 1999 Regular Session, Act 960 (HB501), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-0991/` | Louisiana 1999 Regular Session, Act 991 (HB1920), as enacted | 1 | As enacted; effective 1999-07-09 |
+| `session-1999-rs-act-1018/` | Louisiana 1999 Regular Session, Act 1018 (HB2055), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-1019/` | Louisiana 1999 Regular Session, Act 1019 (HB2056), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-1119/` | Louisiana 1999 Regular Session, Act 1119 (HB1410), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-1147/` | Louisiana 1999 Regular Session, Act 1147 (HB1635), as enacted | 1 | As enacted; effective 1999-07-09 |
+| `session-1999-rs-act-1258/` | Louisiana 1999 Regular Session, Act 1258 (HB530), as enacted | 1 | As enacted; effective 2000-06-29 |
+| `session-1999-rs-act-1281/` | Louisiana 1999 Regular Session, Act 1281 (HB1217), as enacted | 1 | As enacted; effective 1999-08-15 |
+| `session-1999-rs-act-1308/` | Louisiana 1999 Regular Session, Act 1308 (HB1843), as enacted | 1 | As enacted; effective 1999-07-12 |
+

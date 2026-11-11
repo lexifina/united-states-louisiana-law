@@ -10302,6 +10302,1030 @@
      "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
     }
    ]
+  },
+  {
+   "slug": "session-1999-rs-act-0002",
+   "short": "La. Act 2 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 2 (SB905), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=3832",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-04-22",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=67081",
+     "sha256": "a2b2dbc84f5bf1e636e2230864f030d9e35180832985c587e330ff2a53f828a3",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0004",
+   "short": "La. Act 4 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 4 (HB508), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2891",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-05-07",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=62525",
+     "sha256": "9cdaca2ee66660e2bdbc32f9cfd3fe301babfb60e054844f4ae277c07dd6c771",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0008",
+   "short": "La. Act 8 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 8 (HB565), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2769",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-05-13",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=62652",
+     "sha256": "f3e7c7e95d92573474f36ae078913bce56360afb411158a6b0d7b6ee629b8609",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0050",
+   "short": "La. Act 50 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 50 (HB1322), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2045",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-05-28",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=59445",
+     "sha256": "549dadf3d54dffdafd28b1feab8d3b753524c528ae4681f960dda6ada3fecaa3",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0118",
+   "short": "La. Act 118 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 118 (HB485), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2913",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-06-09",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=62458",
+     "sha256": "5ee888909547cddb7bfe5b555ed6731886e9655cee0b7b9b958f74284c5c1a15",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0170",
+   "short": "La. Act 170 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 170 (HB1268), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2089",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-06-09",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=59311",
+     "sha256": "524494e726c265343a0fb192ed9c5774578c23d7c4a063f05c98303112dd7f3b",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0234",
+   "short": "La. Act 234 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 234 (HB262), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=3171",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-06-11",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=61902",
+     "sha256": "cd6e614d457e3072e554cca0ec905f42c259e5fd088f3e230a276aba503e9b11",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0248",
+   "short": "La. Act 248 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 248 (HB415), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2980",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-06-11",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=62283",
+     "sha256": "7f6aa8f2348a85b715209645c177b189f5999e557f892daccb54b8d84914d4a0",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0273",
+   "short": "La. Act 273 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 273 (HB771), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2561",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-06-11",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=63137",
+     "sha256": "610ad6e7ffc812cee290532b59c5fe59d17e345202a84bd1ebd30ac13cf7d5b1",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0290",
+   "short": "La. Act 290 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 290 (HB1076), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2286",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-06-11",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=58841",
+     "sha256": "e27b2a6291d83d7e43db20b0d7d867813d3809e239d0a779cedea2fddc1f111a",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0337",
+   "short": "La. Act 337 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 337 (HB1388), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1975",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-06-16",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=59605",
+     "sha256": "b713b5799f4b94ebb433bdca332a6f44d53ccb37b08559ede4079836e6464fc6",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0362",
+   "short": "La. Act 362 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 362 (HB1829), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1541",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-06-16",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=60670",
+     "sha256": "c41ce90c41e2803ab40f3e52f465762f3f27dc185d85290ec8b8bcaf2e1726be",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0364",
+   "short": "La. Act 364 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 364 (HB1831), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1531",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-06-16",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=60678",
+     "sha256": "d53300818ecb0fe7afff4b3b922ee02b473bedd3a1ba007824512e598a06ef44",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0382",
+   "short": "La. Act 382 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 382 (HB2229), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1157",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-06-16",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=61693",
+     "sha256": "0f838d90d3e4356e88a396b54635032b511f54f6fb8fe949016e2f25a7aa3f2f",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0400",
+   "short": "La. Act 400 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 400 (HB2057), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1321",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-06-17",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=61258",
+     "sha256": "eb058484e815b6325ae7fb1b98467db058a38acffb9f4c41bc2ba52a2cd92fd6",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0461",
+   "short": "La. Act 461 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 461 (HB1327), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2040",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-06-18",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=59457",
+     "sha256": "28cf116ee1d3605dfbf1bd63d76ff303d23b3a478bab54fa42b617b1d61baf4d",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0485",
+   "short": "La. Act 485 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 485 (HB2231), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1159",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-06-18",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=61703",
+     "sha256": "9a4d7924311e5d42a94fd305b82e6ca5a6ed3e5612d4024bfac43fe7b5dc2c59",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0493",
+   "short": "La. Act 493 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 493 (HB2154), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1228",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-06-21",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=61515",
+     "sha256": "56e70d7b614cdeb36dfd97511d56a259565089a1166c16b9bb0ea91a010d89c8",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0494",
+   "short": "La. Act 494 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 494 (HB2027), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1339",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-06-22",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=61174",
+     "sha256": "de9b2d2a036c005ac4c977c353fc5c224e0e5140d2cd2dc005b48dd12e01cefe",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0534",
+   "short": "La. Act 534 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 534 (HB3), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=3400",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-06-30",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=61986",
+     "sha256": "9022b8d902141d8c001e86623b6a61fe03cda79a9e2248d1fcb1e0269e19c9db",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0578",
+   "short": "La. Act 578 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 578 (HB1570), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1772",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-06-30",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=60044",
+     "sha256": "0abaf2b4354b386241da67710b9de2a88c3324acb159661f19f63a67508f21c5",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0612",
+   "short": "La. Act 612 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 612 (HB1934), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1436",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-06-30",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=60930",
+     "sha256": "a6321c32c4362a999359f6860caeb14eb0553ac6feb99e44b93ee499892fa9f4",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0615",
+   "short": "La. Act 615 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 615 (HB1964), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1408",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-06-30",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=61010",
+     "sha256": "60c342bbe4b389e302fa7d3d8e7855d118ac0ee8e3fd3057fff045be8d34b19c",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0060",
+   "short": "La. Act 60 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 60 (HB301), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=3126",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=61993",
+     "sha256": "2b3a19cf3e71f6beb1a64d0d074e5fcfbbc134e311df3204248e234579f85ede",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0495",
+   "short": "La. Act 495 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 495 (HB2198), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1186",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=61622",
+     "sha256": "e041ad909451954587bad80dd4e73d120c8dd04f8bc2081640d9d81eeadd175d",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0535",
+   "short": "La. Act 535 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 535 (HB233), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=3198",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=61847",
+     "sha256": "170bfcd65946f8e2c466fc25464badeeaeecc00bd42d57613c63e2163963d2b4",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0537",
+   "short": "La. Act 537 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 537 (HB900), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2503",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=63467",
+     "sha256": "5cf60eabf335da0d69d5c1fc1257b53c49acd3f8dd54c42ce4dbe5d8770be911",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0619",
+   "short": "La. Act 619 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 619 (HB1998), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1370",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=61098",
+     "sha256": "f45217dae3dc485792ff8cc209eedbc8cd9d044805a3305e610133e88cd70051",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0723",
+   "short": "La. Act 723 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 723 (HB1965), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1398",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=61014",
+     "sha256": "e52ee7aa98b727656f9f24164cf3159e17b4d5b20a16b28aa12e2f5918ca2c5b",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0896",
+   "short": "La. Act 896 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 896 (HB1915), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1454",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-07-02",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=60878",
+     "sha256": "a6fcfef60bf222888b34c71de88833745dae25d9fba1d3dd0360f59363547fef",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0898",
+   "short": "La. Act 898 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 898 (HB1936), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1427",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-07-02",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=60936",
+     "sha256": "a8e4f3a5e2929c15d5ce115f79ebfe30f46ec534d3f27cd349ee2f9e0a3dec47",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0899",
+   "short": "La. Act 899 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 899 (HB1940), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1431",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-07-02",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=60951",
+     "sha256": "9d141943f6b9436803f44adbca18c6e2ad5efb752b827114ad869cbd008b6a3a",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0954",
+   "short": "La. Act 954 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 954 (HB428), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2967",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-07-09",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=62309",
+     "sha256": "a2bc8bd8c6b0113e356a40727b49ed686df1419dbb52cd0b9080fb517b42d2d5",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0959",
+   "short": "La. Act 959 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 959 (HB494), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2900",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-07-09",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=62483",
+     "sha256": "e4de8a3a85505b9a77ec4a7077e17b64a118eafb81cc70e0ad65d73b7773023b",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0991",
+   "short": "La. Act 991 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 991 (HB1920), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1446",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-07-09",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=60893",
+     "sha256": "00cf4c62ad0f2e9ee3c0d14244e761bfba6e69b0286ad76feb881ff8bc3f1d4e",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-1147",
+   "short": "La. Act 1147 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 1147 (HB1635), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1711",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-07-09",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=60209",
+     "sha256": "062d0b26444f7e75449b79ffedc0f63e599cc5d5588181c53d5007168a6b1b19",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-1308",
+   "short": "La. Act 1308 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 1308 (HB1843), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1520",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-07-12",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=60709",
+     "sha256": "faf8f4fb9037efc3a835351891ec92251be26a53d685d72be67681f564a876fd",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0001",
+   "short": "La. Act 1 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 1 (SB97), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=463",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=67211",
+     "sha256": "cc042b82d93b4911e4152f1138792841924cd3ee98ed455d95ef69a875c88299",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0015",
+   "short": "La. Act 15 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 15 (HB1260), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2099",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=59289",
+     "sha256": "d53199e026d4fe61583724b04fc2fd2f8ff132ad848e8c3186234aa249fbc30e",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0138",
+   "short": "La. Act 138 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 138 (HB776), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2555",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=63148",
+     "sha256": "2c5724cabd29be86649b8cb9c59a4f5710ead00f1f225fdadb25669922ec76fa",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0139",
+   "short": "La. Act 139 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 139 (HB795), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2382",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=63204",
+     "sha256": "3e537eb6b5f7a7daf945abbace67f19fa891fbb0fe681470c1f357d5dea4169b",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0186",
+   "short": "La. Act 186 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 186 (HB1569), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1783",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=60038",
+     "sha256": "3ce8800b3665804258a711d62494f6bd24391b751ff255a2e3eb083ec5cdd4fd",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0231",
+   "short": "La. Act 231 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 231 (HB205), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=3225",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=61233",
+     "sha256": "c3f75240668ba1f6c33288b08b344ca26c79c4a67ab1b7a7a7b57541a3a85e63",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0233",
+   "short": "La. Act 233 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 233 (HB213), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=3218",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=61452",
+     "sha256": "56e73b03f7a9d1157da2794c94890a593f01840c32efb399af6b6ea0c810eea4",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0330",
+   "short": "La. Act 330 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 330 (HB1301), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=352",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=59396",
+     "sha256": "b6780e2271d2b217eaca71ea2088ad1680a6edfbcc524bf0e6fc064bea0a2fed",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0391",
+   "short": "La. Act 391 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 391 (SB1107), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=3649",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=65177",
+     "sha256": "98b20c979dfec0f0c76a1094525e0795cd8f5013d0eecc1feab7e416535b4383",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0428",
+   "short": "La. Act 428 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 428 (SB888), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=3840",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=67041",
+     "sha256": "910c7f069ad5cad9492df2f2cd7816e5243774b6ce9759ec2936ba03ed50bf15",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0480",
+   "short": "La. Act 480 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 480 (HB2015), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1350",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=61140",
+     "sha256": "80eb8d0bd11f14d449331246f6a9c5bf7a73b7fe91d0439de9268a89790b291f",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0503",
+   "short": "La. Act 503 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 503 (HB778), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2557",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=63154",
+     "sha256": "4eab0355cff1f7a60d86bf07f11e356e672767ecbdb0701d12c3c15916db88f6",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0509",
+   "short": "La. Act 509 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 509 (SB923), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=3810",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=67121",
+     "sha256": "590e52d533c4f82b7f1ed2aa7266687b3241a0dbedf8ee55f5266a9fe35ff55f",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0561",
+   "short": "La. Act 561 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 561 (HB1192), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2169",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=59115",
+     "sha256": "ba4c3327625488d13b7950bdbc3c2a5e9daa03cd36c14b48ace3522f12439174",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0565",
+   "short": "La. Act 565 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 565 (HB1226), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2133",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=59209",
+     "sha256": "63352a0b6c511df327d679f010fc2fa0c862ad2d3bf101151d7e6be5cfb4305e",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0608",
+   "short": "La. Act 608 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 608 (HB1914), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1453",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=60875",
+     "sha256": "edc088ba2dea3f31e3a4b49326edaf0b9038f5746cd66f6870049c9ce865b478",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0610",
+   "short": "La. Act 610 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 610 (HB1927), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1441",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=60914",
+     "sha256": "3b1dcafbd16f0aa1c0a36a93d464a329fa4b429c5751d6d810092330d57ba92a",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0611",
+   "short": "La. Act 611 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 611 (HB1931), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1433",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=60923",
+     "sha256": "11998e3fc3c4a1144b992e9e4fa608296e19578e3eb591ff531667ba79ab3408",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0718",
+   "short": "La. Act 718 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 718 (HB786), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2553",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=63178",
+     "sha256": "808af0ebdf886512a9be558334879a262f63a589f9c65f7ca7748f4f2fcebdd0",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0726",
+   "short": "La. Act 726 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 726 (HB2036), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1336",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=61197",
+     "sha256": "bfcfe7146342a2ee302ac2467ba4fb9fa6620bffec030ed8789f64ca79384b15",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0796",
+   "short": "La. Act 796 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 796 (SB991), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=3764",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=67259",
+     "sha256": "3df3dc31cb25e558898ef41d8f2db354817503e1d812cd88cc6cd664d8196333",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-0960",
+   "short": "La. Act 960 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 960 (HB501), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2896",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=62509",
+     "sha256": "8e3a4b06d9819f3b9fbfdd8908d293ebf8177db3e6c2081027872d777aa50d7a",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-1018",
+   "short": "La. Act 1018 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 1018 (HB2055), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1319",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=61251",
+     "sha256": "eef0d4fc8f3c9a6622dafa45362a376b2f9ee785d6f5ec248508187c5e809001",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-1019",
+   "short": "La. Act 1019 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 1019 (HB2056), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1320",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=61254",
+     "sha256": "6239abcd26eee2e407505e278df993a1695b6a2ee253c3ac73cec20bbda244c0",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-1119",
+   "short": "La. Act 1119 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 1119 (HB1410), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=1954",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=59670",
+     "sha256": "d592ecb5ec057ec8d0e07a391e5bbca867769d1bb437a5129fd634fd058e1f4c",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-1281",
+   "short": "La. Act 1281 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 1281 (HB1217), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2145",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "1999-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=59177",
+     "sha256": "81da9e997239d48de170ebd6c1f12bf3439292bb60373d34f586996850b88425",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-1999-rs-act-1258",
+   "short": "La. Act 1258 (1999 Regular Session)",
+   "title": "Louisiana 1999 Regular Session, Act 1258 (HB530), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=2803",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2000-06-29",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=62579",
+     "sha256": "51745ea3390642d83a2acae2fea1dd2d8ea0c8c9d8c51a84df891e938a68aaa3",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
   }
  ]
 }
