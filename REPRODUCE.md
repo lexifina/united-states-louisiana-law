@@ -128,15 +128,19 @@ No second build of this corpus has been compared yet.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The original consolidated-code scripts were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 
 The commit messages are written by `build.py` from the source data.
 
-Model use at data-build time:
-- none
+Model involvement in source-data preparation:
+- For the 1998 historical session-law appendix: A model wrote the deterministic collection and validation program. All legal text is extracted from the publisher PDF text layer; no OCR or model-authored legal text is used.
 
 ## Historical session-law appendix
 
 The historical appendix contains 486 complete enrolled acts of the 1997 Regular Session. Each record is identified by its official document URL and SHA-256 in data/versions.json; data/history-1997-rs.json identifies the appendix input and its exclusions. The source text was independently extracted with PyMuPDF and pypdf, requiring equality of every character after whitespace normalization, and parsed twice with identical results. The original corpus checksum applies to the preceding consolidated-code records.
+
+## Historical session-law appendix
+
+The historical appendix contains 101 complete enrolled acts of the 1998 Regular and First Extraordinary Sessions. Each record is identified by its official document URL and SHA-256 in data/versions.json; data/history-1998-sessions.json identifies the appendix input and its exclusions. The source text was independently extracted with PyMuPDF and pypdf, requiring equality of every character after whitespace normalization, and parsed twice with identical results. The original corpus checksum applies to the preceding consolidated-code records.

@@ -1,0 +1,762 @@
+{
+ "history_type": "as enacted",
+ "sessions": [
+  {
+   "session": "98RS",
+   "name": "1998 Regular Session",
+   "declared_instruments": 76,
+   "act_listing_visible_rows": 76,
+   "effective_date_identities": 76,
+   "complete_contiguous_range": true,
+   "visible_identities_equal": true,
+   "approval_table_rows": 76
+  },
+  {
+   "session": "981ES",
+   "name": "1998 First Extraordinary Session",
+   "declared_instruments": 170,
+   "act_listing_visible_rows": 100,
+   "effective_date_identities": 170,
+   "complete_contiguous_range": true,
+   "visible_identities_equal": true,
+   "approval_table_rows": 170
+  }
+ ],
+ "included": 101,
+ "appendix_corpus_sha256": "5e64ef16102e67b53cedbd0c2f9a9d538fad9c0cb8d2b0fd6890f5c3eccaf8a7",
+ "source": [
+  "https://legis.la.gov/legis/ActNumbers.aspx?sid=98RS",
+  "https://legis.la.gov/legis/ActNumbers.aspx?sid=981ES"
+ ],
+ "effective_dates": [
+  "https://legis.la.gov/legis/ActEffectiveDates.aspx?sid=98RS",
+  "https://legis.la.gov/legis/ActEffectiveDates.aspx?sid=981ES"
+ ],
+ "excluded": [
+  {
+   "session": "981ES",
+   "act": 2,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 3,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 13,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 14,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 15,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 16,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 17,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 19,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 20,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 23,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 24,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 25,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 26,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 27,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 28,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 29,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 30,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 31,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 32,
+   "reason": "nonstandard embedded-font encoding lacks a Unicode map; no model decoding"
+  },
+  {
+   "session": "981ES",
+   "act": 33,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 35,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 36,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 37,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 38,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 40,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 41,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 42,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 43,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 44,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 45,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 46,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 47,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 48,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 49,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 50,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 51,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 52,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 53,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 54,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 59,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 61,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 62,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 64,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 65,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 66,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 67,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 70,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 71,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 73,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 74,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 92,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 93,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 94,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 95,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 96,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 97,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 98,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 99,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 101,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 102,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 103,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 104,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 105,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 106,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 107,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 108,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 109,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 110,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 112,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 113,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 114,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 115,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 116,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 149,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 150,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 151,
+   "reason": "effective-date table says See Act; commencement needs section-specific analysis"
+  },
+  {
+   "session": "981ES",
+   "act": 154,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 155,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 156,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 157,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 158,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 159,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 160,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 161,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 162,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 163,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 164,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 165,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 166,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 167,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "981ES",
+   "act": 168,
+   "reason": "bill page does not attest act identity/approval"
+  },
+  {
+   "session": "981ES",
+   "act": 169,
+   "reason": "bill page does not attest act identity/approval"
+  },
+  {
+   "session": "981ES",
+   "act": 170,
+   "reason": "bill page does not attest act identity/approval"
+  },
+  {
+   "session": "98RS",
+   "act": 1,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 2,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 3,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 5,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 7,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 8,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 10,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 11,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 12,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 14,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 15,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 16,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 17,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 18,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 19,
+   "reason": "non-text vector content; requires image review"
+  },
+  {
+   "session": "98RS",
+   "act": 20,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 21,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 29,
+   "reason": "non-text vector content; requires image review"
+  },
+  {
+   "session": "98RS",
+   "act": 40,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 41,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 42,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 43,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 45,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 46,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 47,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 48,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 49,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 50,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 51,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 52,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 53,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 55,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 56,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 57,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 58,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 59,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 60,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 61,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 62,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 63,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 64,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 65,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 66,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 67,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 68,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 69,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 70,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 71,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 72,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 74,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "98RS",
+   "act": 75,
+   "reason": "bill page does not attest act identity/approval"
+  },
+  {
+   "session": "98RS",
+   "act": 76,
+   "reason": "bill page does not attest act identity/approval"
+  }
+ ]
+}
