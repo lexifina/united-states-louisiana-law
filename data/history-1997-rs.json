@@ -1,0 +1,3995 @@
+{
+ "history_type": "as enacted",
+ "listed": 1503,
+ "effective_date_listing": 1482,
+ "included": 486,
+ "appendix_corpus_sha256": "e7bfeae6c1d41eda05051fb9083503de45c87ea630b4670a7511dfe766f28c41",
+ "source": "https://legis.la.gov/legis/ActNumbers.aspx?sid=97RS",
+ "effective_dates": "https://legis.la.gov/legis/ActEffectiveDates.aspx?sid=97RS",
+ "excluded": [
+  {
+   "act": 18,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 32,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 33,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 36,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 37,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 38,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 39,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 40,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 41,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 42,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 43,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 44,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 45,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 46,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 47,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 48,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 49,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 50,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 51,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 52,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 53,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 54,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 55,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 56,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 57,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 58,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 59,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 60,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 61,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 62,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 63,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 64,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 65,
+   "reason": "scan or empty PDF page; OCR disabled"
+  },
+  {
+   "act": 66,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 67,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 68,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 69,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 108,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 126,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 127,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 128,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 129,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 130,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 131,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 132,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 133,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 134,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 135,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 136,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 137,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 138,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 139,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 140,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 141,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 142,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 143,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 144,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 145,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 146,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 147,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 148,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 149,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 150,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 151,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 152,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 153,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 154,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 155,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 156,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 157,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 158,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 159,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 160,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 161,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 162,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 163,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 164,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 165,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 166,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 167,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 168,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 169,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 170,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 171,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 172,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 173,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 174,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 175,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 176,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 177,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 178,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 179,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 180,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 181,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 182,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 183,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 215,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 216,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 217,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 218,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 219,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 220,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 221,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 222,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 223,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 224,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 225,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 226,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 227,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 228,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 229,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 230,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 231,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 232,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 233,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 234,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 235,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 236,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 237,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 238,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 239,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 240,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 241,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 242,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 243,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 244,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 245,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 246,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 247,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 248,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 249,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 250,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 251,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 252,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 253,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 254,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 255,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 257,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 258,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 259,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 260,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 261,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 262,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 263,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 264,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 265,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 266,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 267,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 268,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 269,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 270,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 271,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 272,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 273,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 274,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 275,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 276,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 277,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 278,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 279,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 280,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 281,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 282,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 283,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 284,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 285,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 286,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 287,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 288,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 289,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 290,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 291,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 292,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 293,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 294,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 295,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 296,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 297,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 298,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 299,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 300,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 301,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 302,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 303,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 304,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 305,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 306,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 307,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 309,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 310,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 311,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 312,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 313,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 314,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 317,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 318,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 319,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 320,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 321,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 322,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 323,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 324,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 325,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 326,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 327,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 328,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 329,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 330,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 331,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 332,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 333,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 334,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 335,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 336,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 337,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 338,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 339,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 340,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 341,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 342,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 343,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 344,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 345,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 346,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 347,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 348,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 349,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 350,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 351,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 352,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 353,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 354,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 355,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 356,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 357,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 358,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 359,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 360,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 361,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 362,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 363,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 364,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 365,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 366,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 367,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 368,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 369,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 370,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 371,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 372,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 373,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 374,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 375,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 376,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 377,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 378,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 379,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 380,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 397,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 398,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 399,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 400,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 401,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 402,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 403,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 404,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 405,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 406,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 407,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 408,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 409,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 410,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 411,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 412,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 413,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 414,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 415,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 416,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 417,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 418,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 419,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 420,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 421,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 422,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 423,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 424,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 425,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 426,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 427,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 429,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 430,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 431,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 432,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 433,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 434,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 435,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 436,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 437,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 438,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 439,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 440,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 441,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 442,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 443,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 444,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 445,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 446,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 447,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 448,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 449,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 450,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 451,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 452,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 465,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 466,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 467,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 468,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 470,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 471,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 472,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 473,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 474,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 475,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 476,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 477,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 478,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 479,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 481,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 483,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 484,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 485,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 486,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 487,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 488,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 489,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 490,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 491,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 492,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 493,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 494,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 495,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 496,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 497,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 498,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 499,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 500,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 501,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 502,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 503,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 504,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 505,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 506,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 507,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 508,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 509,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 510,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 511,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 512,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 513,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 514,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 515,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 516,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 517,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 518,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 519,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 520,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 521,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 522,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 523,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 524,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 525,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 526,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 527,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 528,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 529,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 530,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 531,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 532,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 533,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 534,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 535,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 536,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 537,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 538,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 539,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 540,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 541,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 542,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 543,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 544,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 545,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 546,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 547,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 548,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 549,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 550,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 551,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 552,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 553,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 554,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 555,
+   "reason": "enrolled PDF bill identity mismatch"
+  },
+  {
+   "act": 556,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 557,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 561,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 563,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 564,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 565,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 566,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 567,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 569,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 571,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 572,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 573,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 574,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 576,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 577,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 581,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 582,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 583,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 584,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 585,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 586,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 587,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 588,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 589,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 592,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 593,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 594,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 595,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 596,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 597,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 598,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 599,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 600,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 601,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 602,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 603,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 604,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 605,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 606,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 607,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 608,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 609,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 610,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 611,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 613,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 614,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 615,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 616,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 617,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 618,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 619,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 620,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 621,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 622,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 623,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 624,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 625,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 626,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 627,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 628,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 629,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 630,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 631,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 632,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 633,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 634,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 635,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 636,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 637,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 638,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 639,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 641,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 643,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 644,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 645,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 646,
+   "reason": "effective-date table says See Act; commencement needs section-specific analysis"
+  },
+  {
+   "act": 647,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 648,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 649,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 650,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 651,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 652,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 655,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 656,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 657,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 658,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 667,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 689,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 691,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 700,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 704,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 709,
+   "reason": "Failed to open stream"
+  },
+  {
+   "act": 710,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 711,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 715,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 717,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 723,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 724,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 725,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 726,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 727,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 728,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 729,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 730,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 731,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 733,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 737,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 738,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 739,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 740,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 741,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 742,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 743,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 744,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 745,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 746,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 747,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 748,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 749,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 750,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 751,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 752,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 753,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 754,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 755,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 756,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 757,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 758,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 759,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 760,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 761,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 762,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 763,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 764,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 765,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 766,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 767,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 769,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 770,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 771,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 772,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 773,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 774,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 775,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 776,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 777,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 778,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 779,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 780,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 781,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 782,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 783,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 784,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 785,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 786,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 787,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 788,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 789,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 790,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 791,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 792,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 793,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 794,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 795,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 796,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 797,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 798,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 799,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 800,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 801,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 802,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 803,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 804,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 805,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 806,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 807,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 808,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 809,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 810,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 811,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 812,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 813,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 814,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 815,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 816,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 817,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 818,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 819,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 820,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 821,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 822,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 823,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 824,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 825,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 826,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 827,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 828,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 829,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 830,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 831,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 832,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 833,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 834,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 835,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 836,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 837,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 838,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 839,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 840,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 841,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 842,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 843,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 844,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 845,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 846,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 847,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 848,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 849,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 850,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 851,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 852,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 853,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 854,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 855,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 856,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 857,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 858,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 859,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 860,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 861,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 867,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 868,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 900,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 901,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 922,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 924,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 932,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 934,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 935,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 936,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 937,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 938,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 939,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 940,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 941,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 942,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 943,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 944,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 945,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 946,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 947,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 948,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 949,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 950,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 951,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 952,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 953,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 954,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 955,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 956,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 957,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 958,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 959,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 960,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 961,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 962,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 963,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 964,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 965,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 966,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 967,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 968,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 969,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 970,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 971,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 972,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 973,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 975,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 976,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 977,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 978,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 979,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 980,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 981,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 982,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 983,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 984,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 985,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 986,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 987,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 988,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 989,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 990,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 991,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 992,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 993,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 994,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 995,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 996,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 997,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 998,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 999,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1000,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1001,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1002,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1003,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1004,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1005,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1006,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1007,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1008,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1009,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1010,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1011,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1012,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1013,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1014,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1015,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1016,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1017,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1018,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1019,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1020,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1021,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1022,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1023,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1024,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1025,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1026,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1027,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1028,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1029,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1030,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1031,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1032,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1033,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1034,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1035,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1036,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1037,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1038,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1039,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1040,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1041,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1042,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1043,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1044,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1045,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1046,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1047,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1048,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1053,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1054,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1055,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1056,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1057,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1058,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1059,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1060,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1061,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1062,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1063,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1064,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1065,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1066,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1067,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1068,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1069,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1070,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1071,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1072,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1073,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1074,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1075,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1076,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1077,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1079,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1080,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1081,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1082,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1083,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1084,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1085,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1086,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1087,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1088,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1089,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1090,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1091,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1092,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1093,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1094,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1095,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1096,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1109,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1126,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1133,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1149,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1155,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1172,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1187,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1198,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1202,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1214,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1217,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1218,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1219,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1220,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1228,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1245,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1246,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1247,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1248,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1249,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1250,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1277,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1278,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1281,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1282,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1283,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1284,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1285,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1286,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1287,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1288,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1289,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1291,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1292,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1293,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1294,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1295,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1296,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1297,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1298,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1299,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1300,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1301,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1302,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1303,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1304,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1305,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1306,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1307,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1308,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1309,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1310,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1311,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1312,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1313,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1314,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1315,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1316,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1317,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1318,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1319,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1320,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1321,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1322,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1323,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1324,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1325,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1326,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1327,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1328,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1329,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1330,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1331,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1332,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1333,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1334,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1335,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1336,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1337,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1338,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1339,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1340,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1344,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1346,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1351,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1353,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1357,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1359,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1365,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1366,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1369,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1374,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1375,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1376,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1377,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1378,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1379,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1380,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1381,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1382,
+   "reason": "effective-date table says See Act; commencement needs section-specific analysis"
+  },
+  {
+   "act": 1383,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1384,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1385,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1386,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1387,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1388,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1389,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1390,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1391,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1392,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1393,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1394,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1395,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1396,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1397,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1398,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1399,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1400,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1401,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1402,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1403,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1404,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1405,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1406,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1407,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1408,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1409,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1410,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1411,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1412,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1413,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1414,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1415,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1416,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1417,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1418,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1419,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1420,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1421,
+   "reason": "effective-date table says See Act; commencement needs section-specific analysis"
+  },
+  {
+   "act": 1422,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1423,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1424,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1425,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1426,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1427,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1428,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1429,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1430,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "act": 1431,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1432,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1433,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1435,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1436,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1437,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1438,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1439,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1440,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1441,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1442,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1443,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1444,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1445,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1446,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1447,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1448,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1449,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1450,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1451,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1453,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1454,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1455,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1456,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1457,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1458,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1459,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1460,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1461,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1462,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1463,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1464,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1465,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1466,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1467,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1468,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1469,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1470,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1471,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1472,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1473,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1474,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1475,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1476,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1478,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1480,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1481,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1482,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1483,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1484,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  },
+  {
+   "act": 1485,
+   "reason": "approval table lacks approval date; unsigned-act timing requires review"
+  },
+  {
+   "act": 1486,
+   "reason": "approval table lacks approval date; unsigned-act timing requires review"
+  },
+  {
+   "act": 1503,
+   "reason": "independent PDF engines disagree after whitespace normalization"
+  }
+ ]
+}

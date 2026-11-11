@@ -136,3 +136,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none
+
+## Historical session-law appendix
+
+The historical appendix contains 486 complete enrolled acts of the 1997 Regular Session. Each record is identified by its official document URL and SHA-256 in data/versions.json; data/history-1997-rs.json identifies the appendix input and its exclusions. The source text was independently extracted with PyMuPDF and pypdf, requiring equality of every character after whitespace normalization, and parsed twice with identical results. The original corpus checksum applies to the preceding consolidated-code records.

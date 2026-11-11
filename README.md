@@ -88,7 +88,7 @@ The text is read from **Louisiana Laws** on <https://legis.la.gov/>, published b
 
 ## What it does not show
 
-- Any amendment history: past versions are not online.
+- Reconstructed earlier consolidated code versions; the historical session-law records described below are separate texts.
 - Any title or code whose pages are not yet all retrieved (see the table above for what is in).
 - Regulations (the Louisiana Administrative Code) and the chamber rules.
 - Nothing here is an official publication.
@@ -101,3 +101,10 @@ The text is read from **Louisiana Laws** on <https://legis.la.gov/>, published b
 ## What "author" means
 
 Each commit is authored by the publisher (the Louisiana State Legislature) because the repository holds one version of each act, the oldest version available. The committer is always Lexifina.
+
+## Historical session laws
+
+This append adds 486 as-enacted acts of the 1997 Regular Session, each as one complete enrolled document. The text is published by the Louisiana State Legislature. Effective dates come from its session effective-date table; the records retain the source document headers and signature labels. Each historical record is added as a labelled correction, without replacing the earlier published commits. The editorial correction commits are authored by Lexifina; the law text comes from the Legislature.
+
+These are session laws, including amending and one-time acts; they are not prior consolidated editions of the codes. Records with unresolved commencement, unavailable enrolled text, graphical content, or conflicting text extraction are excluded. Earlier consolidated code editions and the other legislative sessions remain outside this historical addition.
+
