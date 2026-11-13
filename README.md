@@ -464,3 +464,16 @@ These are session laws, including amending and one-time acts; they are not prior
 | `session-2004-rs-act-0652/` | Louisiana 2004 Regular Session, Act 652 (SB445), as enacted | 1 | As enacted; effective 2004-08-15 |
 | `session-2004-rs-act-0687/` | Louisiana 2004 Regular Session, Act 687 (SB840), as enacted | 1 | As enacted; effective 2004-08-15 |
 
+## Historical session laws: 2004 Regular Session
+
+This append adds 4 as-enacted acts of the 2004 Regular Session, each as one complete enrolled document. The text is published by the Louisiana State Legislature. Effective dates come from its session effective-date table; the records retain the source document headers and signature labels. Each historical record is added as a labelled correction, without replacing the earlier published commits. The editorial correction commits are authored by Lexifina; the law text comes from the Legislature.
+
+These are session laws, including amending and one-time acts; they are not prior consolidated editions of the codes. Records with unresolved commencement, unavailable enrolled text, graphical content, or conflicting text extraction are excluded. Earlier consolidated code editions and the other legislative sessions remain outside this historical addition.
+
+| Folder | Act | Versions | History |
+| --- | --- | ---: | --- |
+| `session-2004-rs-act-0748/` | Louisiana 2004 Regular Session, Act 748 (HB229), as enacted | 1 | As enacted; effective 2004-08-15 |
+| `session-2004-rs-act-0777/` | Louisiana 2004 Regular Session, Act 777 (HB1555), as enacted | 1 | As enacted; effective 2004-07-06 |
+| `session-2004-rs-act-0880/` | Louisiana 2004 Regular Session, Act 880 (HB1532), as enacted | 1 | As enacted; effective 2004-08-15 |
+| `session-2004-rs-act-0883/` | Louisiana 2004 Regular Session, Act 883 (HB1560), as enacted | 1 | As enacted; effective 2004-07-12 |
+

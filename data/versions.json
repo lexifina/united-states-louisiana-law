@@ -14495,6 +14495,74 @@
      "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
     }
    ]
+  },
+  {
+   "slug": "session-2004-rs-act-0777",
+   "short": "La. Act 777 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 777 (HB1555), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=59550",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-07-06",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=283392",
+     "sha256": "fc9c8ccecb1ead2222772538d1b5dd780bd46cb9e9b3f9a0567246761d62df73",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0883",
+   "short": "La. Act 883 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 883 (HB1560), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=59558",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-07-12",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=284114",
+     "sha256": "9486d18c9e0d4f483e84315312de3ab53e0851056ef227dabeba84e2f8160b96",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0748",
+   "short": "La. Act 748 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 748 (HB229), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=57167",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=283604",
+     "sha256": "b723023dc16b497962a894a6bc8c970064f9c0c2b1482592163aa7f0af7a0de4",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0880",
+   "short": "La. Act 880 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 880 (HB1532), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=59518",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=284112",
+     "sha256": "c5dd007e92723f4f4263c8b99db303c11e2f8b9aff3194c7ce241c7341f06863",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
   }
  ]
 }

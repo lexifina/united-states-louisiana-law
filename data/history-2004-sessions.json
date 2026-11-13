@@ -16,15 +16,15 @@
    "missing_visible": []
   }
  ],
- "included": 9,
- "appendix_corpus_sha256": "5f61a098ee9f0dd0b27f9694c5ef1baadf29b578074f7c8c97d58a7e36ad0a6a",
+ "included": 4,
+ "appendix_corpus_sha256": "31e561eb5abc57f7a631d10e90e4ce146e312b610532f1e24b61cc7293e5b094",
  "source": [
   "https://legis.la.gov/legis/ActNumbers.aspx?sid=04RS"
  ],
  "effective_dates": [
   "https://legis.la.gov/legis/ActEffectiveDates.aspx?sid=04RS"
  ],
- "excluded_count": 921,
+ "excluded_count": 926,
  "excluded_categories": [
   "unresolved commencement",
   "unavailable enrolled text",
