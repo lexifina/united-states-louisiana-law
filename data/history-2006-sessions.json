@@ -1,0 +1,34 @@
+{
+ "history_type": "as enacted",
+ "sessions": [
+  {
+   "session": "06RS",
+   "name": "2006 Regular Session",
+   "declared_instruments": 864,
+   "act_listing_visible_rows": 100,
+   "effective_date_identities": 864,
+   "complete_contiguous_range": true,
+   "visible_identities_equal": true,
+   "approval_table_rows": 864,
+   "date_listing_shortfall": 0,
+   "official_count_discrepancy": 0,
+   "numbered_range_gaps": [],
+   "missing_visible": []
+  }
+ ],
+ "included": 28,
+ "appendix_corpus_sha256": "7553365e9fed70d0c7cc3f6f5ed7e2a7babd268378a22becc73f31e77c9f178c",
+ "source": [
+  "https://legis.la.gov/legis/ActNumbers.aspx?sid=06RS"
+ ],
+ "effective_dates": [
+  "https://legis.la.gov/legis/ActEffectiveDates.aspx?sid=06RS"
+ ],
+ "excluded_count": 836,
+ "excluded_categories": [
+  "unresolved commencement",
+  "unavailable enrolled text",
+  "graphical or deletion markup",
+  "conflicting text extraction"
+ ]
+}

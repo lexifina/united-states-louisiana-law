@@ -224,3 +224,11 @@ Model involvement in the 2005 historical session-law appendix:
 ## Historical session-law appendix
 
 The historical appendix contains 26 complete enrolled acts of the 2005 Regular Session. Each record is identified by its official document URL and SHA-256 in data/versions.json; data/history-2005-sessions.json identifies the appendix input and its exclusions. The source text was independently extracted with PyMuPDF and pypdf, requiring equality of every character after whitespace normalization, and parsed twice with identical results. The original corpus checksum applies to the preceding consolidated-code records.
+
+Model involvement in the 2006 historical session-law appendix:
+- A model wrote the deterministic collection and validation program. All legal text is extracted from the publisher PDF text layer; no OCR or model-authored legal text is used.
+
+
+## Historical session-law appendix
+
+The historical appendix contains 28 complete enrolled acts of the 2006 Regular Session. Each record is identified by its official document URL and SHA-256 in data/versions.json; data/history-2006-sessions.json identifies the appendix input and its exclusions. The source text was independently extracted with PyMuPDF and pypdf, requiring equality of every character after whitespace normalization, and parsed twice with identical results. The original corpus checksum applies to the preceding consolidated-code records.
