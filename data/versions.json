@@ -13866,6 +13866,703 @@
      "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
     }
    ]
+  },
+  {
+   "slug": "session-2004-rs-act-0009",
+   "short": "La. Act 9 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 9 (HB891), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=58129",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-05-06",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=273758",
+     "sha256": "2e2f3d8d14b916147d117d46e4312bf2b5e6f5944a561803b15335b42d0430c1",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0024",
+   "short": "La. Act 24 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 24 (HB1011), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=58249",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-05-20",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=280520",
+     "sha256": "e2526a0d67069c8ba427928f4a2dba98d81f0d7ec95c77f3cb7cd34a0f5c5556",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0027",
+   "short": "La. Act 27 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 27 (SB119), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=57350",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-05-21",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=280432",
+     "sha256": "67509ae144b6fcccb5517ce80198605c224abf27b0de723fbaa521ff67bdfb90",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0030",
+   "short": "La. Act 30 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 30 (SB303), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=58038",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-05-21",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=280586",
+     "sha256": "7cfb7996838ae78198671c09c6013af952ec3c61058dd9834a35ee68583e7c78",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0041",
+   "short": "La. Act 41 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 41 (HB327), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=57304",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-05-21",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=280801",
+     "sha256": "a6bbd51b0fafbbfe39d9b902bc8bfd165ef03937409b92837608dad39fe5b135",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0054",
+   "short": "La. Act 54 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 54 (HB914), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=58152",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-05-21",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=280809",
+     "sha256": "1988e2876e7d7534457daedfa9ebaf16a46b6d60a704768eafc21edbdfced122",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0087",
+   "short": "La. Act 87 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 87 (HB203), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=57141",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-05-28",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=281345",
+     "sha256": "97930148383ef4d634825e14219ade30a62df78d761fed44e3987683362690b3",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0101",
+   "short": "La. Act 101 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 101 (HB637), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=57678",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-05-28",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=281237",
+     "sha256": "bb5ed6afcdf02b50e63b75e9a06f5bf1da8866ddfce7af789d61348e6f863563",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0102",
+   "short": "La. Act 102 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 102 (HB657), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=57698",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-05-28",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=281238",
+     "sha256": "3e43d4f60b72a76e19d0a9a2502d80d058ee3f4b468f8ed01b6d8ec114f334c8",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0194",
+   "short": "La. Act 194 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 194 (HB58), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=56838",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-06-14",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=282284",
+     "sha256": "d3bd9f8202730f62827fcd84f6609a5160e4b95d057a29536877629a18a2ccc0",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0261",
+   "short": "La. Act 261 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 261 (HB908), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=58146",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-06-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=282305",
+     "sha256": "11d52d4d34842fe40bf300eba79292155db0f3b65c404ae5e93dfd6e63846d51",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0281",
+   "short": "La. Act 281 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 281 (HB1310), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=58703",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-06-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=282238",
+     "sha256": "b982e75558c5e38ee23b5f3858bb2344781705232426db4302aca9f79acc1cab",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0327",
+   "short": "La. Act 327 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 327 (HB395), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=57423",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-06-18",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=282875",
+     "sha256": "cef4b0d68f399f61afa6524030200114f776eda623af994dc83fc0af3a8b2a07",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0004",
+   "short": "La. Act 4 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 4 (HB1483), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=59425",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=284069",
+     "sha256": "8014d4424ec48dc5ebd14930e44371396af9674fef90bfbf8352048e4bc2e818",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0006",
+   "short": "La. Act 6 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 6 (HB1542), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=59529",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=283595",
+     "sha256": "395898419493673c1553c58ecde2f60fff8aa97ac82697cf14aa8523daceac26",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0003",
+   "short": "La. Act 3 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 3 (HB3), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=59237",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-07-12",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=283822",
+     "sha256": "eab9e7046376d56212059e5b95c9ee20b6e420610301e826b252d1dbdfdad574",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0002",
+   "short": "La. Act 2 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 2 (HB2), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=59238",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-07-14",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=284131",
+     "sha256": "15b2473775fe1522ac360b802df109fb5466a33d50a70334059097036f204ebd",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0025",
+   "short": "La. Act 25 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 25 (SB53), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=57101",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=280443",
+     "sha256": "b06d214ecc3a84dee0e14387d5d8d33e4c220a75d42aae7abddd08fcbd6e01b0",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0061",
+   "short": "La. Act 61 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 61 (SB137), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=57368",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=281550",
+     "sha256": "59e94c7d2b8a2631518f2e32a40cc9331250add39318928c63e9d8c2e8920c72",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0099",
+   "short": "La. Act 99 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 99 (HB605), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=57645",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=281354",
+     "sha256": "27ead4e8b0252bb0383eba2c451276db2434aae898f7618352fac68730412a7d",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0117",
+   "short": "La. Act 117 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 117 (HB7), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=56769",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=281721",
+     "sha256": "d27e23ee813b31bfaac1d1534ae60193a087bdb212080b6f02fffb915ec9bac2",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0127",
+   "short": "La. Act 127 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 127 (HB631), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=57672",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=281716",
+     "sha256": "9e9745e5b1876a85412da0a5a8a817173e9bde5091e4264f742a0abea4d96f93",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0135",
+   "short": "La. Act 135 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 135 (HB1044), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=58282",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=281698",
+     "sha256": "ee557d20f6bd816539b8476cd004580ffb6b8e73345440f9c52eeff6cd8bf289",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0140",
+   "short": "La. Act 140 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 140 (HB1424), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=59272",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=281703",
+     "sha256": "8458520105c9db37018e70bdd395effea022fd3b2f32b9147dd2a489d44aa56d",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0220",
+   "short": "La. Act 220 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 220 (HB650), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=57691",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=282288",
+     "sha256": "ab93504a6e4045206fc4c81bd258b574e2501fbfa21ea02afff1aac6f6cb5d74",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0233",
+   "short": "La. Act 233 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 233 (HB50), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=56813",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=282877",
+     "sha256": "6549392fa30a884a57a5f9a6c91c65af894c8aac1e7543380d6ad59f93aaa77a",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0291",
+   "short": "La. Act 291 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 291 (HB1564), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=59573",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=282250",
+     "sha256": "d646c31fcd8a7b9a9781af66963d34f2b35febc051ced839568ca4bf8f48c521",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0370",
+   "short": "La. Act 370 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 370 (HB276), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=57249",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=282995",
+     "sha256": "018410ab7458bd24149bce3875690186e959a7181f1fd7d4a56af4e8e3de9fe3",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0446",
+   "short": "La. Act 446 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 446 (HB1628), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=59658",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-06-24",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=284120",
+     "sha256": "1b6ebbe8a55e3dd3b487c946d9dee010daf60afe19dce16fc2ee6e0a4521d6e1",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0449",
+   "short": "La. Act 449 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 449 (HB1713), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=60102",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=283179",
+     "sha256": "87f69054ce16d9672ba67735496e53651453a002ed0c220e42c29389ff346d3d",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0494",
+   "short": "La. Act 494 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 494 (HB319), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=57296",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=282997",
+     "sha256": "c13e2aed18c4d52b477ed1215287e21346a2e2f19b0f59853336c206ad060525",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0508",
+   "short": "La. Act 508 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 508 (HB490), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=57519",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=283403",
+     "sha256": "6e2dd13d7199d4b01aa39ee663700f453140d1467eb11a9658122767d9b5833f",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0513",
+   "short": "La. Act 513 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 513 (HB524), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=57560",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=283207",
+     "sha256": "1eadb75491c47834afee758b8a60359e4eb6ab3a4f22ac3c318e7b366669f765",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0525",
+   "short": "La. Act 525 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 525 (HB706), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=57747",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=283223",
+     "sha256": "7fccdfeb428566a1d6ed88be8fa00ba90e71acd86ee2dac9e25aee4365ea3fbe",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0561",
+   "short": "La. Act 561 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 561 (HB1438), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=59318",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=283153",
+     "sha256": "0e1f2eaedec0407d503016a3143320c8edd8f7baa9d0bb34ca4fb3a78ce9b90a",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0652",
+   "short": "La. Act 652 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 652 (SB445), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=58598",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=283303",
+     "sha256": "3dee826d12b067d11158b60dd46aa9e9627c51f613965af73b0f27785994cd10",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0687",
+   "short": "La. Act 687 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 687 (SB840), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=59660",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=283318",
+     "sha256": "e35369965b74b001e1903bbf65f66f95b440ec0b13c480214405f35ba55f7083",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0777",
+   "short": "La. Act 777 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 777 (HB1555), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=59550",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-07-06",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=283392",
+     "sha256": "fc9c8ccecb1ead2222772538d1b5dd780bd46cb9e9b3f9a0567246761d62df73",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0883",
+   "short": "La. Act 883 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 883 (HB1560), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=59558",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-07-12",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=284114",
+     "sha256": "9486d18c9e0d4f483e84315312de3ab53e0851056ef227dabeba84e2f8160b96",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0748",
+   "short": "La. Act 748 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 748 (HB229), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=57167",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=283604",
+     "sha256": "b723023dc16b497962a894a6bc8c970064f9c0c2b1482592163aa7f0af7a0de4",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2004-rs-act-0880",
+   "short": "La. Act 880 (2004 Regular Session)",
+   "title": "Louisiana 2004 Regular Session, Act 880 (HB1532), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=59518",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=284112",
+     "sha256": "c5dd007e92723f4f4263c8b99db303c11e2f8b9aff3194c7ce241c7341f06863",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
   }
  ]
 }
