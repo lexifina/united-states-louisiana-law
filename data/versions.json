@@ -12574,6 +12574,431 @@
      "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
     }
    ]
+  },
+  {
+   "slug": "session-2002-rs-act-0001",
+   "short": "La. Act 1 (2002 Regular Session)",
+   "title": "Louisiana 2002 Regular Session, Act 1 (HB14), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=47747",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-06-07",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=181546",
+     "sha256": "6553d0f82ab7a0ca9f57cd7817606c22a615593979e8fcc722cceac689e82e57",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-rs-act-0012",
+   "short": "La. Act 12 (2002 Regular Session)",
+   "title": "Louisiana 2002 Regular Session, Act 12 (HB146), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48423",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-06-07",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=181561",
+     "sha256": "38340a55ae638d1f2ced04259df0dfe79ccb2f6519638d29e25bda32c12d26a8",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-rs-act-0026",
+   "short": "La. Act 26 (2002 Regular Session)",
+   "title": "Louisiana 2002 Regular Session, Act 26 (HB243), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48632",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-06-25",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=181746",
+     "sha256": "6ff785e21054390dae164b9e2c3ef10243b6680e5914c90a2d700abe30f037a0",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-rs-act-0033",
+   "short": "La. Act 33 (2002 Regular Session)",
+   "title": "Louisiana 2002 Regular Session, Act 33 (HB3), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48536",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-06-25",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=181806",
+     "sha256": "fec0e71d47bfb53a311f670e79b9270f4b7907166a942e993e78b04738612440",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-rs-act-0076",
+   "short": "La. Act 76 (2002 Regular Session)",
+   "title": "Louisiana 2002 Regular Session, Act 76 (HB242), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48631",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-06-25",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=181743",
+     "sha256": "e656d2ed42f030df034421c0cd336e9d318f7ecf77793ae57fe0ae4cc84ac33a",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-rs-act-0005",
+   "short": "La. Act 5 (2002 Regular Session)",
+   "title": "Louisiana 2002 Regular Session, Act 5 (HB66), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48299",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=181871",
+     "sha256": "13dc3229d8f9fc8c031606ed80e1a2f62692fd1fdd123c317da3d15af99ffc0b",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-rs-act-0007",
+   "short": "La. Act 7 (2002 Regular Session)",
+   "title": "Louisiana 2002 Regular Session, Act 7 (HB78), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48324",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=181894",
+     "sha256": "269b9f0e1b69178c7cd1d0fde2462cc2294ea171106120e9d9bbd53691bfbe43",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-rs-act-0008",
+   "short": "La. Act 8 (2002 Regular Session)",
+   "title": "Louisiana 2002 Regular Session, Act 8 (HB83), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48322",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=181906",
+     "sha256": "d949007e8d14a8c2c4d79882d4b2a5a427d44cae3f0d47cb22d5fabe7404216e",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-rs-act-0009",
+   "short": "La. Act 9 (2002 Regular Session)",
+   "title": "Louisiana 2002 Regular Session, Act 9 (HB91), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48342",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=181921",
+     "sha256": "fd0727389df14f72ac765e32cea2adc4716e190a53610fdb4cd032b8f1fe4c4f",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-rs-act-0018",
+   "short": "La. Act 18 (2002 Regular Session)",
+   "title": "Louisiana 2002 Regular Session, Act 18 (HB180), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48484",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=181633",
+     "sha256": "ff220226ed4daa69ba0051262c3a23f75758194e8435e9d9f71f012412ef7c49",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-rs-act-0023",
+   "short": "La. Act 23 (2002 Regular Session)",
+   "title": "Louisiana 2002 Regular Session, Act 23 (HB2), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48535",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=181665",
+     "sha256": "a1a9cb15a00cc3307ce0394e9e2c2ffebc1f0f1dc0b81d8a533bf809611ca7b8",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-rs-act-0043",
+   "short": "La. Act 43 (2002 Regular Session)",
+   "title": "Louisiana 2002 Regular Session, Act 43 (HB199), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48555",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=181661",
+     "sha256": "a9994aadf132ec78e00d6bf0fbe445b078b4af1722ae40d23f1a3a23dcb2b954",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-rs-act-0053",
+   "short": "La. Act 53 (2002 Regular Session)",
+   "title": "Louisiana 2002 Regular Session, Act 53 (HB200), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48556",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=181671",
+     "sha256": "182155544641ae527b786a5c7944ef59aa08942ce3104460eb1a6b6964c4f7dc",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-rs-act-0063",
+   "short": "La. Act 63 (2002 Regular Session)",
+   "title": "Louisiana 2002 Regular Session, Act 63 (HB208), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48568",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=181687",
+     "sha256": "d75962a2c3ab0994e99c010c07122bf14465d2f50f740376f86c0818a9e56f10",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-rs-act-0073",
+   "short": "La. Act 73 (2002 Regular Session)",
+   "title": "Louisiana 2002 Regular Session, Act 73 (HB229), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48589",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=181716",
+     "sha256": "ec9338134ffb13d81e85a948c41e78a8bb8b297e64f52a9cbe9d8189fd5a66b2",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-1es-act-0072",
+   "short": "La. Act 72 (2002 First Extraordinary Session)",
+   "title": "Louisiana 2002 First Extraordinary Session, Act 72 (HB45), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=47853",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-04-18",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=210236",
+     "sha256": "39437cdf00de87df8a918384f344708bc19513ff6b16fbdc4e2e1443b929a1a9",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-1es-act-0094",
+   "short": "La. Act 94 (2002 First Extraordinary Session)",
+   "title": "Louisiana 2002 First Extraordinary Session, Act 94 (HB102), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=47930",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-04-18",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=211290",
+     "sha256": "44271e16dbe5d53058c39fcc87fcc2dce4689fb210e28b526f912559161a7b10",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-1es-act-0102",
+   "short": "La. Act 102 (2002 First Extraordinary Session)",
+   "title": "Louisiana 2002 First Extraordinary Session, Act 102 (HB145), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48082",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-04-18",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=211405",
+     "sha256": "25104ba4f510ceb5b437777a1b6af913c49203e897b716dba81c82c35688e09d",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-1es-act-0108",
+   "short": "La. Act 108 (2002 First Extraordinary Session)",
+   "title": "Louisiana 2002 First Extraordinary Session, Act 108 (HB161), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48125",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-04-18",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=211455",
+     "sha256": "ed83cb6df485b66d1b1969e288aa506033a7c25bd89e9dd2d387493304817178",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-1es-act-0109",
+   "short": "La. Act 109 (2002 First Extraordinary Session)",
+   "title": "Louisiana 2002 First Extraordinary Session, Act 109 (HB163), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48114",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-04-18",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=211462",
+     "sha256": "65dbdfb0022c79940d5aff11cfae45c8f40bf4f7c52ce47c2bd4b0cee290c6b3",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-1es-act-0140",
+   "short": "La. Act 140 (2002 First Extraordinary Session)",
+   "title": "Louisiana 2002 First Extraordinary Session, Act 140 (HB146), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48080",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-04-23",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=211408",
+     "sha256": "b5b31a6f67b20adb0c8f351a24d1f504e435b64af53e272a5d52e10053a3f7d4",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-1es-act-0141",
+   "short": "La. Act 141 (2002 First Extraordinary Session)",
+   "title": "Louisiana 2002 First Extraordinary Session, Act 141 (HB159), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48123",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-04-23",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=211446",
+     "sha256": "4ef68aa8fbf7c84636081da9c03ed1e1134e3862a4b74b9eec89013fb4984498",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-1es-act-0152",
+   "short": "La. Act 152 (2002 First Extraordinary Session)",
+   "title": "Louisiana 2002 First Extraordinary Session, Act 152 (HB103), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=47922",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-04-24",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=211293",
+     "sha256": "bd145cc75c663a767e5a281734a64fb58f92a84d50cd1febab7f0f93b7f52369",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-1es-act-0054",
+   "short": "La. Act 54 (2002 First Extraordinary Session)",
+   "title": "Louisiana 2002 First Extraordinary Session, Act 54 (HB4), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=47780",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-06-16",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=210217",
+     "sha256": "748f60565e61f4ed37a209362589c22f10e7b1780b672be8bd52efe8bea1306d",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
+  },
+  {
+   "slug": "session-2002-1es-act-0068",
+   "short": "La. Act 68 (2002 First Extraordinary Session)",
+   "title": "Louisiana 2002 First Extraordinary Session, Act 68 (HB41), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=47806",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2002-06-16",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=210224",
+     "sha256": "37887e4da43b5c8d3922b4a92bd0ec40b6f5aa6cd3e9eb11cf062fab4a302748",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition.",
+     "source_images": 0
+    }
+   ]
   }
  ]
 }

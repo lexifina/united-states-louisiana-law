@@ -1,0 +1,809 @@
+{
+ "history_type": "as enacted",
+ "sessions": [
+  {
+   "session": "021ES",
+   "name": "2002 First Extraordinary Session",
+   "declared_instruments": 166,
+   "act_listing_visible_rows": 100,
+   "effective_date_identities": 166,
+   "complete_contiguous_range": true,
+   "visible_identities_equal": true,
+   "approval_table_rows": 166,
+   "date_listing_shortfall": 0,
+   "official_count_discrepancy": 0,
+   "numbered_range_gaps": [],
+   "missing_visible": []
+  }
+ ],
+ "included": 10,
+ "appendix_corpus_sha256": "a6835d442793dd17fbf1d4f3ab70442e1b8f70589c186627ed0ed320b636a0b6",
+ "source": [
+  "https://legis.la.gov/legis/ActNumbers.aspx?sid=021ES"
+ ],
+ "effective_dates": [
+  "https://legis.la.gov/legis/ActEffectiveDates.aspx?sid=021ES"
+ ],
+ "excluded": [
+  {
+   "session": "021ES",
+   "act": 1,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 2,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 3,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 4,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 5,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 6,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 7,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 8,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 9,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 10,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 11,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 12,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 13,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 14,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 15,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 16,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 17,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 18,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 19,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 20,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 21,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 22,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 23,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 24,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 25,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 26,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 27,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 28,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 29,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 30,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 31,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 32,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 33,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 34,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 35,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 36,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 37,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 38,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 39,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 40,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 41,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 42,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 43,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 44,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 45,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 46,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 47,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 48,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 49,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 50,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 51,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 52,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 53,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 55,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 56,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 57,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 58,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 59,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 60,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 61,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 62,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 63,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 64,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 65,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 66,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 67,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 69,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 70,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 71,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 73,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 74,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 75,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 76,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 77,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 78,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 79,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 80,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 81,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 82,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 83,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 84,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 85,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 86,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 87,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 88,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 89,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 90,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 91,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 92,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 93,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 95,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 96,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 97,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 98,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 99,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 100,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 101,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 103,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 104,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 105,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 106,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 107,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 110,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 111,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 112,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 113,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 114,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 115,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 116,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 117,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 118,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 119,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 120,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 121,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 122,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 123,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 124,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 125,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 126,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 127,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 128,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 129,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 130,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 131,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 132,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 133,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 134,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 135,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 136,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 137,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 138,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 139,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 142,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 143,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 144,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 145,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 146,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 147,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 148,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 149,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 150,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 151,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 153,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 154,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 155,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 156,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 157,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 158,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 159,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 160,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 161,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 162,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 163,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 164,
+   "reason": "source effective date precedes approval; requires retroactivity review"
+  },
+  {
+   "session": "021ES",
+   "act": 165,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  },
+  {
+   "session": "021ES",
+   "act": 166,
+   "reason": "strike-through or ambiguous textual rule; preserve source markup before admission"
+  }
+ ]
+}

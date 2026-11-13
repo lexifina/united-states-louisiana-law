@@ -306,3 +306,45 @@ These are session laws, including amending and one-time acts; they are not prior
 | `session-2001-rs-act-1095/` | Louisiana 2001 Regular Session, Act 1095 (HB1712), as enacted | 1 | As enacted; effective 2001-06-28 |
 | `session-2001-rs-act-1179/` | Louisiana 2001 Regular Session, Act 1179 (HB1512), as enacted | 1 | As enacted; effective 2001-06-29 |
 
+## Historical session laws: 2002 First Extraordinary and Regular Sessions
+
+This append adds 15 as-enacted acts of the 2002 First Extraordinary and Regular Sessions, each as one complete enrolled document. The text is published by the Louisiana State Legislature. Effective dates come from its session effective-date table; the records retain the source document headers and signature labels. Each historical record is added as a labelled correction, without replacing the earlier published commits. The editorial correction commits are authored by Lexifina; the law text comes from the Legislature.
+
+These are session laws, including amending and one-time acts; they are not prior consolidated editions of the codes. Records with unresolved commencement, unavailable enrolled text, graphical content, or conflicting text extraction are excluded. Earlier consolidated code editions and the other legislative sessions remain outside this historical addition.
+
+| Folder | Act | Versions | History |
+| --- | --- | ---: | --- |
+| `session-2002-rs-act-0001/` | Louisiana 2002 Regular Session, Act 1 (HB14), as enacted | 1 | As enacted; effective 2002-06-07 |
+| `session-2002-rs-act-0005/` | Louisiana 2002 Regular Session, Act 5 (HB66), as enacted | 1 | As enacted; effective 2002-07-01 |
+| `session-2002-rs-act-0007/` | Louisiana 2002 Regular Session, Act 7 (HB78), as enacted | 1 | As enacted; effective 2002-07-01 |
+| `session-2002-rs-act-0008/` | Louisiana 2002 Regular Session, Act 8 (HB83), as enacted | 1 | As enacted; effective 2002-07-01 |
+| `session-2002-rs-act-0009/` | Louisiana 2002 Regular Session, Act 9 (HB91), as enacted | 1 | As enacted; effective 2002-07-01 |
+| `session-2002-rs-act-0012/` | Louisiana 2002 Regular Session, Act 12 (HB146), as enacted | 1 | As enacted; effective 2002-06-07 |
+| `session-2002-rs-act-0018/` | Louisiana 2002 Regular Session, Act 18 (HB180), as enacted | 1 | As enacted; effective 2002-07-01 |
+| `session-2002-rs-act-0023/` | Louisiana 2002 Regular Session, Act 23 (HB2), as enacted | 1 | As enacted; effective 2002-07-01 |
+| `session-2002-rs-act-0026/` | Louisiana 2002 Regular Session, Act 26 (HB243), as enacted | 1 | As enacted; effective 2002-06-25 |
+| `session-2002-rs-act-0033/` | Louisiana 2002 Regular Session, Act 33 (HB3), as enacted | 1 | As enacted; effective 2002-06-25 |
+| `session-2002-rs-act-0043/` | Louisiana 2002 Regular Session, Act 43 (HB199), as enacted | 1 | As enacted; effective 2002-07-01 |
+| `session-2002-rs-act-0053/` | Louisiana 2002 Regular Session, Act 53 (HB200), as enacted | 1 | As enacted; effective 2002-07-01 |
+| `session-2002-rs-act-0063/` | Louisiana 2002 Regular Session, Act 63 (HB208), as enacted | 1 | As enacted; effective 2002-07-01 |
+| `session-2002-rs-act-0073/` | Louisiana 2002 Regular Session, Act 73 (HB229), as enacted | 1 | As enacted; effective 2002-08-15 |
+| `session-2002-rs-act-0076/` | Louisiana 2002 Regular Session, Act 76 (HB242), as enacted | 1 | As enacted; effective 2002-06-25 |
+
+## Historical session laws: 2002 First Extraordinary and Regular Sessions
+
+This append adds 10 as-enacted acts of the 2002 First Extraordinary and Regular Sessions, each as one complete enrolled document. The text is published by the Louisiana State Legislature. Effective dates come from its session effective-date table; the records retain the source document headers and signature labels. Each historical record is added as a labelled correction, without replacing the earlier published commits. The editorial correction commits are authored by Lexifina; the law text comes from the Legislature.
+
+These are session laws, including amending and one-time acts; they are not prior consolidated editions of the codes. Records with unresolved commencement, unavailable enrolled text, graphical content, or conflicting text extraction are excluded. Earlier consolidated code editions and the other legislative sessions remain outside this historical addition.
+
+| Folder | Act | Versions | History |
+| --- | --- | ---: | --- |
+| `session-2002-1es-act-0054/` | Louisiana 2002 First Extraordinary Session, Act 54 (HB4), as enacted | 1 | As enacted; effective 2002-06-16 |
+| `session-2002-1es-act-0068/` | Louisiana 2002 First Extraordinary Session, Act 68 (HB41), as enacted | 1 | As enacted; effective 2002-06-16 |
+| `session-2002-1es-act-0072/` | Louisiana 2002 First Extraordinary Session, Act 72 (HB45), as enacted | 1 | As enacted; effective 2002-04-18 |
+| `session-2002-1es-act-0094/` | Louisiana 2002 First Extraordinary Session, Act 94 (HB102), as enacted | 1 | As enacted; effective 2002-04-18 |
+| `session-2002-1es-act-0102/` | Louisiana 2002 First Extraordinary Session, Act 102 (HB145), as enacted | 1 | As enacted; effective 2002-04-18 |
+| `session-2002-1es-act-0108/` | Louisiana 2002 First Extraordinary Session, Act 108 (HB161), as enacted | 1 | As enacted; effective 2002-04-18 |
+| `session-2002-1es-act-0109/` | Louisiana 2002 First Extraordinary Session, Act 109 (HB163), as enacted | 1 | As enacted; effective 2002-04-18 |
+| `session-2002-1es-act-0140/` | Louisiana 2002 First Extraordinary Session, Act 140 (HB146), as enacted | 1 | As enacted; effective 2002-04-23 |
+| `session-2002-1es-act-0141/` | Louisiana 2002 First Extraordinary Session, Act 141 (HB159), as enacted | 1 | As enacted; effective 2002-04-23 |
+| `session-2002-1es-act-0152/` | Louisiana 2002 First Extraordinary Session, Act 152 (HB103), as enacted | 1 | As enacted; effective 2002-04-24 |
