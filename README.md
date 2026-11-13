@@ -242,3 +242,67 @@ These are session laws, including amending and one-time acts; they are not prior
 | `session-2000-2es-act-0002/` | Louisiana 2000 Second Extraordinary Session, Act 2 (HB2), as enacted | 1 | As enacted; effective 2000-07-01 |
 | `session-2000-2es-act-0006/` | Louisiana 2000 Second Extraordinary Session, Act 6 (HB28), as enacted | 1 | As enacted; effective 2000-06-29 |
 
+## Historical session laws: 2001 Regular Session initial batch
+
+This append adds 8 as-enacted acts of the 2001 Regular Session initial batch, each as one complete enrolled document. The text is published by the Louisiana State Legislature. Effective dates come from its session effective-date table; the records retain the source document headers and signature labels. Each historical record is added as a labelled correction, without replacing the earlier published commits. The editorial correction commits are authored by Lexifina; the law text comes from the Legislature.
+
+These are session laws, including amending and one-time acts; they are not prior consolidated editions of the codes. Records with unresolved commencement, unavailable enrolled text, graphical content, or conflicting text extraction are excluded. Earlier consolidated code editions and the other legislative sessions remain outside this historical addition.
+
+| Folder | Act | Versions | History |
+| --- | --- | ---: | --- |
+| `session-2001-rs-act-0001/` | Louisiana 2001 Regular Session, Act 1 (HB1794), as enacted | 1 | As enacted; effective 2001-04-19 |
+| `session-2001-rs-act-0002/` | Louisiana 2001 Regular Session, Act 2 (HB2009), as enacted | 1 | As enacted; effective 2001-05-03 |
+| `session-2001-rs-act-0016/` | Louisiana 2001 Regular Session, Act 16 (HB1297), as enacted | 1 | As enacted; effective 2001-05-17 |
+| `session-2001-rs-act-0032/` | Louisiana 2001 Regular Session, Act 32 (HB1808), as enacted | 1 | As enacted; effective 2001-07-01 |
+| `session-2001-rs-act-0035/` | Louisiana 2001 Regular Session, Act 35 (HB135), as enacted | 1 | As enacted; effective 2001-08-15 |
+| `session-2001-rs-act-0043/` | Louisiana 2001 Regular Session, Act 43 (HB216), as enacted | 1 | As enacted; effective 2001-08-15 |
+| `session-2001-rs-act-0052/` | Louisiana 2001 Regular Session, Act 52 (HB333), as enacted | 1 | As enacted; effective 2001-08-15 |
+| `session-2001-rs-act-0066/` | Louisiana 2001 Regular Session, Act 66 (HB859), as enacted | 1 | As enacted; effective 2001-09-30 |
+
+## Historical session laws: 2001 Regular Session
+
+This append adds 38 as-enacted acts of the 2001 Regular Session, each as one complete enrolled document. The text is published by the Louisiana State Legislature. Effective dates come from its session effective-date table; the records retain the source document headers and signature labels. Each historical record is added as a labelled correction, without replacing the earlier published commits. The editorial correction commits are authored by Lexifina; the law text comes from the Legislature.
+
+These are session laws, including amending and one-time acts; they are not prior consolidated editions of the codes. Records with unresolved commencement, unavailable enrolled text, graphical content, or conflicting text extraction are excluded. Earlier consolidated code editions and the other legislative sessions remain outside this historical addition.
+
+| Folder | Act | Versions | History |
+| --- | --- | ---: | --- |
+| `session-2001-rs-act-0072/` | Louisiana 2001 Regular Session, Act 72 (HB994), as enacted | 1 | As enacted; effective 2001-05-24 |
+| `session-2001-rs-act-0114/` | Louisiana 2001 Regular Session, Act 114 (HB427), as enacted | 1 | As enacted; effective 2001-05-25 |
+| `session-2001-rs-act-0122/` | Louisiana 2001 Regular Session, Act 122 (HB572), as enacted | 1 | As enacted; effective 2001-05-25 |
+| `session-2001-rs-act-0127/` | Louisiana 2001 Regular Session, Act 127 (HB677), as enacted | 1 | As enacted; effective 2001-08-15 |
+| `session-2001-rs-act-0135/` | Louisiana 2001 Regular Session, Act 135 (HB961), as enacted | 1 | As enacted; effective 2001-05-25 |
+| `session-2001-rs-act-0136/` | Louisiana 2001 Regular Session, Act 136 (HB992), as enacted | 1 | As enacted; effective 2001-05-25 |
+| `session-2001-rs-act-0138/` | Louisiana 2001 Regular Session, Act 138 (HB1032), as enacted | 1 | As enacted; effective 2001-07-01 |
+| `session-2001-rs-act-0144/` | Louisiana 2001 Regular Session, Act 144 (HB1204), as enacted | 1 | As enacted; effective 2001-05-25 |
+| `session-2001-rs-act-0146/` | Louisiana 2001 Regular Session, Act 146 (HB1366), as enacted | 1 | As enacted; effective 2001-05-25 |
+| `session-2001-rs-act-0209/` | Louisiana 2001 Regular Session, Act 209 (HB55), as enacted | 1 | As enacted; effective 2001-06-01 |
+| `session-2001-rs-act-0242/` | Louisiana 2001 Regular Session, Act 242 (HB687), as enacted | 1 | As enacted; effective 2001-08-15 |
+| `session-2001-rs-act-0248/` | Louisiana 2001 Regular Session, Act 248 (HB964), as enacted | 1 | As enacted; effective 2001-06-01 |
+| `session-2001-rs-act-0262/` | Louisiana 2001 Regular Session, Act 262 (HB1333), as enacted | 1 | As enacted; effective 2001-06-01 |
+| `session-2001-rs-act-0284/` | Louisiana 2001 Regular Session, Act 284 (HB623), as enacted | 1 | As enacted; effective 2001-06-01 |
+| `session-2001-rs-act-0373/` | Louisiana 2001 Regular Session, Act 373 (HB1150), as enacted | 1 | As enacted; effective 2001-06-13 |
+| `session-2001-rs-act-0374/` | Louisiana 2001 Regular Session, Act 374 (HB948), as enacted | 1 | As enacted; effective 2001-08-15 |
+| `session-2001-rs-act-0436/` | Louisiana 2001 Regular Session, Act 436 (HB1345), as enacted | 1 | As enacted; effective 2001-07-01 |
+| `session-2001-rs-act-0503/` | Louisiana 2001 Regular Session, Act 503 (HB137), as enacted | 1 | As enacted; effective 2001-08-15 |
+| `session-2001-rs-act-0505/` | Louisiana 2001 Regular Session, Act 505 (HB263), as enacted | 1 | As enacted; effective 2001-08-15 |
+| `session-2001-rs-act-0514/` | Louisiana 2001 Regular Session, Act 514 (HB1001), as enacted | 1 | As enacted; effective 2001-08-15 |
+| `session-2001-rs-act-0536/` | Louisiana 2001 Regular Session, Act 536 (HB1266), as enacted | 1 | As enacted; effective 2001-07-01 |
+| `session-2001-rs-act-0552/` | Louisiana 2001 Regular Session, Act 552 (HB3), as enacted | 1 | As enacted; effective 2001-06-22 |
+| `session-2001-rs-act-0555/` | Louisiana 2001 Regular Session, Act 555 (HB57), as enacted | 1 | As enacted; effective 2001-08-15 |
+| `session-2001-rs-act-0601/` | Louisiana 2001 Regular Session, Act 601 (HB937), as enacted | 1 | As enacted; effective 2001-08-15 |
+| `session-2001-rs-act-0607/` | Louisiana 2001 Regular Session, Act 607 (HB967), as enacted | 1 | As enacted; effective 2001-08-15 |
+| `session-2001-rs-act-0609/` | Louisiana 2001 Regular Session, Act 609 (HB969), as enacted | 1 | As enacted; effective 2001-08-15 |
+| `session-2001-rs-act-0668/` | Louisiana 2001 Regular Session, Act 668 (HB1783), as enacted | 1 | As enacted; effective 2001-07-01 |
+| `session-2001-rs-act-0670/` | Louisiana 2001 Regular Session, Act 670 (HB1870), as enacted | 1 | As enacted; effective 2001-06-25 |
+| `session-2001-rs-act-0844/` | Louisiana 2001 Regular Session, Act 844 (HB778), as enacted | 1 | As enacted; effective 2001-06-26 |
+| `session-2001-rs-act-0905/` | Louisiana 2001 Regular Session, Act 905 (HB1447), as enacted | 1 | As enacted; effective 2001-06-26 |
+| `session-2001-rs-act-0917/` | Louisiana 2001 Regular Session, Act 917 (HB1686), as enacted | 1 | As enacted; effective 2001-08-15 |
+| `session-2001-rs-act-0930/` | Louisiana 2001 Regular Session, Act 930 (HB1817), as enacted | 1 | As enacted; effective 2001-07-01 |
+| `session-2001-rs-act-0948/` | Louisiana 2001 Regular Session, Act 948 (HB1966), as enacted | 1 | As enacted; effective 2001-07-01 |
+| `session-2001-rs-act-0951/` | Louisiana 2001 Regular Session, Act 951 (HB2001), as enacted | 1 | As enacted; effective 2001-08-15 |
+| `session-2001-rs-act-1000/` | Louisiana 2001 Regular Session, Act 1000 (HB1835), as enacted | 1 | As enacted; effective 2001-08-15 |
+| `session-2001-rs-act-1080/` | Louisiana 2001 Regular Session, Act 1080 (HB1351), as enacted | 1 | As enacted; effective 2001-06-28 |
+| `session-2001-rs-act-1095/` | Louisiana 2001 Regular Session, Act 1095 (HB1712), as enacted | 1 | As enacted; effective 2001-06-28 |
+| `session-2001-rs-act-1179/` | Louisiana 2001 Regular Session, Act 1179 (HB1512), as enacted | 1 | As enacted; effective 2001-06-29 |
+
