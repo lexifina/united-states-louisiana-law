@@ -1,0 +1,34 @@
+{
+ "history_type": "as enacted",
+ "sessions": [
+  {
+   "session": "03RS",
+   "name": "2003 Regular Session",
+   "declared_instruments": 1307,
+   "act_listing_visible_rows": 100,
+   "effective_date_identities": 1307,
+   "complete_contiguous_range": true,
+   "visible_identities_equal": true,
+   "approval_table_rows": 1307,
+   "date_listing_shortfall": 0,
+   "official_count_discrepancy": 0,
+   "numbered_range_gaps": [],
+   "missing_visible": []
+  }
+ ],
+ "included": 51,
+ "appendix_corpus_sha256": "327df35075099decc5214aa2103713c59b534abf30e003bae0de17e0e052810d",
+ "source": [
+  "https://legis.la.gov/legis/ActNumbers.aspx?sid=03RS"
+ ],
+ "effective_dates": [
+  "https://legis.la.gov/legis/ActEffectiveDates.aspx?sid=03RS"
+ ],
+ "excluded_count": 1256,
+ "excluded_categories": [
+  "unresolved commencement",
+  "unavailable enrolled text",
+  "graphical or deletion markup",
+  "conflicting text extraction"
+ ]
+}
