@@ -348,3 +348,64 @@ These are session laws, including amending and one-time acts; they are not prior
 | `session-2002-1es-act-0140/` | Louisiana 2002 First Extraordinary Session, Act 140 (HB146), as enacted | 1 | As enacted; effective 2002-04-23 |
 | `session-2002-1es-act-0141/` | Louisiana 2002 First Extraordinary Session, Act 141 (HB159), as enacted | 1 | As enacted; effective 2002-04-23 |
 | `session-2002-1es-act-0152/` | Louisiana 2002 First Extraordinary Session, Act 152 (HB103), as enacted | 1 | As enacted; effective 2002-04-24 |
+
+## Historical session laws: 2003 Regular Session
+
+This append adds 51 as-enacted acts of the 2003 Regular Session, each as one complete enrolled document. The text is published by the Louisiana State Legislature. Effective dates come from its session effective-date table; the records retain the source document headers and signature labels. Each historical record is added as a labelled correction, without replacing the earlier published commits. The editorial correction commits are authored by Lexifina; the law text comes from the Legislature.
+
+These are session laws, including amending and one-time acts; they are not prior consolidated editions of the codes. Records with unresolved commencement, unavailable enrolled text, graphical content, or conflicting text extraction are excluded. Earlier consolidated code editions and the other legislative sessions remain outside this historical addition.
+
+| Folder | Act | Versions | History |
+| --- | --- | ---: | --- |
+| `session-2003-rs-act-0012/` | Louisiana 2003 Regular Session, Act 12 (HB11), as enacted | 1 | As enacted; effective 2003-08-15 |
+| `session-2003-rs-act-0016/` | Louisiana 2003 Regular Session, Act 16 (HB125), as enacted | 1 | As enacted; effective 2003-08-15 |
+| `session-2003-rs-act-0018/` | Louisiana 2003 Regular Session, Act 18 (HB242), as enacted | 1 | As enacted; effective 2003-08-15 |
+| `session-2003-rs-act-0020/` | Louisiana 2003 Regular Session, Act 20 (HB287), as enacted | 1 | As enacted; effective 2003-08-15 |
+| `session-2003-rs-act-0023/` | Louisiana 2003 Regular Session, Act 23 (HB407), as enacted | 1 | As enacted; effective 2004-01-01 |
+| `session-2003-rs-act-0024/` | Louisiana 2003 Regular Session, Act 24 (HB2), as enacted | 1 | As enacted; effective 2003-07-11 |
+| `session-2003-rs-act-0025/` | Louisiana 2003 Regular Session, Act 25 (HB495), as enacted | 1 | As enacted; effective 2003-05-23 |
+| `session-2003-rs-act-0030/` | Louisiana 2003 Regular Session, Act 30 (HB606), as enacted | 1 | As enacted; effective 2003-05-23 |
+| `session-2003-rs-act-0031/` | Louisiana 2003 Regular Session, Act 31 (HB607), as enacted | 1 | As enacted; effective 2003-05-23 |
+| `session-2003-rs-act-0032/` | Louisiana 2003 Regular Session, Act 32 (HB739), as enacted | 1 | As enacted; effective 2003-05-23 |
+| `session-2003-rs-act-0033/` | Louisiana 2003 Regular Session, Act 33 (HB806), as enacted | 1 | As enacted; effective 2003-05-23 |
+| `session-2003-rs-act-0034/` | Louisiana 2003 Regular Session, Act 34 (HB3), as enacted | 1 | As enacted; effective 2003-07-02 |
+| `session-2003-rs-act-0041/` | Louisiana 2003 Regular Session, Act 41 (HB970), as enacted | 1 | As enacted; effective 2003-05-23 |
+| `session-2003-rs-act-0045/` | Louisiana 2003 Regular Session, Act 45 (HB1168), as enacted | 1 | As enacted; effective 2003-08-15 |
+| `session-2003-rs-act-0064/` | Louisiana 2003 Regular Session, Act 64 (HB1875), as enacted | 1 | As enacted; effective 2003-07-01 |
+| `session-2003-rs-act-0075/` | Louisiana 2003 Regular Session, Act 75 (HB23), as enacted | 1 | As enacted; effective 2003-08-15 |
+| `session-2003-rs-act-0079/` | Louisiana 2003 Regular Session, Act 79 (HB44), as enacted | 1 | As enacted; effective 2003-08-15 |
+| `session-2003-rs-act-0083/` | Louisiana 2003 Regular Session, Act 83 (HB130), as enacted | 1 | As enacted; effective 2003-08-15 |
+| `session-2003-rs-act-0095/` | Louisiana 2003 Regular Session, Act 95 (HB608), as enacted | 1 | As enacted; effective 2003-05-28 |
+| `session-2003-rs-act-0096/` | Louisiana 2003 Regular Session, Act 96 (HB609), as enacted | 1 | As enacted; effective 2003-05-28 |
+| `session-2003-rs-act-0102/` | Louisiana 2003 Regular Session, Act 102 (HB826), as enacted | 1 | As enacted; effective 2003-05-28 |
+| `session-2003-rs-act-0106/` | Louisiana 2003 Regular Session, Act 106 (HB940), as enacted | 1 | As enacted; effective 2003-08-15 |
+| `session-2003-rs-act-0146/` | Louisiana 2003 Regular Session, Act 146 (HB1917), as enacted | 1 | As enacted; effective 2003-05-28 |
+| `session-2003-rs-act-0161/` | Louisiana 2003 Regular Session, Act 161 (HB757), as enacted | 1 | As enacted; effective 2003-08-15 |
+| `session-2003-rs-act-0270/` | Louisiana 2003 Regular Session, Act 270 (HB610), as enacted | 1 | As enacted; effective 2003-06-10 |
+| `session-2003-rs-act-0324/` | Louisiana 2003 Regular Session, Act 324 (HB562), as enacted | 1 | As enacted; effective 2003-08-15 |
+| `session-2003-rs-act-0355/` | Louisiana 2003 Regular Session, Act 355 (HB95), as enacted | 1 | As enacted; effective 2003-06-18 |
+| `session-2003-rs-act-0360/` | Louisiana 2003 Regular Session, Act 360 (HB163), as enacted | 1 | As enacted; effective 2003-06-18 |
+| `session-2003-rs-act-0390/` | Louisiana 2003 Regular Session, Act 390 (HB29), as enacted | 1 | As enacted; effective 2003-08-15 |
+| `session-2003-rs-act-0419/` | Louisiana 2003 Regular Session, Act 419 (HB786), as enacted | 1 | As enacted; effective 2003-06-18 |
+| `session-2003-rs-act-0421/` | Louisiana 2003 Regular Session, Act 421 (HB1039), as enacted | 1 | As enacted; effective 2003-08-15 |
+| `session-2003-rs-act-0432/` | Louisiana 2003 Regular Session, Act 432 (HB1968), as enacted | 1 | As enacted; effective 2003-06-18 |
+| `session-2003-rs-act-0579/` | Louisiana 2003 Regular Session, Act 579 (HB381), as enacted | 1 | As enacted; effective 2003-06-27 |
+| `session-2003-rs-act-0616/` | Louisiana 2003 Regular Session, Act 616 (HB301), as enacted | 1 | As enacted; effective 2003-08-15 |
+| `session-2003-rs-act-0638/` | Louisiana 2003 Regular Session, Act 638 (HB514), as enacted | 1 | As enacted; effective 2003-08-15 |
+| `session-2003-rs-act-0673/` | Louisiana 2003 Regular Session, Act 673 (HB1826), as enacted | 1 | As enacted; effective 2003-08-15 |
+| `session-2003-rs-act-0700/` | Louisiana 2003 Regular Session, Act 700 (HB1049), as enacted | 1 | As enacted; effective 2003-08-15 |
+| `session-2003-rs-act-0712/` | Louisiana 2003 Regular Session, Act 712 (HB1339), as enacted | 1 | As enacted; effective 2003-08-15 |
+| `session-2003-rs-act-0911/` | Louisiana 2003 Regular Session, Act 911 (HB79), as enacted | 1 | As enacted; effective 2003-07-01 |
+| `session-2003-rs-act-0929/` | Louisiana 2003 Regular Session, Act 929 (HB831), as enacted | 1 | As enacted; effective 2003-07-01 |
+| `session-2003-rs-act-0930/` | Louisiana 2003 Regular Session, Act 930 (HB843), as enacted | 1 | As enacted; effective 2003-07-01 |
+| `session-2003-rs-act-0948/` | Louisiana 2003 Regular Session, Act 948 (HB1261), as enacted | 1 | As enacted; effective 2003-07-01 |
+| `session-2003-rs-act-0951/` | Louisiana 2003 Regular Session, Act 951 (HB1290), as enacted | 1 | As enacted; effective 2003-07-01 |
+| `session-2003-rs-act-0971/` | Louisiana 2003 Regular Session, Act 971 (HB1742), as enacted | 1 | As enacted; effective 2003-07-01 |
+| `session-2003-rs-act-0975/` | Louisiana 2003 Regular Session, Act 975 (HB1792), as enacted | 1 | As enacted; effective 2003-07-01 |
+| `session-2003-rs-act-1029/` | Louisiana 2003 Regular Session, Act 1029 (HB593), as enacted | 1 | As enacted; effective 2003-08-15 |
+| `session-2003-rs-act-1056/` | Louisiana 2003 Regular Session, Act 1056 (HB1055), as enacted | 1 | As enacted; effective 2003-08-15 |
+| `session-2003-rs-act-1113/` | Louisiana 2003 Regular Session, Act 1113 (HB1567), as enacted | 1 | As enacted; effective 2003-07-02 |
+| `session-2003-rs-act-1126/` | Louisiana 2003 Regular Session, Act 1126 (HB1726), as enacted | 1 | As enacted; effective 2003-07-02 |
+| `session-2003-rs-act-1152/` | Louisiana 2003 Regular Session, Act 1152 (HB1909), as enacted | 1 | As enacted; effective 2003-07-02 |
+| `session-2003-rs-act-1165/` | Louisiana 2003 Regular Session, Act 1165 (HB2010), as enacted | 1 | As enacted; effective 2003-07-02 |
+
