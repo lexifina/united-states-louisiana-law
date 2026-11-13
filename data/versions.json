@@ -11838,6 +11838,134 @@
      "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
     }
    ]
+  },
+  {
+   "slug": "session-2001-rs-act-0001",
+   "short": "La. Act 1 (2001 Regular Session)",
+   "title": "Louisiana 2001 Regular Session, Act 1 (HB1794), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=45726",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2001-04-19",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=4650",
+     "sha256": "982b0c40dd937a7f568e3d4175edbccdc205b4c3959479fa64f9d92f5a9fb2cd",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2001-rs-act-0002",
+   "short": "La. Act 2 (2001 Regular Session)",
+   "title": "Louisiana 2001 Regular Session, Act 2 (HB2009), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=46734",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2001-05-03",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=5191",
+     "sha256": "9949ff0f7c1b6109e625530ed5cd946134abebb127da0d94de23a788181891fd",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2001-rs-act-0016",
+   "short": "La. Act 16 (2001 Regular Session)",
+   "title": "Louisiana 2001 Regular Session, Act 16 (HB1297), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=44645",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2001-05-17",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=3484",
+     "sha256": "64bf2e373aa3daf23aacb27438ad30e833ea90d0eb17321caaebc9e79dd0efe3",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2001-rs-act-0032",
+   "short": "La. Act 32 (2001 Regular Session)",
+   "title": "Louisiana 2001 Regular Session, Act 32 (HB1808), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=45883",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2001-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=4688",
+     "sha256": "007045a8fcdb76c3baa59c7858cf4067060ccadb3a4f71cc4359250b4e7fa543",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2001-rs-act-0035",
+   "short": "La. Act 35 (2001 Regular Session)",
+   "title": "Louisiana 2001 Regular Session, Act 35 (HB135), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=42136",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2001-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=3618",
+     "sha256": "572cf8ad440c5e3bd2f33c5a1643e5217ea95ab55ebc4795e4ca62666f5c355a",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2001-rs-act-0043",
+   "short": "La. Act 43 (2001 Regular Session)",
+   "title": "Louisiana 2001 Regular Session, Act 43 (HB216), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=42287",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2001-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=5390",
+     "sha256": "f5e6017d562dfce70abd0914edf1492978d7da6f238efa554e2aac2cb6de29a5",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2001-rs-act-0052",
+   "short": "La. Act 52 (2001 Regular Session)",
+   "title": "Louisiana 2001 Regular Session, Act 52 (HB333), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=42846",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2001-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=5676",
+     "sha256": "d79cba3a639a32f688735893d35a08a0860da5ccda5ea70e1efd40df7a307cdd",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2001-rs-act-0066",
+   "short": "La. Act 66 (2001 Regular Session)",
+   "title": "Louisiana 2001 Regular Session, Act 66 (HB859), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=43943",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2001-09-30",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=6912",
+     "sha256": "97058b5c8cb63238fc4853cb5fed8b0d4f0e133041359c8fa931e414b9fabfc5",
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
   }
  ]
 }
