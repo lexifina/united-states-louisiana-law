@@ -494,3 +494,30 @@ These are session laws, including amending and one-time acts; they are not prior
 | `session-2005-rs-act-0413/` | Louisiana 2005 Regular Session, Act 413 (HB132), as enacted | 1 | As enacted; effective 2005-07-11 |
 | `session-2005-rs-act-0453/` | Louisiana 2005 Regular Session, Act 453 (HB715), as enacted | 1 | As enacted; effective 2008-07-01 |
 
+## Historical session laws: 2006 Regular Session
+
+This append adds 18 as-enacted acts of the 2006 Regular Session, each as one complete enrolled document. The text is published by the Louisiana State Legislature. Effective dates come from its session effective-date table; the records retain the source document headers and signature labels. Each historical record is added as a labelled correction, without replacing the earlier published commits. The editorial correction commits are authored by Lexifina; the law text comes from the Legislature.
+
+These are session laws, including amending and one-time acts; they are not prior consolidated editions of the codes. Records with unresolved commencement, unavailable enrolled text, graphical content, or conflicting text extraction are excluded. Earlier consolidated code editions and the other legislative sessions remain outside this historical addition.
+
+| Folder | Act | Versions | History |
+| --- | --- | ---: | --- |
+| `session-2006-rs-act-0001/` | Louisiana 2006 Regular Session, Act 1 (HB1127), as enacted | 1 | As enacted; effective 2006-04-21 |
+| `session-2006-rs-act-0003/` | Louisiana 2006 Regular Session, Act 3 (HB333), as enacted | 1 | As enacted; effective 2006-08-15 |
+| `session-2006-rs-act-0005/` | Louisiana 2006 Regular Session, Act 5 (HB465), as enacted | 1 | As enacted; effective 2006-08-15 |
+| `session-2006-rs-act-0015/` | Louisiana 2006 Regular Session, Act 15 (HB533), as enacted | 1 | As enacted; effective 2006-05-04 |
+| `session-2006-rs-act-0027/` | Louisiana 2006 Regular Session, Act 27 (HB2), as enacted | 1 | As enacted; effective 2006-07-11 |
+| `session-2006-rs-act-0037/` | Louisiana 2006 Regular Session, Act 37 (HB3), as enacted | 1 | As enacted; effective 2006-07-10 |
+| `session-2006-rs-act-0047/` | Louisiana 2006 Regular Session, Act 47 (HB277), as enacted | 1 | As enacted; effective 2006-07-01 |
+| `session-2006-rs-act-0057/` | Louisiana 2006 Regular Session, Act 57 (HB1209), as enacted | 1 | As enacted; effective 2006-07-01 |
+| `session-2006-rs-act-0063/` | Louisiana 2006 Regular Session, Act 63 (HB856), as enacted | 1 | As enacted; effective 2006-08-15 |
+| `session-2006-rs-act-0067/` | Louisiana 2006 Regular Session, Act 67 (HB1244), as enacted | 1 | As enacted; effective 2006-07-01 |
+| `session-2006-rs-act-0100/` | Louisiana 2006 Regular Session, Act 100 (HB1080), as enacted | 1 | As enacted; effective 2006-08-15 |
+| `session-2006-rs-act-0146/` | Louisiana 2006 Regular Session, Act 146 (HB112), as enacted | 1 | As enacted; effective 2006-06-02 |
+| `session-2006-rs-act-0156/` | Louisiana 2006 Regular Session, Act 156 (HB213), as enacted | 1 | As enacted; effective 2006-06-02 |
+| `session-2006-rs-act-0159/` | Louisiana 2006 Regular Session, Act 159 (HB224), as enacted | 1 | As enacted; effective 2006-06-02 |
+| `session-2006-rs-act-0160/` | Louisiana 2006 Regular Session, Act 160 (HB227), as enacted | 1 | As enacted; effective 2006-06-02 |
+| `session-2006-rs-act-0184/` | Louisiana 2006 Regular Session, Act 184 (HB521), as enacted | 1 | As enacted; effective 2006-08-15 |
+| `session-2006-rs-act-0219/` | Louisiana 2006 Regular Session, Act 219 (HB1006), as enacted | 1 | As enacted; effective 2006-06-02 |
+| `session-2006-rs-act-0226/` | Louisiana 2006 Regular Session, Act 226 (HB1135), as enacted | 1 | As enacted; effective 2006-06-02 |
+
