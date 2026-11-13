@@ -12999,6 +12999,873 @@
      "source_images": 0
     }
    ]
+  },
+  {
+   "slug": "session-2003-rs-act-0025",
+   "short": "La. Act 25 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 25 (HB495), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49517",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-05-23",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=185866",
+     "sha256": "4de9b4b171fe02b873a7486d386f9d8e70697a8369a8cd7a55d713851b5ba0b7",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0030",
+   "short": "La. Act 30 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 30 (HB606), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49665",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-05-23",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=186127",
+     "sha256": "7c540c90483751fb7b91a7ae2d0b5c2973b9a40b36a12c52aa86658c798a2a8c",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0031",
+   "short": "La. Act 31 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 31 (HB607), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49666",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-05-23",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=186131",
+     "sha256": "266336254cef2a8e4e0cfdec5fa70757ac6a520696fd7c69146035b1571ab0d7",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0024",
+   "short": "La. Act 24 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 24 (HB2), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=51892",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-07-11",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=185064",
+     "sha256": "37e74004d2b7b6182e28803dcbff15b0fb02855e126a93e9659f06e744b927f9",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0012",
+   "short": "La. Act 12 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 12 (HB11), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48900",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=182938",
+     "sha256": "cc3d8d54a515f95ff70419218098092897f1cbf3b2350b47acf47e13d1c93756",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0016",
+   "short": "La. Act 16 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 16 (HB125), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49061",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=183287",
+     "sha256": "8587ce8d9e3f998cadf42c39cc6e989d86097c6b6e2dce3cbee3f980892793a6",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0018",
+   "short": "La. Act 18 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 18 (HB242), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49188",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=185290",
+     "sha256": "3058b2efd500c4abe1acc65da7f25fa633f5a8eeab2f4e8e902e7bfa59f28dac",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0020",
+   "short": "La. Act 20 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 20 (HB287), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49234",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=185396",
+     "sha256": "976987afb41099a627725bbb08d330a866a4b02409ad6519be84e9f1371774ba",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0023",
+   "short": "La. Act 23 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 23 (HB407), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49429",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2004-01-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=185669",
+     "sha256": "954da0441f21e36504fef8bb7181f86fa2ac07ec1dfc54ff2962b2ac8a4925da",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0032",
+   "short": "La. Act 32 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 32 (HB739), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49872",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-05-23",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=186426",
+     "sha256": "9ea0277e1791388094ae92d070003666960b911052f487db3acee77ed80eea59",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0033",
+   "short": "La. Act 33 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 33 (HB806), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49940",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-05-23",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=186580",
+     "sha256": "81c7db08cdeb06f881b9f38ddf7e2cb625f7460b4b0401fa915463ec1324721b",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0041",
+   "short": "La. Act 41 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 41 (HB970), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=50210",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-05-23",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=186982",
+     "sha256": "fa392c4166cb2a24c19820344e3d34d6ce82eb1076c4aa8daf6a5ec675752dfd",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0095",
+   "short": "La. Act 95 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 95 (HB608), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49667",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-05-28",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=186134",
+     "sha256": "d251b17d6278d3ddd1b1e3f3117ad4c2095a0c40afb208d884613de6b333ba0b",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0096",
+   "short": "La. Act 96 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 96 (HB609), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49668",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-05-28",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=186137",
+     "sha256": "7c0326150abfdd821c022c27d2dc3f713a29a969f656df7a0c257e916799db6d",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0102",
+   "short": "La. Act 102 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 102 (HB826), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49960",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-05-28",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=186625",
+     "sha256": "8130e0231c6b276830bbf580e134b1771b564ea080c507853763d68a81780f1a",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0146",
+   "short": "La. Act 146 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 146 (HB1917), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=52254",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-05-28",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=184890",
+     "sha256": "f5487c4b6f8a742a542b7dca276f703d35d01ed022178bb0903eb498b6057d9e",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0064",
+   "short": "La. Act 64 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 64 (HB1875), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=52212",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=184787",
+     "sha256": "df55c9471081695ca939257f9e68a8a70086fa431da9f474a5fcaf6da8b80341",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0034",
+   "short": "La. Act 34 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 34 (HB3), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=51893",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-07-02",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=185424",
+     "sha256": "a4e855197c017f40d6d4d692b3989de265b3366b39e087fc64ec93a87256269c",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0045",
+   "short": "La. Act 45 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 45 (HB1168), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=50548",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=183102",
+     "sha256": "1c0f7b92bd3aa6a61af7b6712ce486d5f0e9ef7e709a469cb320651564c21d42",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0075",
+   "short": "La. Act 75 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 75 (HB23), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48913",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=185254",
+     "sha256": "71a98998d6642dadaa9e19317dd4eb7cc1420bf364c6b7993f6a7f946db12fbd",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0079",
+   "short": "La. Act 79 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 79 (HB44), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48934",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=185739",
+     "sha256": "73815d9dfeda94f81023f221b3c77d7d8a05b99a01b0f5cb940589c075a8178a",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0083",
+   "short": "La. Act 83 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 83 (HB130), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49080",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=183410",
+     "sha256": "a6e6d7ba8c41e3b22adff951b3ff41ff12bec20da5be1ba90ae3bcd6399432ab",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0106",
+   "short": "La. Act 106 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 106 (HB940), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=50181",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=186898",
+     "sha256": "82fb3062b60ba0b33dce3bffb97f23f43ce58bde4039906363523d163252598d",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0161",
+   "short": "La. Act 161 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 161 (HB757), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49890",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=186467",
+     "sha256": "5e7b9154e571d63bff70de4a6ce6fec6ba2d162f2bea873c0673483a527ae717",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0270",
+   "short": "La. Act 270 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 270 (HB610), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49669",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-06-10",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=186143",
+     "sha256": "b5d770cce66de77f6ac5e22667d344396755a5aceae97ffee36d66fcd6b754ac",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0355",
+   "short": "La. Act 355 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 355 (HB95), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49014",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-06-18",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=186924",
+     "sha256": "adbb6aba04525b596a4b5f4ac270ed7b17a9185ce3295108ae09b53f6275908d",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0360",
+   "short": "La. Act 360 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 360 (HB163), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49101",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-06-18",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=184180",
+     "sha256": "815aed875ecdd9aaefa5f7ae67585f3051b590d871d855b1e061b5516bbfd198",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0419",
+   "short": "La. Act 419 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 419 (HB786), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49918",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-06-18",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=186531",
+     "sha256": "d175347d646e54bc6d93077049dfd2facee3adcbe8ba295f1d6df9c84f7bd22d",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0432",
+   "short": "La. Act 432 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 432 (HB1968), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=52321",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-06-18",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=185000",
+     "sha256": "752a81c478312c12f735242b95ba1966b7fd0f0e3270c8a2d90c3ed04a71d8fa",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0324",
+   "short": "La. Act 324 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 324 (HB562), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49586",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=186019",
+     "sha256": "562baa2e19a6dd6042b9ca8e42189da4b6657992d7a11442697aaa1f7e6f52f8",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0390",
+   "short": "La. Act 390 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 390 (HB29), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48919",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=185403",
+     "sha256": "5a95eae50d7b9951e62c7e0b61d26715770f6bbde6a031d2022266e44f8b8768",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0421",
+   "short": "La. Act 421 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 421 (HB1039), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=50303",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=182788",
+     "sha256": "f65bfb345013108f3f3e7abdc9e8939474c0633380cca5c3335cc3e522950576",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0579",
+   "short": "La. Act 579 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 579 (HB381), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49376",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-06-27",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=185612",
+     "sha256": "6119b9016fecc6a1d2a859f7299be5a12f13fb9c2d28cf52daf0f96125dbeb3e",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0616",
+   "short": "La. Act 616 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 616 (HB301), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49275",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=185432",
+     "sha256": "7615ef5708e7445eb61e39ee3d2d6aae18e6b3fdf53c944db93e23fadfeaa7f8",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0638",
+   "short": "La. Act 638 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 638 (HB514), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49538",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=185906",
+     "sha256": "9978404f5a8270e63eb5768a004975269d64a2afb8c377390a4c95c1f234e79b",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0673",
+   "short": "La. Act 673 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 673 (HB1826), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=52134",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=184656",
+     "sha256": "8415bbee27430ed44cbda2e55c5048108a8ce34ca63da047a98616d0286e6e72",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0700",
+   "short": "La. Act 700 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 700 (HB1049), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=50314",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=182812",
+     "sha256": "2f284a36c257183ccae4291840daed1b01c7377c6f8d25c7fbeca1dfc1cd4ae6",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0712",
+   "short": "La. Act 712 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 712 (HB1339), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=50992",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=183505",
+     "sha256": "3b730b14b5a0a2caee63d19948c9c5fd812c95e77acbe33d2ee2fa5d172f69cd",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0911",
+   "short": "La. Act 911 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 911 (HB79), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=48990",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=186541",
+     "sha256": "8ed0a2981fba068b002e87615147378aaac270c6d773265eec8333f9c374d205",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0929",
+   "short": "La. Act 929 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 929 (HB831), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49965",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=186639",
+     "sha256": "d28466f895fe088dff23760a58cddd1ed863a80f5fd660f5b75291c91091b91c",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0930",
+   "short": "La. Act 930 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 930 (HB843), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49977",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=186660",
+     "sha256": "915542cb579b583cd1677347aa4550ad5c040550d9ab7fee976fbdf0dc7097c0",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0948",
+   "short": "La. Act 948 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 948 (HB1261), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=50825",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=183310",
+     "sha256": "50f9fcdb2c13a391f29576008c79e5a6d0fc2b2383e9ec85712478798e08ac43",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0951",
+   "short": "La. Act 951 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 951 (HB1290), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=50855",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=183382",
+     "sha256": "24968df428ea1b05a3cb196a797759136cc829ba1aaae6901a183cde079b1785",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0971",
+   "short": "La. Act 971 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 971 (HB1742), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=51476",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=184438",
+     "sha256": "085956da0036c13ac146b568bed631ed76b0e03efa655a10450440be446e08da",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-0975",
+   "short": "La. Act 975 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 975 (HB1792), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=52040",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=184562",
+     "sha256": "c906cafe91d3d70b7f58d5c94e2394eba2611464efc4928142ef4c25b8e81f79",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-1113",
+   "short": "La. Act 1113 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 1113 (HB1567), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=51165",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-07-02",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=184043",
+     "sha256": "e516cada02c79d6a5a24ff9b765979d695beae4ae59e0723388ffcb05e19fc26",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-1126",
+   "short": "La. Act 1126 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 1126 (HB1726), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=51450",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-07-02",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=184401",
+     "sha256": "e8ba7529d42ab62050de96e43105dec57298176e54428da8d0cc88e2e634f507",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-1152",
+   "short": "La. Act 1152 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 1152 (HB1909), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=52246",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-07-02",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=184873",
+     "sha256": "3aac1f051bb763479acd49cc8a1b48c2978d803b14a8c90a456954314e4589f2",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-1165",
+   "short": "La. Act 1165 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 1165 (HB2010), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=52454",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-07-02",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=185109",
+     "sha256": "64ce8e82b54e897286e0c3f76274d84c0f5da6c12653905fa0338e15ae500d88",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-1029",
+   "short": "La. Act 1029 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 1029 (HB593), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=49617",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=186094",
+     "sha256": "4c433cf26f4a2382213b614a7b7bbdfb69c64888c953db11d3394100266c26d5",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
+  },
+  {
+   "slug": "session-2003-rs-act-1056",
+   "short": "La. Act 1056 (2003 Regular Session)",
+   "title": "Louisiana 2003 Regular Session, Act 1056 (HB1055), as enacted",
+   "url": "https://legis.la.gov/legis/BillInfo.aspx?i=50441",
+   "history_type": "as enacted",
+   "versions": [
+    {
+     "from": "2003-08-15",
+     "units": 1,
+     "source_url": "https://legis.la.gov/legis/ViewDocument.aspx?d=182832",
+     "sha256": "9126edd0280349444f997bd170db3c9bb0dc5de0c0159151b52121a780254285",
+     "source_images": 0,
+     "note": "Complete enrolled session-law text, as enacted; not a consolidated code edition."
+    }
+   ]
   }
  ]
 }
